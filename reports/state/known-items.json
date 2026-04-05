@@ -1,6 +1,7 @@
 {
-  "schema_version": 1,
+  "schema_version": 3,
   "last_updated": "2026-04-05",
+  "last_biweekly": "",
   "items": {
     "device_meta_rayban_prescription_glasses_499": {
       "title": "Meta Ray-Ban処方箋対応スマートグラス発売 $499〜",
@@ -169,6 +170,46 @@
       "first_reported": "2026-04-05",
       "last_seen": "2026-04-05",
       "category": "market"
+    },
+    "device_nothing_ai_glasses_2027": {
+      "title": "Nothing Technology AIスマートグラス2027年前半発売計画 Carl Pei方針転換",
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/04/01/nothings-ai-devices-plan-reportedly-contains-smart-glasses-and-earbuds/",
+      "first_reported": "2026-04-05",
+      "last_seen": "2026-04-05",
+      "category": "device"
+    },
+    "partnership_snap_specs_inc_subsidiary": {
+      "title": "Snap ARグラス事業を子会社Specs Inc.として独立 ~100名採用",
+      "source_name": "Snap Newsroom",
+      "source_url": "https://newsroom.snap.com/launch-specs-2026",
+      "first_reported": "2026-04-05",
+      "last_seen": "2026-04-05",
+      "category": "partnership"
+    },
+    "sdk_qualcomm_ar1plus_gen1_ondevice_ai": {
+      "title": "Qualcomm AR1+ Gen 1チップ 28%小型化 オンデバイスAI Llama 1B対応",
+      "source_name": "Engadget",
+      "source_url": "https://www.engadget.com/wearables/qualcomm-says-its-new-ar1-gen-1-chip-can-handle-ai-directly-on-smart-glasses-163002410.html",
+      "first_reported": "2026-04-05",
+      "last_seen": "2026-04-05",
+      "category": "sdk"
+    },
+    "device_samsung_dual_models_sm_o200": {
+      "title": "Samsung Galaxy Glasses 2モデル開発 SM-O200P/J 12MP AF 155mAh",
+      "source_name": "VR/AR Association",
+      "source_url": "https://www.thevrara.com/blog/2026/2/9/samsung-confirms-android-xr-smart-glasses-are-coming-in-2026-and-vrara-member-qualcomm-is-building-the-silicon-behind-the-revolution",
+      "first_reported": "2026-04-05",
+      "last_seen": "2026-04-05",
+      "category": "device"
+    },
+    "device_apple_m5_vision_pro_minimal_impact": {
+      "title": "Apple Vision Pro M5版 販売インパクト最小との報告",
+      "source_name": "9to5Mac",
+      "source_url": "https://9to5mac.com/2026/01/02/m5-vision-pro-launch-likely-made-minimal-sales-impact-report/",
+      "first_reported": "2026-04-05",
+      "last_seen": "2026-04-05",
+      "category": "device"
     }
   }
 }

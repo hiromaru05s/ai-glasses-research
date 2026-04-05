@@ -1,7 +1,0 @@
-{
-  "Name": "glass-market-daily-schedule",
-  "Description": "毎朝7:00 JSTにAIグラス市場シンクタンクの日次調査を実行",
-  "ScheduleExpression": "cron(0 22 * * ? *)",
-  "State": "ENABLED",
-  "_comment": "cron(0 22 * * ? *) = 毎日22:00 UTC = 翌07:00 JST"
-}
