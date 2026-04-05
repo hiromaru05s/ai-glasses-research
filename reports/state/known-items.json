@@ -1,0 +1,174 @@
+{
+  "schema_version": 1,
+  "last_updated": "2026-04-05",
+  "items": {
+    "device_meta_rayban_prescription_glasses_499": {
+      "title": "Meta Ray-Ban処方箋対応スマートグラス発売 $499〜",
+      "url": "https://glassalmanac.com/5-smart-glasses-bets-in-2026-that-could-change-how-you-see-tech/",
+      "first_reported": "2026-04-05",
+      "last_seen": "2026-04-05",
+      "category": "device"
+    },
+    "device_meta_rayban_display_international_delay": {
+      "title": "Meta Ray-Ban Display海外展開を無期限延期",
+      "url": "https://www.androidcentral.com/apps-software/meta/meta-ray-ban-display-updates-ces-2026",
+      "first_reported": "2026-04-05",
+      "last_seen": "2026-04-05",
+      "category": "device"
+    },
+    "device_meta_facial_recognition_plan": {
+      "title": "Metaスマートグラス顔認識機能追加計画",
+      "url": "https://x.com/adafruit/status/2022719923487936709",
+      "first_reported": "2026-04-05",
+      "last_seen": "2026-04-05",
+      "category": "device"
+    },
+    "partnership_meta_limitless_acquisition": {
+      "title": "Meta Limitless社買収完了",
+      "url": "https://www.businesswire.com/news/home/20260113778367/en/",
+      "first_reported": "2026-04-05",
+      "last_seen": "2026-04-05",
+      "category": "partnership"
+    },
+    "device_google_two_ai_glasses_2026": {
+      "title": "Google 2種類AIグラス2026年発売確定 Warby Parker/Samsung",
+      "url": "https://blog.google/products-and-platforms/platforms/android/android-xr-gemini-glasses-headsets/",
+      "first_reported": "2026-04-05",
+      "last_seen": "2026-04-05",
+      "category": "device"
+    },
+    "sdk_android_xr_dp3_glasses": {
+      "title": "Android XR SDK Developer Preview 3 グラス向け開発解禁",
+      "url": "https://android-developers.googleblog.com/2025/05/updates-to-android-xr-sdk-developer-preview.html",
+      "first_reported": "2026-04-05",
+      "last_seen": "2026-04-05",
+      "category": "sdk"
+    },
+    "sdk_android_xr_security_bulletin_march2026": {
+      "title": "Android XR Security Bulletin March 2026",
+      "url": "https://source.android.com/docs/security/bulletin/xr/2026/2026-03-01",
+      "first_reported": "2026-04-05",
+      "last_seen": "2026-04-05",
+      "category": "sdk"
+    },
+    "sdk_jetpack_compose_glimmer": {
+      "title": "Jetpack Compose Glimmer 透過ディスプレイUI",
+      "url": "https://developer.android.com/develop/xr",
+      "first_reported": "2026-04-05",
+      "last_seen": "2026-04-05",
+      "category": "sdk"
+    },
+    "sdk_jetpack_projected": {
+      "title": "Jetpack Projected モバイルアプリをグラスに拡張",
+      "url": "https://developer.android.com/develop/xr",
+      "first_reported": "2026-04-05",
+      "last_seen": "2026-04-05",
+      "category": "sdk"
+    },
+    "sdk_arcore_geospatial_xr": {
+      "title": "ARCore for Jetpack XR Geospatial機能追加",
+      "url": "https://developer.android.com/develop/xr",
+      "first_reported": "2026-04-05",
+      "last_seen": "2026-04-05",
+      "category": "sdk"
+    },
+    "device_samsung_galaxy_glasses_2026_confirmed": {
+      "title": "Samsung Galaxy Glasses 2026年内発売確定 決算発表",
+      "url": "https://www.tomsguide.com/computing/smart-glasses/samsung-just-confirmed-its-android-xr-smart-glasses-will-launch-this-year-heres-how-they-can-beat-ray-ban-meta",
+      "first_reported": "2026-04-05",
+      "last_seen": "2026-04-05",
+      "category": "device"
+    },
+    "device_samsung_galaxy_glasses_245mah_leak": {
+      "title": "Samsung Galaxy Glasses 245mAhバッテリーリーク",
+      "url": "https://9to5google.com/2026/03/16/samsung-galaxy-glasses-android-xr-battery-leak/",
+      "first_reported": "2026-04-05",
+      "last_seen": "2026-04-05",
+      "category": "device"
+    },
+    "partnership_samsung_gentle_monster_warby_parker": {
+      "title": "Samsung Gentle Monster/Warby Parkerコラボ確定",
+      "url": "https://www.tomsguide.com/computing/smart-glasses/samsung-just-confirmed-its-android-xr-smart-glasses-will-launch-this-year-heres-how-they-can-beat-ray-ban-meta",
+      "first_reported": "2026-04-05",
+      "last_seen": "2026-04-05",
+      "category": "partnership"
+    },
+    "device_apple_visionos_264": {
+      "title": "visionOS 26.4リリース フォヴィエイテッドストリーミング対応",
+      "url": "https://9to5mac.com/2026/03/24/visionos-26-4-arrives-for-apple-vision-pro-heres-whats-new/",
+      "first_reported": "2026-04-05",
+      "last_seen": "2026-04-05",
+      "category": "sdk"
+    },
+    "device_snap_os2_spectacles": {
+      "title": "Snap OS 2.0リリース 次世代Spectaclesテザーなし",
+      "url": "https://www.tomsguide.com/computing/smart-glasses/snap-os-is-finally-ready-for-snap-specs-in-2026-i-just-tested-the-game-changing-update",
+      "first_reported": "2026-04-05",
+      "last_seen": "2026-04-05",
+      "category": "device"
+    },
+    "device_xreal_asus_rog_240hz": {
+      "title": "XREAL×ASUS ROG 240Hzディスプレイ搭載グラス",
+      "url": "https://www.geeky-gadgets.com/best-smart-glasses-2026-compared/",
+      "first_reported": "2026-04-05",
+      "last_seen": "2026-04-05",
+      "category": "device"
+    },
+    "partnership_xreal_google_multiyear": {
+      "title": "XREAL×Google複数年コラボ Android XR初サードパーティ",
+      "url": "https://www.geeky-gadgets.com/best-smart-glasses-2026-compared/",
+      "first_reported": "2026-04-05",
+      "last_seen": "2026-04-05",
+      "category": "partnership"
+    },
+    "market_xreal_100m_funding": {
+      "title": "XREAL $100M資金調達",
+      "url": "https://www.geeky-gadgets.com/best-smart-glasses-2026-compared/",
+      "first_reported": "2026-04-05",
+      "last_seen": "2026-04-05",
+      "category": "market"
+    },
+    "device_xreal_1s_449": {
+      "title": "XREAL 1S発売 $449 1200p/eye 52FOV",
+      "url": "https://www.geeky-gadgets.com/best-smart-glasses-2026-compared/",
+      "first_reported": "2026-04-05",
+      "last_seen": "2026-04-05",
+      "category": "device"
+    },
+    "device_rokid_chatgpt5": {
+      "title": "Rokid ChatGPT 5統合 12MPカメラ リアルタイム翻訳",
+      "url": "",
+      "first_reported": "2026-04-05",
+      "last_seen": "2026-04-05",
+      "category": "device"
+    },
+    "device_alibaba_quark_s1": {
+      "title": "Alibaba Quark S1 AIグラス発表 Snapdragon XR",
+      "url": "https://www.xrtoday.com/augmented-reality/alibaba-quark-smart-glasses/",
+      "first_reported": "2026-04-05",
+      "last_seen": "2026-04-05",
+      "category": "device"
+    },
+    "market_sag_4x_growth_2026": {
+      "title": "SAG予測 AIスマートグラス2026年4倍成長 600万→2000万台",
+      "url": "https://www.businesswire.com/news/home/20260113778367/en/",
+      "first_reported": "2026-04-05",
+      "last_seen": "2026-04-05",
+      "category": "market"
+    },
+    "market_meta_10m_annual_production_2026": {
+      "title": "Meta Ray-Ban年産1000万台体制 2026年末目標",
+      "url": "https://www.businesswire.com/news/home/20260113778367/en/",
+      "first_reported": "2026-04-05",
+      "last_seen": "2026-04-05",
+      "category": "market"
+    },
+    "market_bof_breakthrough_year_2026": {
+      "title": "BoF State of Fashion 2026 スマートグラスをブレークスルー年",
+      "url": "https://www.businessoffashion.com/articles/technology/the-state-of-fashion-2026-report-smart-glasses-ai-wearables/",
+      "first_reported": "2026-04-05",
+      "last_seen": "2026-04-05",
+      "category": "market"
+    }
+  }
+}
