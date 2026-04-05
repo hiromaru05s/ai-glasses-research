@@ -210,6 +210,46 @@
       "first_reported": "2026-04-05",
       "last_seen": "2026-04-05",
       "category": "device"
+    },
+    "sdk_meta_nutrition_tracking": {
+      "title": "Meta AI栄養トラッキング機能 音声/写真でハンズフリー食事ログ",
+      "source_name": "UploadVR",
+      "source_url": "https://www.uploadvr.com/meta-glasses-spring-summer-2026-software-updates/",
+      "first_reported": "2026-04-05",
+      "last_seen": "2026-04-05",
+      "category": "sdk"
+    },
+    "sdk_meta_whatsapp_summaries_recall_eap": {
+      "title": "Meta WhatsAppハンズフリーサマリー・リコール機能 (EAP)",
+      "source_name": "UploadVR",
+      "source_url": "https://www.uploadvr.com/meta-glasses-spring-summer-2026-software-updates/",
+      "first_reported": "2026-04-05",
+      "last_seen": "2026-04-05",
+      "category": "sdk"
+    },
+    "sdk_meta_neural_handwriting_imessage_rollout": {
+      "title": "Meta Neural Handwriting iMessage対応・全ユーザー展開",
+      "source_name": "Meta Blog",
+      "source_url": "https://www.meta.com/blog/ray-ban-meta-styles-prescription-lenses/",
+      "first_reported": "2026-04-05",
+      "last_seen": "2026-04-05",
+      "category": "sdk"
+    },
+    "device_meta_rayban_gen2_spring_colors": {
+      "title": "Meta Ray-Ban Gen 2 春夏2026新カラー Skyler/Headliner/Wayfarer",
+      "source_name": "Meta Blog",
+      "source_url": "https://www.meta.com/blog/ray-ban-meta-styles-prescription-lenses/",
+      "first_reported": "2026-04-05",
+      "last_seen": "2026-04-05",
+      "category": "device"
+    },
+    "device_samsung_galaxy_glasses_no_display_50g_tether": {
+      "title": "Samsung Galaxy Glasses ディスプレイ非搭載・50g・スマホテザリング確定",
+      "source_name": "Wareable / CNBC",
+      "source_url": "https://www.wareable.com/wearable-tech/samsungs-smart-galaxy-glasses-camera-phone-tether-ar-display-confirmation",
+      "first_reported": "2026-04-05",
+      "last_seen": "2026-04-05",
+      "category": "device"
     }
   }
 }
