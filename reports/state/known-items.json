@@ -1,13 +1,13 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-04-05",
+  "last_updated": "2026-04-06",
   "last_biweekly": "2026-04-06",
   "items": {
     "device_meta_rayban_prescription_glasses_499": {
       "title": "Meta Ray-Ban処方箋対応スマートグラス発売 $499〜",
       "url": "https://glassalmanac.com/5-smart-glasses-bets-in-2026-that-could-change-how-you-see-tech/",
       "first_reported": "2026-04-05",
-      "last_seen": "2026-04-05",
+      "last_seen": "2026-04-06",
       "category": "device"
     },
     "device_meta_rayban_display_international_delay": {
@@ -77,7 +77,7 @@
       "title": "Samsung Galaxy Glasses 2026年内発売確定 決算発表",
       "url": "https://www.tomsguide.com/computing/smart-glasses/samsung-just-confirmed-its-android-xr-smart-glasses-will-launch-this-year-heres-how-they-can-beat-ray-ban-meta",
       "first_reported": "2026-04-05",
-      "last_seen": "2026-04-05",
+      "last_seen": "2026-04-06",
       "category": "device"
     },
     "device_samsung_galaxy_glasses_245mah_leak": {
@@ -105,7 +105,7 @@
       "title": "Snap OS 2.0リリース 次世代Spectaclesテザーなし",
       "url": "https://www.tomsguide.com/computing/smart-glasses/snap-os-is-finally-ready-for-snap-specs-in-2026-i-just-tested-the-game-changing-update",
       "first_reported": "2026-04-05",
-      "last_seen": "2026-04-05",
+      "last_seen": "2026-04-06",
       "category": "device"
     },
     "device_xreal_asus_rog_240hz": {
@@ -154,7 +154,7 @@
       "title": "SAG予測 AIスマートグラス2026年4倍成長 600万→2000万台",
       "url": "https://www.businesswire.com/news/home/20260113778367/en/",
       "first_reported": "2026-04-05",
-      "last_seen": "2026-04-05",
+      "last_seen": "2026-04-06",
       "category": "market"
     },
     "market_meta_10m_annual_production_2026": {
@@ -176,7 +176,7 @@
       "source_name": "TechCrunch",
       "source_url": "https://techcrunch.com/2026/04/01/nothings-ai-devices-plan-reportedly-contains-smart-glasses-and-earbuds/",
       "first_reported": "2026-04-05",
-      "last_seen": "2026-04-05",
+      "last_seen": "2026-04-06",
       "category": "device"
     },
     "partnership_snap_specs_inc_subsidiary": {
@@ -250,6 +250,30 @@
       "first_reported": "2026-04-05",
       "last_seen": "2026-04-05",
       "category": "device"
+    },
+    "device_snap_specs_consumer_openai_gemini": {
+      "title": "Snap Specs消費者版にOpenAI+Gemini AI双方を統合",
+      "source_name": "TechRadar",
+      "source_url": "https://www.techradar.com/computing/virtual-reality-augmented-reality/goodbye-spectacles-reimagined-snap-specs-now-set-to-launch-in-2026-with-a-ton-of-new-features-and-openai-and-gemini-integration",
+      "first_reported": "2026-04-06",
+      "last_seen": "2026-04-06",
+      "category": "device"
+    },
+    "market_2025_shipment_96m_meta_76pct": {
+      "title": "2025年スマートグラス出荷実績960万台 Meta市場シェア76.1%",
+      "source_name": "PetaPixel",
+      "source_url": "https://petapixel.com/2026/04/01/metas-two-new-smart-glasses-are-made-for-prescription-users/",
+      "first_reported": "2026-04-06",
+      "last_seen": "2026-04-06",
+      "category": "market"
+    },
+    "regulation_privacy_fears_prescription_scaling": {
+      "title": "スマートグラス処方箋普及に伴うプライバシー懸念激化",
+      "source_name": "Glass Almanac",
+      "source_url": "https://glassalmanac.com/billions-of-people-wear-glasses-or-contacts-sparks-new-data-fears-this-april-2026/",
+      "first_reported": "2026-04-06",
+      "last_seen": "2026-04-06",
+      "category": "regulation"
     }
   }
 }
