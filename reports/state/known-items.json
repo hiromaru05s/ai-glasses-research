@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-04-08",
+  "last_updated": "2026-04-09",
   "last_biweekly": "2026-04-06",
   "items": {
     "device_meta_rayban_prescription_glasses_499": {
@@ -8,7 +8,7 @@
       "source_name": "Meta Blog",
       "source_url": "https://about.fb.com/news/2026/03/meta-ai-glasses-built-for-prescriptions/",
       "first_reported": "2026-04-05",
-      "last_seen": "2026-04-08",
+      "last_seen": "2026-04-09",
       "category": "device"
     },
     "device_meta_rayban_display_international_delay": {
@@ -40,7 +40,7 @@
       "source_name": "Google Blog",
       "source_url": "https://blog.google/products-and-platforms/platforms/android/android-xr-gemini-glasses-headsets/",
       "first_reported": "2026-04-05",
-      "last_seen": "2026-04-08",
+      "last_seen": "2026-04-09",
       "category": "device"
     },
     "sdk_android_xr_dp3_glasses": {
@@ -88,7 +88,7 @@
       "source_name": "Tom's Guide",
       "source_url": "https://www.tomsguide.com/computing/smart-glasses/samsung-just-confirmed-its-android-xr-smart-glasses-will-launch-this-year-heres-how-they-can-beat-ray-ban-meta",
       "first_reported": "2026-04-05",
-      "last_seen": "2026-04-08",
+      "last_seen": "2026-04-09",
       "category": "device"
     },
     "device_samsung_galaxy_glasses_245mah_leak": {
@@ -112,7 +112,7 @@
       "source_name": "9to5Mac",
       "source_url": "https://9to5mac.com/2026/03/24/visionos-26-4-arrives-for-apple-vision-pro-heres-whats-new/",
       "first_reported": "2026-04-05",
-      "last_seen": "2026-04-08",
+      "last_seen": "2026-04-09",
       "category": "sdk"
     },
     "device_snap_os2_spectacles": {
@@ -338,6 +338,22 @@
       "first_reported": "2026-04-08",
       "last_seen": "2026-04-08",
       "category": "market"
+    },
+    "sdk_nvidia_cloudxr_60_visionos": {
+      "title": "NVIDIA CloudXR 6.0 visionOS 26.4正式対応 4K/120Hz イマーシブストリーミング",
+      "source_name": "AppleInsider",
+      "source_url": "https://appleinsider.com/articles/26/03/24/nvidia-cloudxr-is-now-available-for-apple-vision-pro-with-the-release-of-visionos-264",
+      "first_reported": "2026-04-09",
+      "last_seen": "2026-04-09",
+      "category": "sdk"
+    },
+    "device_xreal_project_aura_android_xr": {
+      "title": "XREAL Project Aura Android XR光学シースルーグラス 70°FOV 2026年発売",
+      "source_name": "XREAL公式",
+      "source_url": "https://www.xreal.com/us/blog/aura-25-tas-release-en",
+      "first_reported": "2026-04-09",
+      "last_seen": "2026-04-09",
+      "category": "device"
     }
   }
 }
