@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-04-12",
+  "last_updated": "2026-04-13",
   "last_biweekly": "2026-04-06",
   "items": {
     "device_meta_rayban_prescription_glasses_499": {
@@ -8,7 +8,7 @@
       "source_name": "Meta Blog",
       "source_url": "https://about.fb.com/news/2026/03/meta-ai-glasses-built-for-prescriptions/",
       "first_reported": "2026-04-05",
-      "last_seen": "2026-04-12",
+      "last_seen": "2026-04-13",
       "category": "device"
     },
     "device_meta_rayban_display_international_delay": {
@@ -40,7 +40,7 @@
       "source_name": "Google Blog",
       "source_url": "https://blog.google/products-and-platforms/platforms/android/android-xr-gemini-glasses-headsets/",
       "first_reported": "2026-04-05",
-      "last_seen": "2026-04-12",
+      "last_seen": "2026-04-13",
       "category": "device"
     },
     "sdk_android_xr_dp3_glasses": {
@@ -88,7 +88,7 @@
       "source_name": "Tom's Guide",
       "source_url": "https://www.tomsguide.com/computing/smart-glasses/samsung-just-confirmed-its-android-xr-smart-glasses-will-launch-this-year-heres-how-they-can-beat-ray-ban-meta",
       "first_reported": "2026-04-05",
-      "last_seen": "2026-04-12",
+      "last_seen": "2026-04-13",
       "category": "device"
     },
     "device_samsung_galaxy_glasses_245mah_leak": {
@@ -355,4 +355,125 @@
       "last_seen": "2026-04-10",
       "category": "device"
     },
-    "
+    "market_counterpoint_2025_98pct_yoy_waveguide_600pct": {
+      "title": "Counterpoint Research 2025年スマートグラス市場98%YoY成長 導波路型AR600%超",
+      "source_name": "AppleWorld.today",
+      "source_url": "https://appleworld.today/2026/04/good-news-for-apple-glasses-sales-of-smart-glasses-are-surging/",
+      "first_reported": "2026-04-10",
+      "last_seen": "2026-04-10",
+      "category": "market"
+    },
+    "sdk_visionos_265_beta1_developer": {
+      "title": "visionOS 26.5 Beta 1 開発者向けリリース",
+      "source_name": "MacRumors",
+      "source_url": "https://www.macrumors.com/2026/03/30/apple-seeds-watchos-26-5-beta-1/",
+      "first_reported": "2026-04-10",
+      "last_seen": "2026-04-10",
+      "category": "sdk"
+    },
+    "sdk_apple_visionos26_sdk_mandatory_april28": {
+      "title": "Apple visionOS 26 SDK必須化 期限4月28日",
+      "source_name": "Apple Developer",
+      "source_url": "https://developer.apple.com/news/",
+      "first_reported": "2026-04-10",
+      "last_seen": "2026-04-10",
+      "category": "sdk"
+    },
+    "market_rokid_hong_kong_ipo_preparation": {
+      "title": "Rokid香港IPO準備 4月末filing予定 累計販売30万台超",
+      "source_name": "TechNode / SCMP",
+      "source_url": "https://technode.com/2026/04/08/rokid-reportedly-prepares-hong-kong-ipo/",
+      "first_reported": "2026-04-11",
+      "last_seen": "2026-04-11",
+      "category": "market"
+    },
+    "other_google_io_2026_may19_confirmed": {
+      "title": "Google I/O 2026 5月19-20日開催確定 Android XR発表見込み",
+      "source_name": "Android Central",
+      "source_url": "https://www.androidcentral.com/phones/google-pixel/google-io-2026-what-to-expect",
+      "first_reported": "2026-04-11",
+      "last_seen": "2026-04-11",
+      "category": "other"
+    },
+    "market_omdia_2025_ai_glasses_87m_322pct_yoy": {
+      "title": "Omdia 2025年AIグラス出荷870万台 前年比322%成長",
+      "source_name": "SCMP (Omdia引用)",
+      "source_url": "https://www.scmp.com/tech/tech-trends/article/3349267/chinese-ai-glasses-maker-rokid-planning-hong-kong-ipo-sources",
+      "first_reported": "2026-04-11",
+      "last_seen": "2026-04-11",
+      "category": "market"
+    },
+    "partnership_snap_qualcomm_snapdragon_xr_multiyear": {
+      "title": "Snap(Specs Inc.)×Qualcomm 複数年Snapdragon XR戦略提携",
+      "source_name": "Snap Newsroom",
+      "source_url": "https://newsroom.snap.com/snap-qualcomm-strategic-collaboration-specs-2026",
+      "first_reported": "2026-04-12",
+      "last_seen": "2026-04-12",
+      "category": "partnership"
+    },
+    "market_xreal_hk_ipo_filing_400m": {
+      "title": "XREAL香港IPO申請 $400M規模 世界初純粋スマートグラス上場目指す",
+      "source_name": "Pandaily / IFR",
+      "source_url": "https://pandaily.com/xreal-files-for-hong-kong-ipo-targets-smart-glasses-leadership",
+      "first_reported": "2026-04-12",
+      "last_seen": "2026-04-12",
+      "category": "market"
+    },
+    "device_samsung_galaxy_glasses_aug2026_600_900": {
+      "title": "Samsung Galaxy Glasses 8月発売・$600-900価格帯の具体情報",
+      "source_name": "Geeky Gadgets / Tech Magazine",
+      "source_url": "https://www.geeky-gadgets.com/samsung-galaxy-glasses/",
+      "first_reported": "2026-04-12",
+      "last_seen": "2026-04-12",
+      "category": "device"
+    },
+    "sdk_niantic_vps2_nsdk4": {
+      "title": "Niantic Spatial VPS 2.0+NSDK 4.0リリース センチメートル精度6DoF",
+      "source_name": "GeekWire",
+      "source_url": "https://www.geekwire.com/2026/from-pokemon-go-to-physical-ai-niantic-spatial-unveils-its-global-3d-mapping-platform/",
+      "first_reported": "2026-04-12",
+      "last_seen": "2026-04-12",
+      "category": "sdk"
+    },
+    "device_amazon_jayhawk_ar_glasses": {
+      "title": "Amazon Jayhawk消費者向けARグラス 2026年末〜2027年初発売計画",
+      "source_name": "Next Reality / Entrepreneur",
+      "source_url": "https://virtual.reality.news/news/amazon-ar-glasses-revealed-two-models-launch-2026/",
+      "first_reported": "2026-04-12",
+      "last_seen": "2026-04-12",
+      "category": "device"
+    },
+    "device_apple_n50_smart_glasses_4styles_2027": {
+      "title": "Apple N50 AIスマートグラス 4フレームスタイル アセテート素材 2027年発売",
+      "source_name": "Bloomberg / 9to5Mac",
+      "source_url": "https://9to5mac.com/2026/04/12/apple-exploring-four-different-styles-for-its-upcoming-smart-glasses-using-premium-materials/",
+      "first_reported": "2026-04-13",
+      "last_seen": "2026-04-13",
+      "category": "device"
+    },
+    "other_apple_giannandrea_departure": {
+      "title": "Apple AI責任者John Giannandrea退任 責任はFederighi等に分散",
+      "source_name": "Bloomberg",
+      "source_url": "https://www.bloomberg.com/news/newsletters/2026-04-12/apple-ai-smart-glasses-features-styles-colors-cameras-giannandrea-leaving-mnvtz4yg",
+      "first_reported": "2026-04-13",
+      "last_seen": "2026-04-13",
+      "category": "other"
+    },
+    "market_rokid_waveguide_oem_leader_h2_2025": {
+      "title": "Rokid導波路型スマートグラス世界出荷OEM首位 H2 2025",
+      "source_name": "Gadget Pilipinas / Counterpoint",
+      "source_url": "https://www.gadgetpilipinas.net/2026/04/smart-glasses-market-surge-rokid/",
+      "first_reported": "2026-04-13",
+      "last_seen": "2026-04-13",
+      "category": "market"
+    },
+    "market_rayneo_video_glasses_42pct_share_h2_2025": {
+      "title": "RayNeo動画対応スマートグラスセグメント42%シェア首位 H2 2025",
+      "source_name": "Gadget Pilipinas / Counterpoint",
+      "source_url": "https://www.gadgetpilipinas.net/2026/04/smart-glasses-market-surge-rokid/",
+      "first_reported": "2026-04-13",
+      "last_seen": "2026-04-13",
+      "category": "market"
+    }
+  }
+}
