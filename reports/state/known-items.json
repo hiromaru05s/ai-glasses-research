@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-04-17",
+  "last_updated": "2026-04-18",
   "last_biweekly": "2026-04-06",
   "items": {
     "device_meta_rayban_prescription_glasses_499": {
@@ -8,7 +8,7 @@
       "source_name": "Meta Blog",
       "source_url": "https://about.fb.com/news/2026/03/meta-ai-glasses-built-for-prescriptions/",
       "first_reported": "2026-04-05",
-      "last_seen": "2026-04-17",
+      "last_seen": "2026-04-18",
       "category": "device"
     },
     "device_meta_rayban_display_international_delay": {
@@ -512,7 +512,7 @@
       "source_name": "ACLU / Washington Times",
       "source_url": "https://www.aclu.org/press-releases/aclu-and-75-organizations-sound-alarm-on-metas-plans-to-add-facial-recognition-technology-to-ray-ban-and-oakley-eyeglasses",
       "first_reported": "2026-04-15",
-      "last_seen": "2026-04-17",
+      "last_seen": "2026-04-18",
       "category": "regulation"
     },
     "partnership_amazon_vuzix_na_expansion_ultralite_pro": {
@@ -538,6 +538,22 @@
       "first_reported": "2026-04-17",
       "last_seen": "2026-04-17",
       "category": "other"
+    },
+    "regulation_rsac_2026_meta_glasses_corsight_fr_demo": {
+      "title": "RSAC 2026 ESET研究者がMeta Ray-Ban+Corsight顔認識で通行人を即時特定デモ",
+      "source_name": "State of Surveillance",
+      "source_url": "https://stateofsurveillance.org/news/rsac-meta-smart-glasses-facial-recognition-hacked-live-demo-2026/",
+      "first_reported": "2026-04-18",
+      "last_seen": "2026-04-18",
+      "category": "regulation"
+    },
+    "regulation_meta_senate_deadline_miss_april6": {
+      "title": "Meta 米上院議員顔認識回答期限(4/6)を無回答スルー",
+      "source_name": "State of Surveillance",
+      "source_url": "https://stateofsurveillance.org/news/meta-facial-recognition-april-6-deadline-senate-response-2026/",
+      "first_reported": "2026-04-18",
+      "last_seen": "2026-04-18",
+      "category": "regulation"
     }
   }
 }
