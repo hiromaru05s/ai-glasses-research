@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-04-19",
+  "last_updated": "2026-04-20",
   "last_biweekly": "2026-04-06",
   "items": {
     "device_meta_rayban_prescription_glasses_499": {
@@ -8,7 +8,7 @@
       "source_name": "Meta Blog",
       "source_url": "https://about.fb.com/news/2026/03/meta-ai-glasses-built-for-prescriptions/",
       "first_reported": "2026-04-05",
-      "last_seen": "2026-04-19",
+      "last_seen": "2026-04-20",
       "category": "device"
     },
     "device_meta_rayban_display_international_delay": {
@@ -16,7 +16,7 @@
       "source_name": "Android Central",
       "source_url": "https://www.androidcentral.com/apps-software/meta/meta-ray-ban-display-updates-ces-2026",
       "first_reported": "2026-04-05",
-      "last_seen": "2026-04-19",
+      "last_seen": "2026-04-20",
       "category": "device"
     },
     "device_meta_facial_recognition_plan": {
@@ -40,7 +40,7 @@
       "source_name": "Google Blog",
       "source_url": "https://blog.google/products-and-platforms/platforms/android/android-xr-gemini-glasses-headsets/",
       "first_reported": "2026-04-05",
-      "last_seen": "2026-04-19",
+      "last_seen": "2026-04-20",
       "category": "device"
     },
     "sdk_android_xr_dp3_glasses": {
@@ -512,7 +512,7 @@
       "source_name": "ACLU / Washington Times",
       "source_url": "https://www.aclu.org/press-releases/aclu-and-75-organizations-sound-alarm-on-metas-plans-to-add-facial-recognition-technology-to-ray-ban-and-oakley-eyeglasses",
       "first_reported": "2026-04-15",
-      "last_seen": "2026-04-18",
+      "last_seen": "2026-04-20",
       "category": "regulation"
     },
     "partnership_amazon_vuzix_na_expansion_ultralite_pro": {
@@ -570,6 +570,30 @@
       "first_reported": "2026-04-19",
       "last_seen": "2026-04-19",
       "category": "regulation"
+    },
+    "device_reebok_lucyd_optical_smart_glasses_250": {
+      "title": "Reebok/Innovative Eyewear Lucyd光学スマートグラス6スタイル $250 カメラ非搭載",
+      "source_name": "PRNewswire",
+      "source_url": "https://www.prnewswire.com/news-releases/innovative-eyewear-inc-announces-new-reebok-optical-collection-and-retail-placements-302744520.html",
+      "first_reported": "2026-04-20",
+      "last_seen": "2026-04-20",
+      "category": "device"
+    },
+    "market_meta_quest_price_hike_memory_shortage": {
+      "title": "Meta Quest 3/3S値上げ メモリチップ不足 Quest3 $599.99 Quest3S $349.99",
+      "source_name": "Meta公式 / UploadVR",
+      "source_url": "https://www.meta.com/blog/update-meta-quest-pricing/",
+      "first_reported": "2026-04-20",
+      "last_seen": "2026-04-20",
+      "category": "market"
+    },
+    "other_lucyd_armor_red_dot_award_2026": {
+      "title": "Lucyd Armor スマート安全グラス Red Dot Design Award 2026受賞",
+      "source_name": "PRNewswire",
+      "source_url": "http://www.prnewswire.com/news-releases/innovative-eyewear-inc-receives-red-dot-design-award-on-lucyd-armor-smart-safety-glasses-302745523.html",
+      "first_reported": "2026-04-20",
+      "last_seen": "2026-04-20",
+      "category": "other"
     }
   }
 }
