@@ -1,14 +1,54 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-04-21",
+  "last_updated": "2026-04-22",
   "last_biweekly": "2026-04-20",
   "items": {
+    "regulation_dhs_ice_glasses_75m_fy2027": {
+      "title": "米DHS \"ICE Glasses\"開発計画リーク FY2027予算$7.5M 顔認識+歩容認証 2027年9月配備",
+      "source_name": "The New Republic / Engadget / Ken Klippenstein",
+      "source_url": "https://newrepublic.com/post/209309/budget-leak-dhs-smart-glasses-ice",
+      "first_reported": "2026-04-22",
+      "last_seen": "2026-04-22",
+      "category": "regulation"
+    },
+    "sdk_meta_rayban_display_first_major_os_update": {
+      "title": "Meta Ray-Ban Display 初の大型OSアップデート Reels/通話字幕/Calendar/ウィジェット/EMGミニゲーム",
+      "source_name": "UploadVR / heise online / Meta公式",
+      "source_url": "https://www.uploadvr.com/meta-ray-ban-display-first-major-os-update-new-app-minigames-features/",
+      "first_reported": "2026-04-22",
+      "last_seen": "2026-04-22",
+      "category": "sdk"
+    },
+    "partnership_kering_google_gucci_2027_ceo_confirmed": {
+      "title": "Kering CEO Luca de Meo Gucci×Google AIグラス2027年投入を公式コメント Android XR/Gemini搭載",
+      "source_name": "Reuters / The Star / Android Central",
+      "source_url": "https://www.thestar.com.my/tech/tech-news/2026/04/17/gucci-owner-kering-aims-to-launch-luxury-google-glasses-next-year-ceo-says",
+      "first_reported": "2026-04-22",
+      "last_seen": "2026-04-22",
+      "category": "partnership"
+    },
+    "device_samsung_galaxy_glasses_gen2_sm_o500_2027": {
+      "title": "Samsung Galaxy Glasses Gen2 SM-O500 2027年発売計画リーク インレンズディスプレイ搭載",
+      "source_name": "SamMobile / SammyGuru",
+      "source_url": "https://www.sammobile.com/news/samsung-working-advanced-galaxy-glasses-2027/",
+      "first_reported": "2026-04-22",
+      "last_seen": "2026-04-22",
+      "category": "device"
+    },
+    "device_samsung_galaxy_glasses_one_ui_8_5_firmware_leak": {
+      "title": "Samsung Galaxy Glasses One UI 8.5ファームウェアにペアリングUI/アイコン実装発見",
+      "source_name": "Gadget Hacks / Android Headlines / Android Authority",
+      "source_url": "https://samsung.gadgethacks.com/news/one-ui-85-galaxy-glasses-leak-what-the-changelog-reveals/",
+      "first_reported": "2026-04-22",
+      "last_seen": "2026-04-22",
+      "category": "device"
+    },
     "device_meta_rayban_prescription_glasses_499": {
       "title": "Meta Ray-Ban処方箋対応スマートグラス発売 $499〜",
       "source_name": "Meta Blog",
       "source_url": "https://about.fb.com/news/2026/03/meta-ai-glasses-built-for-prescriptions/",
       "first_reported": "2026-04-05",
-      "last_seen": "2026-04-20",
+      "last_seen": "2026-04-22",
       "category": "device"
     },
     "device_meta_rayban_display_international_delay": {
@@ -88,7 +128,7 @@
       "source_name": "Tom's Guide",
       "source_url": "https://www.tomsguide.com/computing/smart-glasses/samsung-just-confirmed-its-android-xr-smart-glasses-will-launch-this-year-heres-how-they-can-beat-ray-ban-meta",
       "first_reported": "2026-04-05",
-      "last_seen": "2026-04-15",
+      "last_seen": "2026-04-22",
       "category": "device"
     },
     "device_samsung_galaxy_glasses_245mah_leak": {
@@ -312,7 +352,7 @@
       "source_name": "XR Today",
       "source_url": "https://www.xrtoday.com/augmented-reality/kering-eyewear-partners-with-google-to-shape-the-future-of-android-xr-smart-glasses/",
       "first_reported": "2026-04-07",
-      "last_seen": "2026-04-07",
+      "last_seen": "2026-04-22",
       "category": "partnership"
     },
     "sdk_steam_link_visionos_beta": {
@@ -424,7 +464,7 @@
       "source_name": "Geeky Gadgets / Tech Magazine",
       "source_url": "https://www.geeky-gadgets.com/samsung-galaxy-glasses/",
       "first_reported": "2026-04-12",
-      "last_seen": "2026-04-17",
+      "last_seen": "2026-04-22",
       "category": "device"
     },
     "sdk_niantic_vps2_nsdk4": {
@@ -480,7 +520,7 @@
       "source_name": "Google Blog",
       "source_url": "https://blog.google/products-and-platforms/platforms/android/android-xr-immersive-features-update-april-2026/",
       "first_reported": "2026-04-14",
-      "last_seen": "2026-04-15",
+      "last_seen": "2026-04-22",
       "category": "sdk"
     },
     "device_meta_hypernova2_binocular_2026_pulled_in": {
@@ -600,7 +640,7 @@
       "source_name": "TechNode / SCMP / Huawei Central",
       "source_url": "https://technode.com/2026/04/20/huawei-launches-harmonyos-ai-smart-glasses-with-camera-and-real-time-translation/",
       "first_reported": "2026-04-21",
-      "last_seen": "2026-04-21",
+      "last_seen": "2026-04-22",
       "category": "device"
     },
     "sdk_visionos_265_beta3_developer": {
