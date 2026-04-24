@@ -1,14 +1,30 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-04-23",
+  "last_updated": "2026-04-24",
   "last_biweekly": "2026-04-20",
   "items": {
+    "market_essilorluxottica_q1_2026_earnings": {
+      "title": "EssilorLuxottica Q1 2026決算 売上€7.13B +10.8% Ray-Ban Meta牽引 Jefferies成長見通し10%→9%下方修正",
+      "source_name": "Bloomberg / GuruFocus / Global Banking and Finance / Digital Journal",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-04-22/essilorluxottica-posts-11-sales-jump-extends-ai-glasses-boost",
+      "first_reported": "2026-04-24",
+      "last_seen": "2026-04-24",
+      "category": "market"
+    },
+    "device_viture_beast_xr_april27_549": {
+      "title": "Viture Beast XR Glasses 4/27発売 $549 Sony micro-OLED dual 174インチ仮想画面 58度FOV 1200p/eye",
+      "source_name": "GameSpot / PRNewswire / VITURE公式",
+      "source_url": "https://www.viture.com/product/viture-beast-xr-glasses",
+      "first_reported": "2026-04-24",
+      "last_seen": "2026-04-24",
+      "category": "device"
+    },
     "device_samsung_unpacked_london_jul22_galaxy_glasses_debut": {
       "title": "Samsung Unpacked 2026年7月22日ロンドン開催確定 Galaxy Z Fold 8/Z Flip 8とGalaxy Glasses同時デビューの可能性",
       "source_name": "MSN / Geeky Gadgets / Tom's Guide / Khaleej Times",
       "source_url": "https://www.geeky-gadgets.com/galaxy-z-fold-8-launch-london/",
       "first_reported": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-24",
       "category": "device"
     },
     "regulation_solos_meta_patent_lawsuit_multibillion": {
@@ -240,7 +256,7 @@
       "source_name": "BusinessWire",
       "source_url": "https://www.businesswire.com/news/home/20260113778367/en/",
       "first_reported": "2026-04-05",
-      "last_seen": "2026-04-05",
+      "last_seen": "2026-04-24",
       "category": "market"
     },
     "market_bof_breakthrough_year_2026": {
@@ -652,22 +668,5 @@
       "category": "other"
     },
     "device_huawei_ai_glasses_harmonyos_launch": {
-      "title": "Huawei AI Glasses 正式発表 HarmonyOS 12MPカメラ 35g $365",
-      "source_name": "TechNode / SCMP / Huawei Central",
-      "source_url": "https://technode.com/2026/04/20/huawei-launches-harmonyos-ai-smart-glasses-with-camera-and-real-time-translation/",
-      "first_reported": "2026-04-21",
-      "last_seen": "2026-04-23",
-      "category": "device"
-    },
-    "sdk_visionos_265_beta3_developer": {
-      "title": "Apple visionOS 26.5 Beta 3 開発者向けリリース (build 23O5458e)",
-      "source_name": "MacRumors / 9to5Mac",
-      "source_url": "https://www.macrumors.com/2026/04/20/apple-seeds-watchos-26-5-beta-3/",
-      "first_reported": "2026-04-21",
-      "last_seen": "2026-04-23",
-      "category": "sdk"
-    },
-    "market_omdia_2026_forecast_revised_15m": {
-      "title": "Omdia 2026年AIグラス出荷予測を15M台に上方修正 (当初10M)",
-      "source_name": "Omdia / China Daily Asia",
-      "source_url": "https://omdia.tech.informa.com/pr/2026/mar/global-ai-glasses-shipments-reach-8point7-m
+      "title": "Huawei AI Glasses 正式発表 HarmonyOS 12MPカメラ 35g $365 (公式セール4/25開始)",
+      "
