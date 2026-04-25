@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-04-24",
+  "last_updated": "2026-04-25",
   "last_biweekly": "2026-04-20",
   "items": {
     "market_essilorluxottica_q1_2026_earnings": {
@@ -669,4 +669,51 @@
     },
     "device_huawei_ai_glasses_harmonyos_launch": {
       "title": "Huawei AI Glasses 正式発表 HarmonyOS 12MPカメラ 35g $365 (公式セール4/25開始)",
-      "
+      "source_name": "TechNode / SCMP / Huawei Central / the-gadgeteer",
+      "source_url": "https://technode.com/2026/04/20/huawei-launches-harmonyos-ai-smart-glasses-with-camera-and-real-time-translation/",
+      "first_reported": "2026-04-21",
+      "last_seen": "2026-04-25",
+      "category": "device"
+    },
+    "sdk_visionos_265_beta3_developer": {
+      "title": "Apple visionOS 26.5 Beta 3 開発者向けリリース (build 23O5458e)",
+      "source_name": "MacRumors / 9to5Mac",
+      "source_url": "https://www.macrumors.com/2026/04/20/apple-seeds-watchos-26-5-beta-3/",
+      "first_reported": "2026-04-21",
+      "last_seen": "2026-04-23",
+      "category": "sdk"
+    },
+    "market_omdia_2026_forecast_revised_15m": {
+      "title": "Omdia 2026年AIグラス出荷予測を15M台に上方修正 (当初10M)",
+      "source_name": "Omdia / China Daily Asia",
+      "source_url": "https://omdia.tech.informa.com/pr/2026/mar/global-ai-glasses-shipments-reach-8point7-million-units-with-mainland-china-emerging-as-the-fastest-growing-market",
+      "first_reported": "2026-04-21",
+      "last_seen": "2026-04-21",
+      "category": "market"
+    },
+    "partnership_wlds_meta_bounds_neural_wristband": {
+      "title": "Wearable Devices (WLDS) × Meta-Bounds 神経ベルトAR制御提携 株価+82.8%",
+      "source_name": "Quiver Quantitative",
+      "source_url": "https://www.quiverquant.com/news/WLDS+jumps+82.8%25+on+collaboration+news+tied+to+neural+wristband+control+for+AR+glasses",
+      "first_reported": "2026-04-21",
+      "last_seen": "2026-04-21",
+      "category": "partnership"
+    },
+    "device_pico_next_headset_4000ppi_microoled": {
+      "title": "Pico次世代XRヘッドセット2026年 自社設計チップ+4000PPI microOLED",
+      "source_name": "Road to VR",
+      "source_url": "https://www.roadtovr.com/pico-vision-pro-competitor-specs-release-date/",
+      "first_reported": "2026-04-21",
+      "last_seen": "2026-04-21",
+      "category": "device"
+    },
+    "device_meta_oakley_vanguard_london_marathon_accessibility": {
+      "title": "Oakley Meta Vanguard×Be My Eyes 2026ロンドンマラソンで視覚障害ランナー支援 AP全国配信 Sha Khan氏ら使用事例",
+      "source_name": "AP / Washington Post / Fortune / Boston Globe / Be My Eyes",
+      "source_url": "https://www.washingtonpost.com/business/2026/04/24/london-marathon-ai-smart-glasses/8e9c1228-3ff9-11f1-bb46-ed564688d953_story.html",
+      "first_reported": "2026-04-25",
+      "last_seen": "2026-04-25",
+      "category": "device"
+    }
+  }
+}
