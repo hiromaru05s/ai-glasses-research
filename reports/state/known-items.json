@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-04-25",
+  "last_updated": "2026-04-26",
   "last_biweekly": "2026-04-20",
   "items": {
     "market_essilorluxottica_q1_2026_earnings": {
@@ -714,6 +714,38 @@
       "first_reported": "2026-04-25",
       "last_seen": "2026-04-25",
       "category": "device"
+    },
+    "7c93c6d35e7ede15": {
+      "title": "XREAL One Pro 永続値下げ $649→$599 4/23 9to5Google独占 Real 3D追加 JB Hi-Fi豪展開",
+      "source_name": "9to5Google",
+      "source_url": "https://9to5google.com/2026/04/23/xreal-one-pro-gets-a-permanent-price-cut-to-599/",
+      "first_reported": "2026-04-26",
+      "last_seen": "2026-04-26",
+      "category": "device"
+    },
+    "93c1b2dc6791f67a": {
+      "title": "Apple 6新製品カテゴリーロードマップ AIグラス/Pendant/カメラAirPods/スマートディスプレイ/デスクトップロボ/セキュリティカメラ Gurman",
+      "source_name": "9to5Mac",
+      "source_url": "https://9to5mac.com/2026/04/23/apple-has-six-major-new-product-categories-coming-says-mark-gurman/",
+      "first_reported": "2026-04-26",
+      "last_seen": "2026-04-26",
+      "category": "device"
+    },
+    "fb8a6560946af10a": {
+      "title": "Vuzix 米防衛顧客から6桁規模の追加導波路AR表示モジュール量産発注 次世代HMDプログラム供給",
+      "source_name": "Stocktitan / VUZI",
+      "source_url": "https://www.stocktitan.net/news/VUZI/vuzix-ships-follow-on-production-order-from-major-defense-customer-awyf0e9eb7y9.html",
+      "first_reported": "2026-04-26",
+      "last_seen": "2026-04-26",
+      "category": "partnership"
+    },
+    "57b6fb25e2efaaaf": {
+      "title": "Vuzix 動物医療市場拡大 Movora社と販売代理店契約 M400ベース獣医リモート支援キット北米展開",
+      "source_name": "Stocktitan / VUZI",
+      "source_url": "https://www.stocktitan.net/news/VUZI/vuzix-expands-further-into-veterinary-medical-market-with-movora-8y0oy7nhoxgv.html",
+      "first_reported": "2026-04-26",
+      "last_seen": "2026-04-26",
+      "category": "partnership"
     }
   }
 }
