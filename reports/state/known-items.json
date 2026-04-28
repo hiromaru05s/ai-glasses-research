@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-04-26",
+  "last_updated": "2026-04-27",
   "last_biweekly": "2026-04-20",
   "items": {
     "market_essilorluxottica_q1_2026_earnings": {
@@ -746,6 +746,38 @@
       "first_reported": "2026-04-26",
       "last_seen": "2026-04-26",
       "category": "partnership"
+    },
+    "device_samsung_galaxy_glasses_jinju_render_leak_apr27": {
+      "title": "Samsung Galaxy Glasses 'Jinju' 実機レンダー初漏洩 50g/Snapdragon AR1/155mAh/12MP Sony IMX681/$380-500/ディスプレイ非搭載 第2モデル'Haean'2027 micro-LED $600-900",
+      "source_name": "9to5Google / Tom's Guide / Engadget / Android Headlines / Wccftech / Gizmodo / iPhone in Canada",
+      "source_url": "https://9to5google.com/2026/04/27/samsung-galaxy-glasses-first-leaked-images/",
+      "first_reported": "2026-04-27",
+      "last_seen": "2026-04-27",
+      "category": "device"
+    },
+    "sdk_visionos_265_beta4_developer": {
+      "title": "Apple visionOS 26.5 Beta 4 開発者向けリリース GA間近 安定性最終調整",
+      "source_name": "MacRumors / MacObserver",
+      "source_url": "https://www.macrumors.com/2026/04/27/apple-seeds-watchos-26-5-beta-4/",
+      "first_reported": "2026-04-27",
+      "last_seen": "2026-04-27",
+      "category": "sdk"
+    },
+    "market_rokid_un_delegation_eu_launch_apr29": {
+      "title": "Rokid 国連事務次長Catherine PollardにAIグラスをデモ 欧州フラッグシップ4/29正式投入",
+      "source_name": "GlobeNewswire (Rokid公式)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/04/27/3281950/0/en/Rokid-Showcases-Its-AI-Smart-Glasses-to-United-Nations-Delegation.html",
+      "first_reported": "2026-04-27",
+      "last_seen": "2026-04-27",
+      "category": "market"
+    },
+    "market_meta_82pct_global_share_7m_2025": {
+      "title": "Meta+EssilorLuxottica 2025年AIグラス700万台販売 グローバルシェア約82%",
+      "source_name": "AppleInsider",
+      "source_url": "https://appleinsider.com/articles/26/04/20/smart-glasses-race-heats-up-as-apple-prepares-for-late-2026-entry",
+      "first_reported": "2026-04-27",
+      "last_seen": "2026-04-27",
+      "category": "market"
     }
   }
 }
