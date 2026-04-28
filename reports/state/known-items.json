@@ -1,8 +1,24 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-04-27",
+  "last_updated": "2026-04-28",
   "last_biweekly": "2026-04-20",
   "items": {
+    "market_meta_q1_2026_earnings_april29_preview": {
+      "title": "Meta Q1 2026決算4/29発表予定 売上コンセンサス$55.5B(+31%) Reality Labs損失2025並みでピーク 2027から縮小 Capex$115-135B Ray-Ban Meta牽引",
+      "source_name": "TradingKey / MarketBeat / Alphastreet",
+      "source_url": "https://www.tradingkey.com/analysis/stocks/us-stocks/261826234-meta-earnings-ai-advertising-capital-spending-margin-reality-labs-regulation-tradingkey",
+      "first_reported": "2026-04-28",
+      "last_seen": "2026-04-28",
+      "category": "market"
+    },
+    "market_moor_insights_galaxy_xr_first_update_analysis": {
+      "title": "Moor Insights & Strategy Galaxy XR 4月アップデート分析 'ハードウェア基盤強くソフトウェア成熟待ち' アイトラ再キャリブ要 Auto-Spatialization/wall pinning/100超アプリ評価",
+      "source_name": "Moor Insights & Strategy",
+      "source_url": "https://moorinsightsstrategy.com/research-notes/samsung-galaxy-xr-headset-a-strong-hardware-foundation-waiting-on-software/",
+      "first_reported": "2026-04-28",
+      "last_seen": "2026-04-28",
+      "category": "market"
+    },
     "market_essilorluxottica_q1_2026_earnings": {
       "title": "EssilorLuxottica Q1 2026決算 売上€7.13B +10.8% Ray-Ban Meta牽引 Jefferies成長見通し10%→9%下方修正",
       "source_name": "Bloomberg / GuruFocus / Global Banking and Finance / Digital Journal",
@@ -16,7 +32,7 @@
       "source_name": "GameSpot / PRNewswire / VITURE公式",
       "source_url": "https://www.viture.com/product/viture-beast-xr-glasses",
       "first_reported": "2026-04-24",
-      "last_seen": "2026-04-24",
+      "last_seen": "2026-04-28",
       "category": "device"
     },
     "device_samsung_unpacked_london_jul22_galaxy_glasses_debut": {
@@ -752,32 +768,9 @@
       "source_name": "9to5Google / Tom's Guide / Engadget / Android Headlines / Wccftech / Gizmodo / iPhone in Canada",
       "source_url": "https://9to5google.com/2026/04/27/samsung-galaxy-glasses-first-leaked-images/",
       "first_reported": "2026-04-27",
-      "last_seen": "2026-04-27",
+      "last_seen": "2026-04-28",
       "category": "device"
     },
     "sdk_visionos_265_beta4_developer": {
       "title": "Apple visionOS 26.5 Beta 4 開発者向けリリース GA間近 安定性最終調整",
-      "source_name": "MacRumors / MacObserver",
-      "source_url": "https://www.macrumors.com/2026/04/27/apple-seeds-watchos-26-5-beta-4/",
-      "first_reported": "2026-04-27",
-      "last_seen": "2026-04-27",
-      "category": "sdk"
-    },
-    "market_rokid_un_delegation_eu_launch_apr29": {
-      "title": "Rokid 国連事務次長Catherine PollardにAIグラスをデモ 欧州フラッグシップ4/29正式投入",
-      "source_name": "GlobeNewswire (Rokid公式)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/04/27/3281950/0/en/Rokid-Showcases-Its-AI-Smart-Glasses-to-United-Nations-Delegation.html",
-      "first_reported": "2026-04-27",
-      "last_seen": "2026-04-27",
-      "category": "market"
-    },
-    "market_meta_82pct_global_share_7m_2025": {
-      "title": "Meta+EssilorLuxottica 2025年AIグラス700万台販売 グローバルシェア約82%",
-      "source_name": "AppleInsider",
-      "source_url": "https://appleinsider.com/articles/26/04/20/smart-glasses-race-heats-up-as-apple-prepares-for-late-2026-entry",
-      "first_reported": "2026-04-27",
-      "last_seen": "2026-04-27",
-      "category": "market"
-    }
-  }
-}
+ 
