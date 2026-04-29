@@ -1,8 +1,24 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-04-28",
+  "last_updated": "2026-04-29",
   "last_biweekly": "2026-04-20",
   "items": {
+    "device_samsung_galaxy_glasses_nearby_app_v11_changelog_apr28": {
+      "title": "Samsung Nearby Device Scanning v11.1.23.4 changelog 'Glasses quick pair and battery pop up' 製品名Galaxy Glasses公式確定",
+      "source_name": "9to5Google / Droid Life / The Gadgeteer / SammyGuru",
+      "source_url": "https://9to5google.com/2026/04/28/samsung-is-already-adding-galaxy-glasses-support-to-one-ui-ahead-of-launch/",
+      "first_reported": "2026-04-29",
+      "last_seen": "2026-04-29",
+      "category": "device"
+    },
+    "other_apple_vision_pro_cataract_surgery_world_first_apr28": {
+      "title": "Apple Vision Pro 世界初の白内障手術ユースケース SightMD Eric Rosenberg ScopeXR 数百件実施",
+      "source_name": "MacRumors / AppleInsider / Cult of Mac / Next Reality",
+      "source_url": "https://www.macrumors.com/2026/04/28/apple-vision-pro-cataract-surgery/",
+      "first_reported": "2026-04-29",
+      "last_seen": "2026-04-29",
+      "category": "other"
+    },
     "market_meta_q1_2026_earnings_april29_preview": {
       "title": "Meta Q1 2026決算4/29発表予定 売上コンセンサス$55.5B(+31%) Reality Labs損失2025並みでピーク 2027から縮小 Capex$115-135B Ray-Ban Meta牽引",
       "source_name": "TradingKey / MarketBeat / Alphastreet",
@@ -773,4 +789,27 @@
     },
     "sdk_visionos_265_beta4_developer": {
       "title": "Apple visionOS 26.5 Beta 4 開発者向けリリース GA間近 安定性最終調整",
- 
+      "source_name": "MacRumors / MacObserver",
+      "source_url": "https://www.macrumors.com/2026/04/27/apple-seeds-watchos-26-5-beta-4/",
+      "first_reported": "2026-04-27",
+      "last_seen": "2026-04-28",
+      "category": "sdk"
+    },
+    "market_rokid_un_delegation_eu_launch_apr29": {
+      "title": "Rokid 国連事務次長Catherine PollardにAIグラスをデモ 欧州フラッグシップ4/29正式投入",
+      "source_name": "GlobeNewswire (Rokid公式)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/04/27/3281950/0/en/Rokid-Showcases-Its-AI-Smart-Glasses-to-United-Nations-Delegation.html",
+      "first_reported": "2026-04-27",
+      "last_seen": "2026-04-28",
+      "category": "market"
+    },
+    "market_meta_82pct_global_share_7m_2025": {
+      "title": "Meta+EssilorLuxottica 2025年AIグラス700万台販売 グローバルシェア約82%",
+      "source_name": "AppleInsider",
+      "source_url": "https://appleinsider.com/articles/26/04/20/smart-glasses-race-heats-up-as-apple-prepares-for-late-2026-entry",
+      "first_reported": "2026-04-27",
+      "last_seen": "2026-04-28",
+      "category": "market"
+    }
+  }
+}
