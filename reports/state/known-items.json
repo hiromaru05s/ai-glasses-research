@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-04-29",
+  "last_updated": "2026-04-30",
   "last_biweekly": "2026-04-20",
   "items": {
     "device_samsung_galaxy_glasses_nearby_app_v11_changelog_apr28": {
@@ -810,6 +810,30 @@
       "first_reported": "2026-04-27",
       "last_seen": "2026-04-28",
       "category": "market"
+    },
+    "d03bf85ae4f417d6": {
+      "title": "Meta Q1 2026決算確定 Reality Labs $4.03B損失/$402M売上 Capex上限$145Bへ上方修正 全社売上$56.31B(+33%)",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/04/29/metas-reality-labs-lost-over-4-billion-in-first-quarter.html",
+      "first_reported": "2026-04-30",
+      "last_seen": "2026-04-30",
+      "category": "market"
+    },
+    "512ad29622c0c20d": {
+      "title": "Apple Vision Pro M5リフレッシュ商業的flop AppleはVision Pro継続投資を実質断念しAIグラスへシフト",
+      "source_name": "MacRumors",
+      "source_url": "https://www.macrumors.com/2026/04/29/apple-vision-pro-m5-flop/",
+      "first_reported": "2026-04-30",
+      "last_seen": "2026-04-30",
+      "category": "device"
+    },
+    "899fa0880805060d": {
+      "title": "Google AIグラス3階層ブランディング Gemini Audio Frames/Gemini Display Edition/Project Aura で展開",
+      "source_name": "The Gadgeteer",
+      "source_url": "https://the-gadgeteer.com/2026/04/27/google-android-xr-ai-smart-glasses/",
+      "first_reported": "2026-04-30",
+      "last_seen": "2026-04-30",
+      "category": "device"
     }
   }
 }
