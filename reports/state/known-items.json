@@ -1,8 +1,56 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-04-30",
+  "last_updated": "2026-05-01",
   "last_biweekly": "2026-04-20",
   "items": {
+    "regulation_samsung_ram_crisis_2027_ai_glasses_tease": {
+      "title": "Samsung Q1決算 'AI glasses'初公式言及＋2027年DRAM需給ギャップ40%警告 Galaxy Glasses原価/タイミングへ間接逆風",
+      "source_name": "Tech Times / 9to5Google",
+      "source_url": "https://www.techtimes.com/articles/316269/20260430/samsung-teases-its-ai-glasses-development-warns-worsening-ram-crisis-through-2027.htm",
+      "first_reported": "2026-05-01",
+      "last_seen": "2026-05-01",
+      "category": "market"
+    },
+    "sdk_galaxy_xr_april_update_memory_leak_hotfix": {
+      "title": "Galaxy XR April 2026 Updateで重大メモリリーク 20-30分で'functionally useless' Google公式に'absolute top priority'ホットフィックス対応",
+      "source_name": "SamMobile / 9to5Google",
+      "source_url": "https://www.sammobile.com/news/galaxy-xr-slows-to-a-crawl-after-update-google-says-hotfix-is-absolute-top-priority",
+      "first_reported": "2026-05-01",
+      "last_seen": "2026-05-01",
+      "category": "sdk"
+    },
+    "device_apple_ai_glasses_dual_camera_gesture_no_display": {
+      "title": "Apple AI Glasses 仕様像 デュアルカメラ(高解像度撮影+低解像度ジェスチャ認識)+ハンドジェスチャUI ディスプレイ/LiDAR非搭載 Vision Proスキーム転用",
+      "source_name": "MacRumors / AppleInsider / AIBase",
+      "source_url": "https://www.macrumors.com/2026/04/29/apple-ai-smart-glasses-gesture-control/",
+      "first_reported": "2026-05-01",
+      "last_seen": "2026-05-01",
+      "category": "device"
+    },
+    "market_meta_smart_glasses_dau_tripled_q1_2026": {
+      "title": "Meta Q1 2026決算コール スマートグラスDAUがYoY 3倍とZuckerberg明言 (Reality Labs売上$402M/損失$4.03Bと並ぶ別軸メトリクス)",
+      "source_name": "Shacknews",
+      "source_url": "https://www.shacknews.com/article/148918/facebook-meta-q1-2026-smart-glasses-tripled-daily-users",
+      "first_reported": "2026-05-01",
+      "last_seen": "2026-05-01",
+      "category": "market"
+    },
+    "market_innovative_eyewear_lucy_q1_2026_78pct_yoy": {
+      "title": "Innovative Eyewear (LUCY) Q1 2026 preliminary $0.81M +78% YoY 11四半期連続成長 ホワイトラベル提供開始",
+      "source_name": "PRNewswire / Vision Monday",
+      "source_url": "https://www.prnewswire.com/news-releases/innovative-eyewear-inc-announces-preliminary-q1-2026-results-302750198.html",
+      "first_reported": "2026-05-01",
+      "last_seen": "2026-05-01",
+      "category": "market"
+    },
+    "partnership_vuzix_tier1_defense_funded_dev_order_apr28": {
+      "title": "Vuzix Tier-1航空宇宙・防衛サプライヤーから6桁Customer-Funded開発オーダー(4/28) 次世代軍用HMD向けwaveguideディスプレイ 同顧客2件目",
+      "source_name": "Vuzix IR / Stocktitan",
+      "source_url": "https://ir.vuzix.com/news-events/press-releases/detail/2171/vuzix-receives-customer-funded-development-order-from",
+      "first_reported": "2026-05-01",
+      "last_seen": "2026-05-01",
+      "category": "partnership"
+    },
     "device_samsung_galaxy_glasses_nearby_app_v11_changelog_apr28": {
       "title": "Samsung Nearby Device Scanning v11.1.23.4 changelog 'Glasses quick pair and battery pop up' 製品名Galaxy Glasses公式確定",
       "source_name": "9to5Google / Droid Life / The Gadgeteer / SammyGuru",
