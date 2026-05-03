@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-05-01",
+  "last_updated": "2026-05-03",
   "last_biweekly": "2026-04-20",
   "items": {
     "regulation_samsung_ram_crisis_2027_ai_glasses_tease": {
@@ -868,11 +868,11 @@
       "category": "market"
     },
     "512ad29622c0c20d": {
-      "title": "Apple Vision Pro M5リフレッシュ商業的flop AppleはVision Pro継続投資を実質断念しAIグラスへシフト",
-      "source_name": "MacRumors",
+      "title": "Apple Vision Pro M5リフレッシュ商業的flop AppleはVision Pro継続投資を実質断念しAIグラスへシフト Vision Pro Group再配分・元メンバーがSiri/Mike Rockwellへ",
+      "source_name": "MacRumors / AppleInsider / Tom's Hardware / OSnews",
       "source_url": "https://www.macrumors.com/2026/04/29/apple-vision-pro-m5-flop/",
       "first_reported": "2026-04-30",
-      "last_seen": "2026-04-30",
+      "last_seen": "2026-05-02",
       "category": "device"
     },
     "899fa0880805060d": {
@@ -881,6 +881,30 @@
       "source_url": "https://the-gadgeteer.com/2026/04/27/google-android-xr-ai-smart-glasses/",
       "first_reported": "2026-04-30",
       "last_seen": "2026-04-30",
+      "category": "device"
+    },
+    "device_apple_glasses_sep_oct_2026_pull_rug_gurman": {
+      "title": "Apple Glasses 2026年9-10月発表でMeta/Google/Warby Parkerホリデー商戦の足元すくう戦略 Gurman明言 アセテート4スタイル iPhone深統合",
+      "source_name": "Tom's Guide / Bloomberg (Mark Gurman) / Android Headlines",
+      "source_url": "https://www.tomsguide.com/computing/smart-glasses/pull-the-rug-out-mark-gurman-explains-apples-plan-to-launch-smart-glasses-this-year-to-stop-metas-momentum",
+      "first_reported": "2026-05-02",
+      "last_seen": "2026-05-02",
+      "category": "device"
+    },
+    "partnership_snap_specs_awe2026_spiegel_keynote_june16": {
+      "title": "Snap CEO Spiegel AWE 2026基調講演 6/16確定 Specs Inc.が新ツール/Specsプラットフォーム最新進捗発表",
+      "source_name": "Snap Newsroom",
+      "source_url": "https://newsroom.snap.com/awe-2026-save-the-date",
+      "first_reported": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "category": "partnership"
+    },
+    "device_apple_glasses_gurman_skeptical_gesture_controls": {
+      "title": "Mark Gurman Apple Glasses ジェスチャ制御に懐疑的 シングルカメラ+ニューラルバンド無し+アイトラ無しでは技術的に不可能と明言",
+      "source_name": "Tom's Guide",
+      "source_url": "https://www.tomsguide.com/computing/smart-glasses/apple-glasses-rumored-to-feature-vision-pro-style-hand-gestures-but-mark-gurman-is-skeptical",
+      "first_reported": "2026-05-03",
+      "last_seen": "2026-05-03",
       "category": "device"
     }
   }
