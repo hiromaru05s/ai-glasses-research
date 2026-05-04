@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-05-03",
-  "last_biweekly": "2026-04-20",
+  "last_updated": "2026-05-04",
+  "last_biweekly": "2026-05-04",
   "items": {
     "regulation_samsung_ram_crisis_2027_ai_glasses_tease": {
       "title": "Samsung Q1決算 'AI glasses'初公式言及＋2027年DRAM需給ギャップ40%警告 Galaxy Glasses原価/タイミングへ間接逆風",
@@ -32,7 +32,7 @@
       "source_name": "Shacknews",
       "source_url": "https://www.shacknews.com/article/148918/facebook-meta-q1-2026-smart-glasses-tripled-daily-users",
       "first_reported": "2026-05-01",
-      "last_seen": "2026-05-01",
+      "last_seen": "2026-05-04",
       "category": "market"
     },
     "market_innovative_eyewear_lucy_q1_2026_78pct_yoy": {
@@ -504,7 +504,7 @@
       "source_name": "XREAL公式",
       "source_url": "https://www.xreal.com/us/blog/aura-25-tas-release-en",
       "first_reported": "2026-04-09",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-05-04",
       "category": "device"
     },
     "market_counterpoint_2025_98pct_yoy_waveguide_600pct": {
@@ -720,7 +720,7 @@
       "source_name": "TechCrunch / Fortune",
       "source_url": "https://techcrunch.com/2026/03/05/meta-sued-over-ai-smartglasses-privacy-concerns-after-workers-reviewed-nudity-sex-and-other-footage/",
       "first_reported": "2026-04-19",
-      "last_seen": "2026-04-19",
+      "last_seen": "2026-05-04",
       "category": "regulation"
     },
     "device_reebok_lucyd_optical_smart_glasses_250": {
@@ -752,7 +752,7 @@
       "source_name": "TechNode / SCMP / Huawei Central / the-gadgeteer",
       "source_url": "https://technode.com/2026/04/20/huawei-launches-harmonyos-ai-smart-glasses-with-camera-and-real-time-translation/",
       "first_reported": "2026-04-21",
-      "last_seen": "2026-04-25",
+      "last_seen": "2026-05-04",
       "category": "device"
     },
     "sdk_visionos_265_beta3_developer": {
@@ -856,7 +856,7 @@
       "source_name": "AppleInsider",
       "source_url": "https://appleinsider.com/articles/26/04/20/smart-glasses-race-heats-up-as-apple-prepares-for-late-2026-entry",
       "first_reported": "2026-04-27",
-      "last_seen": "2026-04-28",
+      "last_seen": "2026-05-04",
       "category": "market"
     },
     "d03bf85ae4f417d6": {
@@ -906,6 +906,30 @@
       "first_reported": "2026-05-03",
       "last_seen": "2026-05-03",
       "category": "device"
+    },
+    "regulation_meta_sama_1108_layoff_unionbusting_may": {
+      "title": "Meta下請けSama 1,108人解雇正式発表 ユニオン化(4月)→契約打ち切り→大量解雇 NLRB/欧州労組がunion-busting調査着手",
+      "source_name": "Tekedia / Android Headlines / Breitbart",
+      "source_url": "https://www.tekedia.com/meta-quietly-ends-ai-training-partnership-with-sama-after-claims-contractors-reviewed-intimate-smart-glasses-footage/",
+      "first_reported": "2026-05-04",
+      "last_seen": "2026-05-04",
+      "category": "regulation"
+    },
+    "device_meta_pedestrian_navigation_us_nationwide_may2026": {
+      "title": "Meta Ray-Ban/Display 歩行者ナビゲーションが5月から全米都市に拡大 既存32都市→全米 turn-by-turn lens内表示",
+      "source_name": "Meta公式/Android Central/PetaPixel",
+      "source_url": "https://about.fb.com/news/2026/03/meta-ai-glasses-built-for-prescriptions/",
+      "first_reported": "2026-05-04",
+      "last_seen": "2026-05-04",
+      "category": "device"
+    },
+    "market_vuzix_q1_2026_earnings_schedule_may11": {
+      "title": "Vuzix Q1 2026決算発表予定 5/11 アナリストEPS予想 -$0.10 (Q4 2025は -$0.12でMissまたはBeat混在)",
+      "source_name": "TipRanks / Public.com",
+      "source_url": "https://www.tipranks.com/stocks/vuzi/earnings",
+      "first_reported": "2026-05-04",
+      "last_seen": "2026-05-04",
+      "category": "market"
     }
   }
 }
