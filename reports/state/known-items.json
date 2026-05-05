@@ -1,8 +1,24 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-05-04",
+  "last_updated": "2026-05-05",
   "last_biweekly": "2026-05-04",
   "items": {
+    "market_warby_parker_q1_2026_earnings_may7_ai_glasses_disclosure": {
+      "title": "Warby Parker Q1 2026決算5/7 Google AIグラス事業詳細開示見込み 株価+60.5%急騰 Google$150M投資($75M開発+$75M equity milestone)使途/Android XR audio-display 2モデル詳細予定",
+      "source_name": "Simply Wall St / Yahoo Finance / The Gadgeteer / Investing.com / Business of Fashion",
+      "source_url": "https://simplywall.st/stocks/us/retail/nyse-wrby/warby-parker/news/warby-parker-wrby-valuation-check-after-google-backed-2026-a",
+      "first_reported": "2026-05-05",
+      "last_seen": "2026-05-05",
+      "category": "market"
+    },
+    "device_apple_vision_pro_ternus_counter_narrative_may1": {
+      "title": "Apple Vision Pro 'isn't dead' Ternus談話カウンターナラティブ Vision Production Group採用継続をTom's Hardware等再確認 4/29-30 Apple給み終了報道に対する公式軌道修正",
+      "source_name": "AppleInsider / Tom's Hardware",
+      "source_url": "https://appleinsider.com/articles/26/05/01/apple-vision-pro-isnt-dead-ternus-talk-ai-rumors-on-the-appleinsider-podcast",
+      "first_reported": "2026-05-05",
+      "last_seen": "2026-05-05",
+      "category": "device"
+    },
     "regulation_samsung_ram_crisis_2027_ai_glasses_tease": {
       "title": "Samsung Q1決算 'AI glasses'初公式言及＋2027年DRAM需給ギャップ40%警告 Galaxy Glasses原価/タイミングへ間接逆風",
       "source_name": "Tech Times / 9to5Google",
