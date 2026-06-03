@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-06-03",
+  "last_updated": "2026-06-04",
   "last_biweekly": "2026-05-04",
   "items": {
     "device_google_android_xr_intelligent_eyewear_fall_2026": {
@@ -8,7 +8,7 @@
       "source_name": "Google Blog / Samsung Newsroom U.K.",
       "source_url": "https://blog.google/products-and-platforms/platforms/android/android-xr-io-2026/",
       "first_reported": "2026-06-03",
-      "last_seen": "2026-06-03",
+      "last_seen": "2026-06-04",
       "category": "device"
     },
     "sdk_android_xr_dp4_audio_display_glasses_may19_2026": {
@@ -16,7 +16,7 @@
       "source_name": "Android Developers Blog",
       "source_url": "https://developer.android.com/blog/posts/updates-to-the-android-xr-sdk-introducing-developer-preview-4",
       "first_reported": "2026-06-03",
-      "last_seen": "2026-06-03",
+      "last_seen": "2026-06-04",
       "category": "sdk"
     },
     "sdk_android_xr_developer_catalyst_program_may19_2026": {
@@ -24,7 +24,7 @@
       "source_name": "Android Developers Blog",
       "source_url": "https://android-developers.googleblog.com/2026/05/apply-android-xr-developer-catalyst.html",
       "first_reported": "2026-06-03",
-      "last_seen": "2026-06-03",
+      "last_seen": "2026-06-04",
       "category": "sdk"
     },
     "device_xreal_project_aura_google_io_may19_2026": {
@@ -32,7 +32,7 @@
       "source_name": "XREAL",
       "source_url": "https://www.xreal.com/nl-en/blog/project-aura-google-io-2026",
       "first_reported": "2026-06-03",
-      "last_seen": "2026-06-03",
+      "last_seen": "2026-06-04",
       "category": "device"
     },
     "device_meta_japan_launch_rayban_oakley_may21_2026": {
@@ -40,7 +40,7 @@
       "source_name": "Meta",
       "source_url": "https://about.fb.com/ja/news/2026/05/ai-glass-launch/amp/",
       "first_reported": "2026-06-03",
-      "last_seen": "2026-06-03",
+      "last_seen": "2026-06-04",
       "category": "device"
     },
     "sdk_meta_ai_wearables_accessibility_features_may18_2026": {
@@ -48,7 +48,7 @@
       "source_name": "Meta Newsroom",
       "source_url": "https://about.fb.com/news/2026/05/meta-ai-wearables-changing-the-game-for-disabled-people/",
       "first_reported": "2026-06-03",
-      "last_seen": "2026-06-03",
+      "last_seen": "2026-06-04",
       "category": "sdk"
     },
     "device_apple_vision_pro_accessibility_updates_may19_2026": {
@@ -56,7 +56,7 @@
       "source_name": "Apple Newsroom",
       "source_url": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
       "first_reported": "2026-06-03",
-      "last_seen": "2026-06-03",
+      "last_seen": "2026-06-04",
       "category": "device"
     },
     "sdk_visionos_26_6_beta_release_notes_may26_2026": {
@@ -64,7 +64,7 @@
       "source_name": "Apple Developer Documentation",
       "source_url": "https://developer.apple.com/documentation/visionos-release-notes/visionos-26_6-release-notes",
       "first_reported": "2026-06-03",
-      "last_seen": "2026-06-03",
+      "last_seen": "2026-06-04",
       "category": "sdk"
     },
     "market_warby_parker_q1_2026_earnings_may7_ai_glasses_disclosure": {
@@ -1010,6 +1010,38 @@
       "first_reported": "2026-05-04",
       "last_seen": "2026-05-04",
       "category": "market"
+    },
+    "sdk_android_xr_unreal_godot_engine_hub_may19_2026": {
+      "title": "Android XRがUnreal/Godot公式対応とEngine Hub・Interaction Frameworkを公開",
+      "source_name": "Android Developers Blog",
+      "source_url": "https://developer.android.com/blog/posts/android-xr-updates-for-unity-unreal-and-godot?authuser=00",
+      "first_reported": "2026-06-04",
+      "last_seen": "2026-06-04",
+      "category": "sdk"
+    },
+    "device_acer_gi0_gemini_ai_glasses_may29_2026": {
+      "title": "Acer GI0発表 GeminiベースAIアシスタント搭載の音声AIグラスを北米$299.99で投入",
+      "source_name": "Acer News",
+      "source_url": "https://news.acer.com/new-acer-tablets-plus-ai-and-ar-glasses-expand-on-the-go-capabilities",
+      "first_reported": "2026-06-04",
+      "last_seen": "2026-06-04",
+      "category": "device"
+    },
+    "device_acer_ar_vision_gr0_may29_2026": {
+      "title": "Acer AR Vision GR0発表 172インチ相当の接続型ARグラスを北米$499.99で投入",
+      "source_name": "Acer News",
+      "source_url": "https://news.acer.com/new-acer-tablets-plus-ai-and-ar-glasses-expand-on-the-go-capabilities",
+      "first_reported": "2026-06-04",
+      "last_seen": "2026-06-04",
+      "category": "device"
+    },
+    "device_xreal_xbx_a01_entry_level_may27_2026": {
+      "title": "XREALがxbx a01をentry-level viewing glassesとして展開 低価格帯ラインを前面化",
+      "source_name": "XREAL Tutorials / 9to5Google",
+      "source_url": "https://tutorials.xreal.com/docs/glasses/xbxa01/",
+      "first_reported": "2026-06-04",
+      "last_seen": "2026-06-04",
+      "category": "device"
     }
   }
 }
