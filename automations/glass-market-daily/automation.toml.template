@@ -1,0 +1,13 @@
+version = 1
+id = "glass-market-daily"
+kind = "cron"
+name = "glass-market-daily"
+prompt = "AIグラス市場の日次デルタ調査を実行する。まず `git pull --ff-only` で最新化し、`CLAUDE.md`、`sources.md`、`skills/daily-research/SKILL.md`、`reports/state/known-items.json` を読む。Web検索でAIグラス、スマートグラス、AR/XRグラス、Android XR、Ray-Ban Meta、Samsung XR、Apple Vision Pro、Snap Spectacles、XREAL、Qualcomm AR/XR関連の直近ニュースと公式発表を調べる。既知アイテムは `reports/state/known-items.json` のルールで除外し、新規情報のみを日本語で `reports/daily/YYYY-MM-DD.md` に保存する。日付はAsia/Tokyoの当日を使う。新規がない場合も日次レポートを作る。全アイテムに記事タイトル、メディア名、URLを付け、推測と事実を分け、Hiromaruアクションアイテムを含める。`reports/state/known-items.json` を更新し、変更があれば `git add reports/state/known-items.json reports/daily/YYYY-MM-DD.md`、`git commit -m \"daily: YYYY-MM-DD — N new items\"`、`git push origin main` まで実行する。pushに失敗した場合は、レポートとstate更新は残し、失敗理由を最後に短く記録する。"
+status = "ACTIVE"
+rrule = "FREQ=DAILY;BYHOUR=18;BYMINUTE=0;BYSECOND=0"
+model = "gpt-5.4"
+reasoning_effort = "high"
+execution_environment = "local"
+cwds = ["__REPO_PATH__"]
+created_at = 1780471177853
+updated_at = 1780471177853
