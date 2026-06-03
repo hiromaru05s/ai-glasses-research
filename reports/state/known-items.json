@@ -1,8 +1,72 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-05-05",
+  "last_updated": "2026-06-03",
   "last_biweekly": "2026-05-04",
   "items": {
+    "device_google_android_xr_intelligent_eyewear_fall_2026": {
+      "title": "Google/SamsungがGemini搭載intelligent eyewear初公開 audio glassesを2026年秋投入予定 Gentle Monster/Warby Parkerデザイン公開",
+      "source_name": "Google Blog / Samsung Newsroom U.K.",
+      "source_url": "https://blog.google/products-and-platforms/platforms/android/android-xr-io-2026/",
+      "first_reported": "2026-06-03",
+      "last_seen": "2026-06-03",
+      "category": "device"
+    },
+    "sdk_android_xr_dp4_audio_display_glasses_may19_2026": {
+      "title": "Android XR DP4公開 AI glassesをaudio/display glassesへ名称整理 Device Availability API追加 コアXRライブラリBeta移行予告",
+      "source_name": "Android Developers Blog",
+      "source_url": "https://developer.android.com/blog/posts/updates-to-the-android-xr-sdk-introducing-developer-preview-4",
+      "first_reported": "2026-06-03",
+      "last_seen": "2026-06-03",
+      "category": "sdk"
+    },
+    "sdk_android_xr_developer_catalyst_program_may19_2026": {
+      "title": "Android XR Developer Catalyst Program応募開始 Project Aura/intelligent eyewear向け開発キット 技術支援 grants提供",
+      "source_name": "Android Developers Blog",
+      "source_url": "https://android-developers.googleblog.com/2026/05/apply-android-xr-developer-catalyst.html",
+      "first_reported": "2026-06-03",
+      "last_seen": "2026-06-03",
+      "category": "sdk"
+    },
+    "device_xreal_project_aura_google_io_may19_2026": {
+      "title": "XREAL Project AuraをGoogle I/Oで実機披露 2026年グローバル投入予定 Android XR開発キットも案内",
+      "source_name": "XREAL",
+      "source_url": "https://www.xreal.com/nl-en/blog/project-aura-google-io-2026",
+      "first_reported": "2026-06-03",
+      "last_seen": "2026-06-03",
+      "category": "device"
+    },
+    "device_meta_japan_launch_rayban_oakley_may21_2026": {
+      "title": "Ray-Ban MetaとOakley Metaが5月21日から日本販売開始 Optics含む国内展開を正式発表",
+      "source_name": "Meta",
+      "source_url": "https://about.fb.com/ja/news/2026/05/ai-glass-launch/amp/",
+      "first_reported": "2026-06-03",
+      "last_seen": "2026-06-03",
+      "category": "device"
+    },
+    "sdk_meta_ai_wearables_accessibility_features_may18_2026": {
+      "title": "Meta AI wearablesがアクセシビリティ拡張 Be My Eyes強化 通話音声操作 one-touch shortcuts captioned calls追加",
+      "source_name": "Meta Newsroom",
+      "source_url": "https://about.fb.com/news/2026/05/meta-ai-wearables-changing-the-game-for-disabled-people/",
+      "first_reported": "2026-06-03",
+      "last_seen": "2026-06-03",
+      "category": "sdk"
+    },
+    "device_apple_vision_pro_accessibility_updates_may19_2026": {
+      "title": "Apple Vision Proに自動生成字幕と視線による電動車いす操作機能を追加予定 アクセシビリティ用途を強化",
+      "source_name": "Apple Newsroom",
+      "source_url": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
+      "first_reported": "2026-06-03",
+      "last_seen": "2026-06-03",
+      "category": "device"
+    },
+    "sdk_visionos_26_6_beta_release_notes_may26_2026": {
+      "title": "visionOS 26.6 beta配信開始 WWDC前の安定化フェーズ入り リリースノートは大きな新規項目なし",
+      "source_name": "Apple Developer Documentation",
+      "source_url": "https://developer.apple.com/documentation/visionos-release-notes/visionos-26_6-release-notes",
+      "first_reported": "2026-06-03",
+      "last_seen": "2026-06-03",
+      "category": "sdk"
+    },
     "market_warby_parker_q1_2026_earnings_may7_ai_glasses_disclosure": {
       "title": "Warby Parker Q1 2026決算5/7 Google AIグラス事業詳細開示見込み 株価+60.5%急騰 Google$150M投資($75M開発+$75M equity milestone)使途/Android XR audio-display 2モデル詳細予定",
       "source_name": "Simply Wall St / Yahoo Finance / The Gadgeteer / Investing.com / Business of Fashion",
