@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-06-06",
+  "last_updated": "2026-06-07",
   "last_biweekly": "2026-05-04",
   "items": {
     "device_google_android_xr_intelligent_eyewear_fall_2026": {
@@ -1041,6 +1041,14 @@
       "source_url": "https://tutorials.xreal.com/docs/glasses/xbxa01/",
       "first_reported": "2026-06-04",
       "last_seen": "2026-06-04",
+      "category": "device"
+    },
+    "device_meta_rayban_meta_optics_mexico_launch_jun3_2026": {
+      "title": "MetaがRay-Ban Meta Blayzer Optics/Scriber Opticsをメキシコ投入 処方箋対応AIグラスをMXN 9,069から販売開始",
+      "source_name": "Meta",
+      "source_url": "https://about.fb.com/ltam/news/2026/06/presentamos-una-nueva-linea-de-lentes-ray-ban-meta-disenada-para-prescripcion-y-para-ofrecer-comodidad-durante-todo-el-dia/amp/",
+      "first_reported": "2026-06-07",
+      "last_seen": "2026-06-07",
       "category": "device"
     }
   }
