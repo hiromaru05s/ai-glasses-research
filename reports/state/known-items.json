@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-06-08",
+  "last_updated": "2026-06-09",
   "last_biweekly": "2026-05-04",
   "items": {
     "device_google_android_xr_intelligent_eyewear_fall_2026": {
@@ -1050,6 +1050,14 @@
       "first_reported": "2026-06-07",
       "last_seen": "2026-06-07",
       "category": "device"
+    },
+    "sdk_android_xr_security_bulletin_june2026": {
+      "title": "Android XR Security Bulletin June 2026 パッチレベル2026-06-05以降でXR固有のHigh脆弱性CVE-2026-0072を修正",
+      "source_name": "Android Open Source Project",
+      "source_url": "https://source.android.com/docs/security/bulletin/xr/2026/2026-06-01",
+      "first_reported": "2026-06-09",
+      "last_seen": "2026-06-09",
+      "category": "sdk"
     }
   }
 }
