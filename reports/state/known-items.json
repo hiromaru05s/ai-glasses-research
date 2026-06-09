@@ -1,8 +1,24 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-06-09",
+  "last_updated": "2026-06-10",
   "last_biweekly": "2026-05-04",
   "items": {
+    "sdk_apple_visionos_27_preview_jun8_2026": {
+      "title": "AppleがvisionOS 27 Preview公開 Siri AI/Visual Intelligence/curved windows/Spatial Mac previewing/新Web EnvironmentsなどVision Pro向け機能を告知",
+      "source_name": "Apple",
+      "source_url": "https://www.apple.com/os/visionos/",
+      "first_reported": "2026-06-10",
+      "last_seen": "2026-06-10",
+      "category": "sdk"
+    },
+    "regulation_meta_nametag_code_removed_jun8_2026": {
+      "title": "WIRED報道翌日にMeta AIアプリからNameTag顔認識コードを削除 Metaは理由と再投入有無を明言せず",
+      "source_name": "WIRED",
+      "source_url": "https://www.wired.com/story/meta-removes-face-recognition-code-meta-ai-app-smart-glasses/",
+      "first_reported": "2026-06-10",
+      "last_seen": "2026-06-10",
+      "category": "regulation"
+    },
     "device_google_android_xr_intelligent_eyewear_fall_2026": {
       "title": "Google/SamsungがGemini搭載intelligent eyewear初公開 audio glassesを2026年秋投入予定 Gentle Monster/Warby Parkerデザイン公開",
       "source_name": "Google Blog / Samsung Newsroom U.K.",
