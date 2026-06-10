@@ -1,8 +1,16 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-06-10",
+  "last_updated": "2026-06-11",
   "last_biweekly": "2026-05-04",
   "items": {
+    "sdk_meta_rayban_display_v125_palm_unlock_call_captions_jun8_2026": {
+      "title": "Android CentralがMeta Ray-Ban Display v125関連でPalm Unlock/通話字幕/WhatsApp POV通話/Live Sports/Cellular設定の段階的配信を報道 Meta公式告知は未確認",
+      "source_name": "Android Central",
+      "source_url": "https://www.androidcentral.com/gaming/virtual-reality/update-alert-metas-ray-ban-display-gets-palm-unlock-real-time-call-captions",
+      "first_reported": "2026-06-11",
+      "last_seen": "2026-06-11",
+      "category": "sdk"
+    },
     "sdk_apple_visionos_27_preview_jun8_2026": {
       "title": "AppleがvisionOS 27 Preview公開 Siri AI/Visual Intelligence/curved windows/Spatial Mac previewing/新Web EnvironmentsなどVision Pro向け機能を告知",
       "source_name": "Apple",
