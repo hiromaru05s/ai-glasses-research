@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-06-14",
+  "last_updated": "2026-06-17",
   "last_biweekly": "2026-05-04",
   "items": {
     "device_xreal_xbx_a01_may27_2026": {
@@ -1096,7 +1096,7 @@
       "source_name": "Meta Newsroom",
       "source_url": "https://about.fb.com/news/2026/06/free-ai-glasses-for-every-blind-veteran/",
       "first_reported": "2026-06-13",
-      "last_seen": "2026-06-14",
+      "last_seen": "2026-06-17",
       "category": "partnership"
     },
     "partnership_samsung_abbott_galaxy_xr_blood_donation_jun11_2026": {
@@ -1104,7 +1104,7 @@
       "source_name": "Samsung Global Newsroom",
       "source_url": "https://news.samsung.com/global/galaxy-xr-helps-reimagine-blood-donation-experiences-for-donors-worldwide",
       "first_reported": "2026-06-13",
-      "last_seen": "2026-06-14",
+      "last_seen": "2026-06-17",
       "category": "partnership"
     },
     "regulation_pennsylvania_hb2603_smart_glasses_indicator_jun5_2026": {
@@ -1114,6 +1114,38 @@
       "first_reported": "2026-06-14",
       "last_seen": "2026-06-14",
       "category": "regulation"
+    },
+    "device_snap_specs_consumer_preorder_jun16_2026": {
+      "title": "Snapがconsumer向けARグラスSpecsを正式予約開始 $2,195で今秋米英仏へ出荷予定",
+      "source_name": "Snap Newsroom",
+      "source_url": "https://newsroom.snap.com/introducing-specs-augmented-reality-glasses",
+      "first_reported": "2026-06-17",
+      "last_seen": "2026-06-17",
+      "category": "device"
+    },
+    "device_xreal_aura_reservations_open_jun16_2026": {
+      "title": "XREAL AURAが予約開始 70度OSTとGemini搭載のAndroid XR有線グラスを今秋投入 予約$99/本体上限$1,500",
+      "source_name": "XREAL / Google Blog",
+      "source_url": "https://www.xreal.com/aura",
+      "first_reported": "2026-06-17",
+      "last_seen": "2026-06-17",
+      "category": "device"
+    },
+    "sdk_android_xr_awe_tooling_updates_jun15_2026": {
+      "title": "Android XRがAWE向け開発更新 Jetpack Projected/Compose Glimmer改善とGeospatial API previewを案内",
+      "source_name": "Android Developers Blog",
+      "source_url": "https://android-developers.googleblog.com/2026/06/what-is-new-android-xr.html",
+      "first_reported": "2026-06-17",
+      "last_seen": "2026-06-17",
+      "category": "sdk"
+    },
+    "sdk_qualcomm_snapdragon_reality_elite_jun16_2026": {
+      "title": "QualcommがSnapdragon Reality Elite発表 GPU+60% CPU+30% NPU最大160%でXREAL AURA初採用へ",
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/gadgets/950229/qualcomm-snapdragon-reality-elite-xr-smart-glasses-wearables",
+      "first_reported": "2026-06-17",
+      "last_seen": "2026-06-17",
+      "category": "sdk"
     }
   }
 }
