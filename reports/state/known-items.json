@@ -24,7 +24,7 @@
       "source_name": "Apple",
       "source_url": "https://www.apple.com/os/visionos/",
       "first_reported": "2026-06-10",
-      "last_seen": "2026-06-14",
+      "last_seen": "2026-06-17",
       "category": "sdk"
     },
     "regulation_meta_nametag_code_removed_jun8_2026": {
@@ -40,7 +40,7 @@
       "source_name": "Google Blog / Samsung Newsroom U.K.",
       "source_url": "https://blog.google/products-and-platforms/platforms/android/android-xr-io-2026/",
       "first_reported": "2026-06-03",
-      "last_seen": "2026-06-13",
+      "last_seen": "2026-06-17",
       "category": "device"
     },
     "sdk_android_xr_dp4_audio_display_glasses_may19_2026": {
@@ -64,7 +64,7 @@
       "source_name": "XREAL",
       "source_url": "https://www.xreal.com/nl-en/blog/project-aura-google-io-2026",
       "first_reported": "2026-06-03",
-      "last_seen": "2026-06-14",
+      "last_seen": "2026-06-17",
       "category": "device"
     },
     "device_meta_japan_launch_rayban_oakley_may21_2026": {
@@ -1008,7 +1008,7 @@
       "source_name": "Snap Newsroom",
       "source_url": "https://newsroom.snap.com/awe-2026-save-the-date",
       "first_reported": "2026-05-03",
-      "last_seen": "2026-06-13",
+      "last_seen": "2026-06-17",
       "category": "partnership"
     },
     "device_apple_glasses_gurman_skeptical_gesture_controls": {
@@ -1143,6 +1143,22 @@
       "title": "QualcommがSnapdragon Reality Elite発表 GPU+60% CPU+30% NPU最大160%でXREAL AURA初採用へ",
       "source_name": "The Verge",
       "source_url": "https://www.theverge.com/gadgets/950229/qualcomm-snapdragon-reality-elite-xr-smart-glasses-wearables",
+      "first_reported": "2026-06-17",
+      "last_seen": "2026-06-17",
+      "category": "sdk"
+    },
+    "sdk_snap_specs_developer_tools_jun16_2026": {
+      "title": "SnapがSPECS向け開発基盤を拡張 agentic development preview/Spatial Benchmark/NDK/Commerce Kitを公開",
+      "source_name": "Snap Newsroom",
+      "source_url": "https://newsroom.snap.com/snap-launches-new-tools-for-specs-developers",
+      "first_reported": "2026-06-17",
+      "last_seen": "2026-06-17",
+      "category": "sdk"
+    },
+    "sdk_qualcomm_snapdragon_start_jun16_2026": {
+      "title": "QualcommがSnapdragon STARTを公開 audio/display AIグラス向けturnkey toolkitで参入短縮を狙う",
+      "source_name": "Qualcomm / 9to5Google",
+      "source_url": "https://www.qualcomm.com/news/releases",
       "first_reported": "2026-06-17",
       "last_seen": "2026-06-17",
       "category": "sdk"
