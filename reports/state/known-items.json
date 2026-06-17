@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-06-17",
+  "last_updated": "2026-06-18",
   "last_biweekly": "2026-05-04",
   "items": {
     "device_xreal_xbx_a01_may27_2026": {
@@ -1162,6 +1162,22 @@
       "first_reported": "2026-06-17",
       "last_seen": "2026-06-17",
       "category": "sdk"
+    },
+    "device_samsung_galaxy_xr_uk_launch_jun17_2026": {
+      "title": "SamsungがGalaxy XRの英国予約開始を発表 7月8日発売で欧州のAndroid XR実売地域を拡大",
+      "source_name": "Samsung Newsroom U.K.",
+      "source_url": "https://news.samsung.com/uk/samsung-galaxy-xr-arrives-in-the-uk",
+      "first_reported": "2026-06-18",
+      "last_seen": "2026-06-18",
+      "category": "device"
+    },
+    "device_samsungdisplay_rgb_oledos_awe_jun17_2026": {
+      "title": "Samsung DisplayがAWE 2026で40,000nit RGB OLEDoSと0.62型搭載ARスマートグラス試作機を公開",
+      "source_name": "Samsung Display",
+      "source_url": "https://www.samsungdisplay.com/eng/media/news/detail/ssdsNews-260617.jsp",
+      "first_reported": "2026-06-18",
+      "last_seen": "2026-06-18",
+      "category": "device"
     }
   }
 }
