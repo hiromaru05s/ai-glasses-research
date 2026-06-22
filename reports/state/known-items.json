@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-06-19",
+  "last_updated": "2026-06-22",
   "last_biweekly": "2026-05-04",
   "items": {
     "device_xreal_xbx_a01_may27_2026": {
@@ -1178,6 +1178,14 @@
       "first_reported": "2026-06-18",
       "last_seen": "2026-06-18",
       "category": "device"
+    },
+    "sdk_visionos_266_beta2_jun15_2026": {
+      "title": "AppleがvisionOS 26.6 beta 2 (23O5743c) を開発者向け公開 現行系Vision Proの安定化ラインを継続",
+      "source_name": "Apple Developer",
+      "source_url": "https://developer.apple.com/news/releases/?id=06152026e",
+      "first_reported": "2026-06-22",
+      "last_seen": "2026-06-22",
+      "category": "sdk"
     }
   }
 }
