@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-06-22",
+  "last_updated": "2026-06-25",
   "last_biweekly": "2026-05-04",
   "items": {
     "device_xreal_xbx_a01_may27_2026": {
@@ -1096,7 +1096,7 @@
       "source_name": "Meta Newsroom",
       "source_url": "https://about.fb.com/news/2026/06/free-ai-glasses-for-every-blind-veteran/",
       "first_reported": "2026-06-13",
-      "last_seen": "2026-06-17",
+      "last_seen": "2026-06-25",
       "category": "partnership"
     },
     "partnership_samsung_abbott_galaxy_xr_blood_donation_jun11_2026": {
@@ -1120,7 +1120,7 @@
       "source_name": "Snap Newsroom",
       "source_url": "https://newsroom.snap.com/introducing-specs-augmented-reality-glasses",
       "first_reported": "2026-06-17",
-      "last_seen": "2026-06-17",
+      "last_seen": "2026-06-25",
       "category": "device"
     },
     "device_xreal_aura_reservations_open_jun16_2026": {
@@ -1128,7 +1128,7 @@
       "source_name": "XREAL / Google Blog",
       "source_url": "https://www.xreal.com/aura",
       "first_reported": "2026-06-17",
-      "last_seen": "2026-06-17",
+      "last_seen": "2026-06-25",
       "category": "device"
     },
     "sdk_android_xr_awe_tooling_updates_jun15_2026": {
@@ -1136,7 +1136,7 @@
       "source_name": "Android Developers Blog",
       "source_url": "https://android-developers.googleblog.com/2026/06/what-is-new-android-xr.html",
       "first_reported": "2026-06-17",
-      "last_seen": "2026-06-17",
+      "last_seen": "2026-06-25",
       "category": "sdk"
     },
     "sdk_qualcomm_snapdragon_reality_elite_jun16_2026": {
@@ -1144,7 +1144,7 @@
       "source_name": "The Verge",
       "source_url": "https://www.theverge.com/gadgets/950229/qualcomm-snapdragon-reality-elite-xr-smart-glasses-wearables",
       "first_reported": "2026-06-17",
-      "last_seen": "2026-06-17",
+      "last_seen": "2026-06-25",
       "category": "sdk"
     },
     "sdk_snap_specs_developer_tools_jun16_2026": {
@@ -1152,7 +1152,7 @@
       "source_name": "Snap Newsroom",
       "source_url": "https://newsroom.snap.com/snap-launches-new-tools-for-specs-developers",
       "first_reported": "2026-06-17",
-      "last_seen": "2026-06-17",
+      "last_seen": "2026-06-25",
       "category": "sdk"
     },
     "sdk_qualcomm_snapdragon_start_jun16_2026": {
@@ -1160,7 +1160,7 @@
       "source_name": "Qualcomm / 9to5Google",
       "source_url": "https://www.qualcomm.com/news/releases",
       "first_reported": "2026-06-17",
-      "last_seen": "2026-06-17",
+      "last_seen": "2026-06-25",
       "category": "sdk"
     },
     "device_samsung_galaxy_xr_uk_launch_jun17_2026": {
@@ -1168,7 +1168,7 @@
       "source_name": "Samsung Newsroom U.K.",
       "source_url": "https://news.samsung.com/uk/samsung-galaxy-xr-arrives-in-the-uk",
       "first_reported": "2026-06-18",
-      "last_seen": "2026-06-18",
+      "last_seen": "2026-06-25",
       "category": "device"
     },
     "device_samsungdisplay_rgb_oledos_awe_jun17_2026": {
@@ -1184,8 +1184,24 @@
       "source_name": "Apple Developer",
       "source_url": "https://developer.apple.com/news/releases/?id=06152026e",
       "first_reported": "2026-06-22",
-      "last_seen": "2026-06-22",
+      "last_seen": "2026-06-25",
       "category": "sdk"
+    },
+    "sdk_visionos_27_beta2_jun22_2026": {
+      "title": "AppleがvisionOS 27.0 beta 2 (24M5306i) を開発者向け公開 Vision Pro次期メジャー系の継続検証フェーズ",
+      "source_name": "Apple Developer",
+      "source_url": "https://developer.apple.com/news/releases/?id=06222026e",
+      "first_reported": "2026-06-25",
+      "last_seen": "2026-06-25",
+      "category": "sdk"
+    },
+    "device_meta_glasses_essilorluxottica_launch_jun23_2026": {
+      "title": "MetaがEssilorLuxotticaと新ライン\"Meta Glasses\"を正式発売 26スタイル/$299起点/Muse Spark標準搭載で自社ブランド展開を拡大",
+      "source_name": "Meta Newsroom",
+      "source_url": "https://about.fb.com/news/2026/06/meta-essilorluxottica-partner-launch-meta-glasses/",
+      "first_reported": "2026-06-25",
+      "last_seen": "2026-06-25",
+      "category": "device"
     }
   }
 }
