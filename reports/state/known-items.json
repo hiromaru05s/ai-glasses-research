@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-06-25",
+  "last_updated": "2026-06-26",
   "last_biweekly": "2026-05-04",
   "items": {
     "device_xreal_xbx_a01_may27_2026": {
@@ -1104,7 +1104,7 @@
       "source_name": "Samsung Global Newsroom",
       "source_url": "https://news.samsung.com/global/galaxy-xr-helps-reimagine-blood-donation-experiences-for-donors-worldwide",
       "first_reported": "2026-06-13",
-      "last_seen": "2026-06-17",
+      "last_seen": "2026-06-26",
       "category": "partnership"
     },
     "regulation_pennsylvania_hb2603_smart_glasses_indicator_jun5_2026": {
@@ -1120,7 +1120,7 @@
       "source_name": "Snap Newsroom",
       "source_url": "https://newsroom.snap.com/introducing-specs-augmented-reality-glasses",
       "first_reported": "2026-06-17",
-      "last_seen": "2026-06-25",
+      "last_seen": "2026-06-26",
       "category": "device"
     },
     "device_xreal_aura_reservations_open_jun16_2026": {
@@ -1136,7 +1136,7 @@
       "source_name": "Android Developers Blog",
       "source_url": "https://android-developers.googleblog.com/2026/06/what-is-new-android-xr.html",
       "first_reported": "2026-06-17",
-      "last_seen": "2026-06-25",
+      "last_seen": "2026-06-26",
       "category": "sdk"
     },
     "sdk_qualcomm_snapdragon_reality_elite_jun16_2026": {
@@ -1152,7 +1152,7 @@
       "source_name": "Snap Newsroom",
       "source_url": "https://newsroom.snap.com/snap-launches-new-tools-for-specs-developers",
       "first_reported": "2026-06-17",
-      "last_seen": "2026-06-25",
+      "last_seen": "2026-06-26",
       "category": "sdk"
     },
     "sdk_qualcomm_snapdragon_start_jun16_2026": {
@@ -1160,7 +1160,7 @@
       "source_name": "Qualcomm / 9to5Google",
       "source_url": "https://www.qualcomm.com/news/releases",
       "first_reported": "2026-06-17",
-      "last_seen": "2026-06-25",
+      "last_seen": "2026-06-26",
       "category": "sdk"
     },
     "device_samsung_galaxy_xr_uk_launch_jun17_2026": {
@@ -1192,7 +1192,7 @@
       "source_name": "Apple Developer",
       "source_url": "https://developer.apple.com/news/releases/?id=06222026e",
       "first_reported": "2026-06-25",
-      "last_seen": "2026-06-25",
+      "last_seen": "2026-06-26",
       "category": "sdk"
     },
     "device_meta_glasses_essilorluxottica_launch_jun23_2026": {
@@ -1200,8 +1200,24 @@
       "source_name": "Meta Newsroom",
       "source_url": "https://about.fb.com/news/2026/06/meta-essilorluxottica-partner-launch-meta-glasses/",
       "first_reported": "2026-06-25",
-      "last_seen": "2026-06-25",
+      "last_seen": "2026-06-26",
       "category": "device"
+    },
+    "market_snap_illumix_acquisition_jun5_2026": {
+      "title": "SnapがIllumixを買収しSpecs向けに空間マッピング技術と人材を取り込む方針を報道ベースで確認",
+      "source_name": "Road to VR",
+      "source_url": "https://roadtovr.com/snap-acquires-illumix-specsar-glasses/",
+      "first_reported": "2026-06-26",
+      "last_seen": "2026-06-26",
+      "category": "market"
+    },
+    "partnership_qualcomm_inspecs_start_investment_jun16_2026": {
+      "title": "QualcommがInspecsへ約$10m出資しSnapdragon START初号パートナーとして商用スマートアイウェア協業を開始",
+      "source_name": "Investegate / RNS",
+      "source_url": "https://www.investegate.co.uk/announcement/rns/inspecs-group--spec/collaboration-with-qualcomm-technologies/9621673",
+      "first_reported": "2026-06-26",
+      "last_seen": "2026-06-26",
+      "category": "partnership"
     }
   }
 }
