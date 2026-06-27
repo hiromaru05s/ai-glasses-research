@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-06-26",
+  "last_updated": "2026-06-28",
   "last_biweekly": "2026-05-04",
   "items": {
     "device_xreal_xbx_a01_may27_2026": {
@@ -1104,7 +1104,7 @@
       "source_name": "Samsung Global Newsroom",
       "source_url": "https://news.samsung.com/global/galaxy-xr-helps-reimagine-blood-donation-experiences-for-donors-worldwide",
       "first_reported": "2026-06-13",
-      "last_seen": "2026-06-26",
+      "last_seen": "2026-06-28",
       "category": "partnership"
     },
     "regulation_pennsylvania_hb2603_smart_glasses_indicator_jun5_2026": {
@@ -1120,7 +1120,7 @@
       "source_name": "Snap Newsroom",
       "source_url": "https://newsroom.snap.com/introducing-specs-augmented-reality-glasses",
       "first_reported": "2026-06-17",
-      "last_seen": "2026-06-26",
+      "last_seen": "2026-06-28",
       "category": "device"
     },
     "device_xreal_aura_reservations_open_jun16_2026": {
@@ -1128,7 +1128,7 @@
       "source_name": "XREAL / Google Blog",
       "source_url": "https://www.xreal.com/aura",
       "first_reported": "2026-06-17",
-      "last_seen": "2026-06-25",
+      "last_seen": "2026-06-28",
       "category": "device"
     },
     "sdk_android_xr_awe_tooling_updates_jun15_2026": {
@@ -1136,7 +1136,7 @@
       "source_name": "Android Developers Blog",
       "source_url": "https://android-developers.googleblog.com/2026/06/what-is-new-android-xr.html",
       "first_reported": "2026-06-17",
-      "last_seen": "2026-06-26",
+      "last_seen": "2026-06-28",
       "category": "sdk"
     },
     "sdk_qualcomm_snapdragon_reality_elite_jun16_2026": {
@@ -1152,7 +1152,7 @@
       "source_name": "Snap Newsroom",
       "source_url": "https://newsroom.snap.com/snap-launches-new-tools-for-specs-developers",
       "first_reported": "2026-06-17",
-      "last_seen": "2026-06-26",
+      "last_seen": "2026-06-28",
       "category": "sdk"
     },
     "sdk_qualcomm_snapdragon_start_jun16_2026": {
@@ -1160,7 +1160,7 @@
       "source_name": "Qualcomm / 9to5Google",
       "source_url": "https://www.qualcomm.com/news/releases",
       "first_reported": "2026-06-17",
-      "last_seen": "2026-06-26",
+      "last_seen": "2026-06-28",
       "category": "sdk"
     },
     "device_samsung_galaxy_xr_uk_launch_jun17_2026": {
@@ -1168,7 +1168,7 @@
       "source_name": "Samsung Newsroom U.K.",
       "source_url": "https://news.samsung.com/uk/samsung-galaxy-xr-arrives-in-the-uk",
       "first_reported": "2026-06-18",
-      "last_seen": "2026-06-25",
+      "last_seen": "2026-06-28",
       "category": "device"
     },
     "device_samsungdisplay_rgb_oledos_awe_jun17_2026": {
@@ -1192,7 +1192,7 @@
       "source_name": "Apple Developer",
       "source_url": "https://developer.apple.com/news/releases/?id=06222026e",
       "first_reported": "2026-06-25",
-      "last_seen": "2026-06-26",
+      "last_seen": "2026-06-28",
       "category": "sdk"
     },
     "device_meta_glasses_essilorluxottica_launch_jun23_2026": {
@@ -1200,7 +1200,7 @@
       "source_name": "Meta Newsroom",
       "source_url": "https://about.fb.com/news/2026/06/meta-essilorluxottica-partner-launch-meta-glasses/",
       "first_reported": "2026-06-25",
-      "last_seen": "2026-06-26",
+      "last_seen": "2026-06-28",
       "category": "device"
     },
     "market_snap_illumix_acquisition_jun5_2026": {
@@ -1218,6 +1218,14 @@
       "first_reported": "2026-06-26",
       "last_seen": "2026-06-26",
       "category": "partnership"
+    },
+    "market_counterpoint_intelligent_eyewear_q1_2026_83pct_yoy_jun24_2026": {
+      "title": "CounterpointがQ1 2026インテリジェントアイウェア市場83%YoY成長を報告 Metaはsmart glasses市場で84%シェアを維持",
+      "source_name": "Counterpoint Research",
+      "source_url": "https://counterpointresearch.com/en/insights/intelligent-eyewear-up-yoy-driven-by-demand-q1-2026",
+      "first_reported": "2026-06-28",
+      "last_seen": "2026-06-28",
+      "category": "market"
     }
   }
 }
