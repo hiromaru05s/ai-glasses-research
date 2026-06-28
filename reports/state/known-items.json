@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-06-28",
+  "last_updated": "2026-06-29",
   "last_biweekly": "2026-05-04",
   "items": {
     "device_xreal_xbx_a01_may27_2026": {
@@ -1225,6 +1225,30 @@
       "source_url": "https://counterpointresearch.com/en/insights/intelligent-eyewear-up-yoy-driven-by-demand-q1-2026",
       "first_reported": "2026-06-28",
       "last_seen": "2026-06-28",
+      "category": "market"
+    },
+    "partnership_essilorluxottica_appliedmaterials_ar_optics_jun16_2026": {
+      "title": "EssilorLuxotticaとApplied MaterialsがAR光学プラットフォーム共同開発で提携 waveguidesやadaptive lenses向け専用ラボで次世代スマートグラス量産加速を狙う",
+      "source_name": "EssilorLuxottica / Applied Materials",
+      "source_url": "https://www.essilorluxottica.com/en/newsroom/press-releases/essilorluxottica-and-applied-materials-join-forces/",
+      "first_reported": "2026-06-29",
+      "last_seen": "2026-06-29",
+      "category": "partnership"
+    },
+    "other_appliedmaterials_senz_platform_jun17_2026": {
+      "title": "Applied MaterialsがSENZ発表 waveguide opticsやlight engineやelectronic dimmingを統合し次世代スマートグラスの量産短縮を訴求",
+      "source_name": "Applied Materials",
+      "source_url": "https://www.globenewswire.com/news-release/2026/06/17/3313572/0/en/applied-materials-unveils-senz-a-fully-integrated-visual-system-for-next-gen-smart-glasses.html",
+      "first_reported": "2026-06-29",
+      "last_seen": "2026-06-29",
+      "category": "other"
+    },
+    "market_idc_smart_glasses_q1_2026_share_forecast_jun15_2026": {
+      "title": "IDCがQ1 2026のdisplay-less smart glasses 167%YoY増とMeta 69.2%シェアを公表 2026年通年1360万台予測も提示",
+      "source_name": "IDC",
+      "source_url": "https://www.idc.com/resource-center/blog/smart-glasses-surge-the-xr-market-is-rewriting-its-own-rules/",
+      "first_reported": "2026-06-29",
+      "last_seen": "2026-06-29",
       "category": "market"
     }
   }
