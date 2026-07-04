@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-07-03",
+  "last_updated": "2026-07-04",
   "last_biweekly": "2026-05-04",
   "items": {
     "device_xreal_xbx_a01_may27_2026": {
@@ -355,14 +355,6 @@
       "last_seen": "2026-04-23",
       "category": "device"
     },
-    "device_samsung_galaxy_glasses_245mah_leak": {
-      "title": "Samsung Galaxy Glasses 245mAhバッテリーリーク",
-      "source_name": "9to5Google",
-      "source_url": "https://9to5google.com/2026/03/16/samsung-galaxy-glasses-android-xr-battery-leak/",
-      "first_reported": "2026-04-05",
-      "last_seen": "2026-04-05",
-      "category": "device"
-    },
     "partnership_samsung_gentle_monster_warby_parker": {
       "title": "Samsung Gentle Monster/Warby Parkerコラボ確定",
       "source_name": "Tom's Guide",
@@ -387,46 +379,6 @@
       "last_seen": "2026-04-17",
       "category": "device"
     },
-    "device_xreal_asus_rog_240hz": {
-      "title": "XREAL×ASUS ROG 240Hzディスプレイ搭載グラス",
-      "source_name": "Geeky Gadgets",
-      "source_url": "https://www.geeky-gadgets.com/best-smart-glasses-2026-compared/",
-      "first_reported": "2026-04-05",
-      "last_seen": "2026-04-05",
-      "category": "device"
-    },
-    "partnership_xreal_google_multiyear": {
-      "title": "XREAL×Google複数年コラボ Android XR初サードパーティ",
-      "source_name": "Geeky Gadgets",
-      "source_url": "https://www.geeky-gadgets.com/best-smart-glasses-2026-compared/",
-      "first_reported": "2026-04-05",
-      "last_seen": "2026-04-05",
-      "category": "partnership"
-    },
-    "market_xreal_100m_funding": {
-      "title": "XREAL $100M資金調達",
-      "source_name": "Geeky Gadgets",
-      "source_url": "https://www.geeky-gadgets.com/best-smart-glasses-2026-compared/",
-      "first_reported": "2026-04-05",
-      "last_seen": "2026-04-05",
-      "category": "market"
-    },
-    "device_xreal_1s_449": {
-      "title": "XREAL 1S発売 $449 1200p/eye 52FOV",
-      "source_name": "Geeky Gadgets",
-      "source_url": "https://www.geeky-gadgets.com/best-smart-glasses-2026-compared/",
-      "first_reported": "2026-04-05",
-      "last_seen": "2026-04-05",
-      "category": "device"
-    },
-    "device_rokid_chatgpt5": {
-      "title": "Rokid ChatGPT 5統合 12MPカメラ リアルタイム翻訳",
-      "source_name": "",
-      "source_url": "",
-      "first_reported": "2026-04-05",
-      "last_seen": "2026-04-05",
-      "category": "device"
-    },
     "device_alibaba_quark_s1": {
       "title": "Alibaba Quark S1 AIグラス発表 Snapdragon XR",
       "source_name": "XR Today",
@@ -449,14 +401,6 @@
       "source_url": "https://www.businesswire.com/news/home/20260113778367/en/",
       "first_reported": "2026-04-05",
       "last_seen": "2026-04-24",
-      "category": "market"
-    },
-    "market_bof_breakthrough_year_2026": {
-      "title": "BoF State of Fashion 2026 スマートグラスをブレークスルー年",
-      "source_name": "Business of Fashion",
-      "source_url": "https://www.businessoffashion.com/articles/technology/the-state-of-fashion-2026-report-smart-glasses-ai-wearables/",
-      "first_reported": "2026-04-05",
-      "last_seen": "2026-04-05",
       "category": "market"
     },
     "device_nothing_ai_glasses_2027": {
@@ -498,30 +442,6 @@
       "first_reported": "2026-04-05",
       "last_seen": "2026-04-07",
       "category": "device"
-    },
-    "sdk_meta_nutrition_tracking": {
-      "title": "Meta AI栄養トラッキング機能 音声/写真でハンズフリー食事ログ",
-      "source_name": "UploadVR",
-      "source_url": "https://www.uploadvr.com/meta-glasses-spring-summer-2026-software-updates/",
-      "first_reported": "2026-04-05",
-      "last_seen": "2026-04-05",
-      "category": "sdk"
-    },
-    "sdk_meta_whatsapp_summaries_recall_eap": {
-      "title": "Meta WhatsAppハンズフリーサマリー・リコール機能 (EAP)",
-      "source_name": "UploadVR",
-      "source_url": "https://www.uploadvr.com/meta-glasses-spring-summer-2026-software-updates/",
-      "first_reported": "2026-04-05",
-      "last_seen": "2026-04-05",
-      "category": "sdk"
-    },
-    "sdk_meta_neural_handwriting_imessage_rollout": {
-      "title": "Meta Neural Handwriting iMessage対応・全ユーザー展開",
-      "source_name": "Meta Blog",
-      "source_url": "https://www.meta.com/blog/ray-ban-meta-styles-prescription-lenses/",
-      "first_reported": "2026-04-05",
-      "last_seen": "2026-04-05",
-      "category": "sdk"
     },
     "device_meta_rayban_gen2_spring_colors": {
       "title": "Meta Ray-Ban Gen 2 春夏2026新カラー Skyler/Headliner/Wayfarer",
@@ -1282,6 +1202,14 @@
       "first_reported": "2026-07-01",
       "last_seen": "2026-07-01",
       "category": "device"
+    },
+    "sdk_meta_ai_glasses_v26_release_notes_jul4_2026": {
+      "title": "MetaがAI glasses v26配信を案内 Muse SparkやDynamic photoに加えConversation Focus多地域展開と日本語/韓国語対応を正式公開",
+      "source_name": "Meta AI Glasses Help",
+      "source_url": "https://www.meta.com/help/ai-glasses/1809764829519902/",
+      "first_reported": "2026-07-04",
+      "last_seen": "2026-07-04",
+      "category": "sdk"
     }
   }
 }
