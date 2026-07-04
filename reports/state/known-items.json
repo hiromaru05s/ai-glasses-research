@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-07-04",
+  "last_updated": "2026-07-05",
   "last_biweekly": "2026-05-04",
   "items": {
     "device_xreal_xbx_a01_may27_2026": {
@@ -1209,6 +1209,14 @@
       "source_url": "https://www.meta.com/help/ai-glasses/1809764829519902/",
       "first_reported": "2026-07-04",
       "last_seen": "2026-07-04",
+      "category": "sdk"
+    },
+    "sdk_meta_ai_glasses_fitness_golf_integrations_jul5_2026": {
+      "title": "MetaがAIグラスでApple Health/Health Connect/Garmin/Strava/18Birdies/Arccos連携を案内し health・golfデータをMeta AI各面で使う導線を整備",
+      "source_name": "Meta AI Glasses Help",
+      "source_url": "https://www.meta.com/help/ai-glasses/809822801628923/",
+      "first_reported": "2026-07-05",
+      "last_seen": "2026-07-05",
       "category": "sdk"
     }
   }
