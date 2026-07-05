@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-07-05",
+  "last_updated": "2026-07-06",
   "last_biweekly": "2026-05-04",
   "items": {
     "device_xreal_xbx_a01_may27_2026": {
@@ -1217,6 +1217,14 @@
       "source_url": "https://www.meta.com/help/ai-glasses/809822801628923/",
       "first_reported": "2026-07-05",
       "last_seen": "2026-07-05",
+      "category": "sdk"
+    },
+    "sdk_meta_ai_glasses_autocapture_modes_jul6_2026": {
+      "title": "MetaがAIグラス向けAutocapture詳細を更新し AI主導の自動撮影とGarmin連動の自動撮影を別モードとして整理 golf対応や地域制約も明示",
+      "source_name": "Meta AI Glasses Help",
+      "source_url": "https://www.meta.com/help/ai-glasses/1824727564872648/",
+      "first_reported": "2026-07-06",
+      "last_seen": "2026-07-06",
       "category": "sdk"
     }
   }
