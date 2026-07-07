@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-07-06",
+  "last_updated": "2026-07-07",
   "last_biweekly": "2026-05-04",
   "items": {
     "device_xreal_xbx_a01_may27_2026": {
@@ -1225,6 +1225,22 @@
       "source_url": "https://www.meta.com/help/ai-glasses/1824727564872648/",
       "first_reported": "2026-07-06",
       "last_seen": "2026-07-06",
+      "category": "sdk"
+    },
+    "sdk_visionos_27_beta3_jul6_2026": {
+      "title": "AppleがvisionOS 27.0 beta 3 (24M5316k) を開発者向け公開 Vision Pro次期メジャー系の継続検証フェーズ",
+      "source_name": "Apple Developer",
+      "source_url": "https://developer.apple.com/news/releases/",
+      "first_reported": "2026-07-07",
+      "last_seen": "2026-07-07",
+      "category": "sdk"
+    },
+    "sdk_visionos_266_beta4_jul6_2026": {
+      "title": "AppleがvisionOS 26.6 beta 4 (23O5757c) を開発者向け公開 Vision Pro現行系の安定化ラインを週次更新",
+      "source_name": "Apple Developer",
+      "source_url": "https://developer.apple.com/news/releases/",
+      "first_reported": "2026-07-07",
+      "last_seen": "2026-07-07",
       "category": "sdk"
     }
   }
