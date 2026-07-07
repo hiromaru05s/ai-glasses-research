@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-07-07",
+  "last_updated": "2026-07-08",
   "last_biweekly": "2026-05-04",
   "items": {
     "device_xreal_xbx_a01_may27_2026": {
@@ -1242,6 +1242,14 @@
       "first_reported": "2026-07-07",
       "last_seen": "2026-07-07",
       "category": "sdk"
+    },
+    "device_xreal_xbx_a01plus_launch_jul8_2026": {
+      "title": "XREALが低価格ビューアー系のxbx a01+を日本で販売開始し EU向けには7月10日ローンチ予告を掲出",
+      "source_name": "XREAL JP Shop / XREAL EU Shop",
+      "source_url": "https://jp.shop.xreal.com/s/xbxpr",
+      "first_reported": "2026-07-08",
+      "last_seen": "2026-07-08",
+      "category": "device"
     }
   }
 }
