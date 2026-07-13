@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-07-10",
+  "last_updated": "2026-07-13",
   "last_biweekly": "2026-05-04",
   "items": {
     "device_xreal_xbx_a01_may27_2026": {
@@ -411,14 +411,6 @@
       "last_seen": "2026-04-23",
       "category": "other"
     },
-    "market_omdia_2025_ai_glasses_87m_322pct_yoy": {
-      "title": "Omdia 2025年AIグラス出荷870万台 前年比322%成長",
-      "source_name": "SCMP (Omdia引用)",
-      "source_url": "https://www.scmp.com/tech/tech-trends/article/3349267/chinese-ai-glasses-maker-rokid-planning-hong-kong-ipo-sources",
-      "first_reported": "2026-04-11",
-      "last_seen": "2026-04-11",
-      "category": "market"
-    },
     "partnership_snap_qualcomm_snapdragon_xr_multiyear": {
       "title": "Snap(Specs Inc.)×Qualcomm 複数年Snapdragon XR戦略提携",
       "source_name": "Snap Newsroom",
@@ -427,36 +419,12 @@
       "last_seen": "2026-06-13",
       "category": "partnership"
     },
-    "market_xreal_hk_ipo_filing_400m": {
-      "title": "XREAL香港IPO申請 $400M規模 世界初純粋スマートグラス上場目指す",
-      "source_name": "Pandaily / IFR",
-      "source_url": "https://pandaily.com/xreal-files-for-hong-kong-ipo-targets-smart-glasses-leadership",
-      "first_reported": "2026-04-12",
-      "last_seen": "2026-04-12",
-      "category": "market"
-    },
     "device_samsung_galaxy_glasses_aug2026_600_900": {
       "title": "Samsung Galaxy Glasses 8月発売・$600-900価格帯の具体情報",
       "source_name": "Geeky Gadgets / Tech Magazine",
       "source_url": "https://www.geeky-gadgets.com/samsung-galaxy-glasses/",
       "first_reported": "2026-04-12",
       "last_seen": "2026-04-23",
-      "category": "device"
-    },
-    "sdk_niantic_vps2_nsdk4": {
-      "title": "Niantic Spatial VPS 2.0+NSDK 4.0リリース センチメートル精度6DoF",
-      "source_name": "GeekWire",
-      "source_url": "https://www.geekwire.com/2026/from-pokemon-go-to-physical-ai-niantic-spatial-unveils-its-global-3d-mapping-platform/",
-      "first_reported": "2026-04-12",
-      "last_seen": "2026-04-12",
-      "category": "sdk"
-    },
-    "device_amazon_jayhawk_ar_glasses": {
-      "title": "Amazon Jayhawk消費者向けARグラス 2026年末〜2027年初発売計画",
-      "source_name": "Next Reality / Entrepreneur",
-      "source_url": "https://virtual.reality.news/news/amazon-ar-glasses-revealed-two-models-launch-2026/",
-      "first_reported": "2026-04-12",
-      "last_seen": "2026-04-12",
       "category": "device"
     },
     "device_apple_n50_smart_glasses_4styles_2027": {
@@ -467,30 +435,6 @@
       "last_seen": "2026-04-23",
       "category": "device"
     },
-    "other_apple_giannandrea_departure": {
-      "title": "Apple AI責任者John Giannandrea退任 責任はFederighi等に分散",
-      "source_name": "Bloomberg",
-      "source_url": "https://www.bloomberg.com/news/newsletters/2026-04-12/apple-ai-smart-glasses-features-styles-colors-cameras-giannandrea-leaving-mnvtz4yg",
-      "first_reported": "2026-04-13",
-      "last_seen": "2026-04-13",
-      "category": "other"
-    },
-    "market_rokid_waveguide_oem_leader_h2_2025": {
-      "title": "Rokid導波路型スマートグラス世界出荷OEM首位 H2 2025",
-      "source_name": "Gadget Pilipinas / Counterpoint",
-      "source_url": "https://www.gadgetpilipinas.net/2026/04/smart-glasses-market-surge-rokid/",
-      "first_reported": "2026-04-13",
-      "last_seen": "2026-04-13",
-      "category": "market"
-    },
-    "market_rayneo_video_glasses_42pct_share_h2_2025": {
-      "title": "RayNeo動画対応スマートグラスセグメント42%シェア首位 H2 2025",
-      "source_name": "Gadget Pilipinas / Counterpoint",
-      "source_url": "https://www.gadgetpilipinas.net/2026/04/smart-glasses-market-surge-rokid/",
-      "first_reported": "2026-04-13",
-      "last_seen": "2026-04-13",
-      "category": "market"
-    },
     "sdk_android_xr_april2026_5_features": {
       "title": "Android XR April 2026 Update 5機能 Auto-Spatialization/Enterprise/単眼アイトラッキング等",
       "source_name": "Google Blog",
@@ -499,14 +443,6 @@
       "last_seen": "2026-04-23",
       "category": "sdk"
     },
-    "device_meta_hypernova2_binocular_2026_pulled_in": {
-      "title": "Meta Ray-Ban Display後継 Hypernova 2 両眼版 2027→2026前倒し",
-      "source_name": "UploadVR / The Information",
-      "source_url": "https://www.uploadvr.com/could-binocular-meta-ray-ban-display-successor-launch-2026/",
-      "first_reported": "2026-04-14",
-      "last_seen": "2026-04-14",
-      "category": "device"
-    },
     "sdk_visionos_265_beta2_developer": {
       "title": "Apple visionOS 26.5 Beta 2 開発者向けリリース",
       "source_name": "MacRumors",
@@ -514,14 +450,6 @@
       "first_reported": "2026-04-14",
       "last_seen": "2026-04-17",
       "category": "sdk"
-    },
-    "market_smart_glasses_2026_forecast_134m": {
-      "title": "2026年スマートグラス出荷予測 1340万台 (2025年実績960万台)",
-      "source_name": "Oureyeglassworld",
-      "source_url": "https://www.oureyeglassworld.com/archives/5708",
-      "first_reported": "2026-04-14",
-      "last_seen": "2026-04-14",
-      "category": "market"
     },
     "regulation_aclu_75orgs_meta_nametag_halt": {
       "title": "ACLU+75団体 Meta顔認識'Name Tag'即時中止を公開書簡で要求",
