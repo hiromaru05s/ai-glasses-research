@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-07-13",
+  "last_updated": "2026-07-14",
   "last_biweekly": "2026-05-04",
   "items": {
     "device_xreal_xbx_a01_may27_2026": {
@@ -307,14 +307,6 @@
       "last_seen": "2026-04-23",
       "category": "device"
     },
-    "partnership_samsung_gentle_monster_warby_parker": {
-      "title": "Samsung Gentle Monster/Warby Parkerコラボ確定",
-      "source_name": "Tom's Guide",
-      "source_url": "https://www.tomsguide.com/computing/smart-glasses/samsung-just-confirmed-its-android-xr-smart-glasses-will-launch-this-year-heres-how-they-can-beat-ray-ban-meta",
-      "first_reported": "2026-04-05",
-      "last_seen": "2026-04-15",
-      "category": "partnership"
-    },
     "device_apple_visionos_264": {
       "title": "visionOS 26.4リリース フォヴィエイテッドストリーミング対応",
       "source_name": "9to5Mac",
@@ -347,14 +339,6 @@
       "last_seen": "2026-04-24",
       "category": "market"
     },
-    "partnership_snap_specs_inc_subsidiary": {
-      "title": "Snap ARグラス事業を子会社Specs Inc.として独立 ~100名採用",
-      "source_name": "Snap Newsroom",
-      "source_url": "https://newsroom.snap.com/launch-specs-2026",
-      "first_reported": "2026-04-05",
-      "last_seen": "2026-04-15",
-      "category": "partnership"
-    },
     "sdk_qualcomm_ar1plus_gen1_ondevice_ai": {
       "title": "Qualcomm AR1+ Gen 1チップ 28%小型化 オンデバイスAI Llama 1B対応",
       "source_name": "Engadget",
@@ -362,14 +346,6 @@
       "first_reported": "2026-04-05",
       "last_seen": "2026-04-17",
       "category": "sdk"
-    },
-    "device_samsung_galaxy_glasses_no_display_50g_tether": {
-      "title": "Samsung Galaxy Glasses ディスプレイ非搭載・50g・スマホテザリング確定",
-      "source_name": "Wareable / CNBC",
-      "source_url": "https://www.wareable.com/wearable-tech/samsungs-smart-galaxy-glasses-camera-phone-tether-ar-display-confirmation",
-      "first_reported": "2026-04-05",
-      "last_seen": "2026-04-15",
-      "category": "device"
     },
     "device_snap_specs_consumer_openai_gemini": {
       "title": "Snap Specs消費者版にOpenAI+Gemini AI双方を統合",
@@ -458,22 +434,6 @@
       "first_reported": "2026-04-15",
       "last_seen": "2026-04-23",
       "category": "regulation"
-    },
-    "partnership_amazon_vuzix_na_expansion_ultralite_pro": {
-      "title": "Amazon Vuzixスマートグラス北米展開拡大 Ultralite Pro OEM発注開始",
-      "source_name": "Vuzix IR / Auganix",
-      "source_url": "https://ir.vuzix.com/news-events/press-releases/detail/2167/leading-global-online-retailer-expands-vuzix-smart-glasses",
-      "first_reported": "2026-04-15",
-      "last_seen": "2026-04-15",
-      "category": "partnership"
-    },
-    "market_vuzix_pick_pack_modex_2026": {
-      "title": "Vuzix Pick & Pack Validation Program発表 MODEX 2026でデモ",
-      "source_name": "PRNewswire / Vuzix",
-      "source_url": "https://www.prnewswire.com/news-releases/vuzix-to-showcase-its-new-pick--pack-validation-program-at-modex-2026-to-accelerate-warehouse-deployment-302740119.html",
-      "first_reported": "2026-04-15",
-      "last_seen": "2026-04-15",
-      "category": "market"
     },
     "other_apple_immersive_video_fatal_crash": {
       "title": "Apple Vision Pro Immersive Video撮影中に死亡事故 Claire Lomas氏 安全管理問題",
@@ -984,7 +944,7 @@
       "source_name": "Apple Developer",
       "source_url": "https://developer.apple.com/news/releases/",
       "first_reported": "2026-07-07",
-      "last_seen": "2026-07-10",
+      "last_seen": "2026-07-14",
       "category": "sdk"
     },
     "sdk_visionos_266_beta4_jul6_2026": {
@@ -992,7 +952,15 @@
       "source_name": "Apple Developer",
       "source_url": "https://developer.apple.com/news/releases/",
       "first_reported": "2026-07-07",
-      "last_seen": "2026-07-10",
+      "last_seen": "2026-07-14",
+      "category": "sdk"
+    },
+    "sdk_visionos_266_beta5_jul13_2026": {
+      "title": "AppleがvisionOS 26.6 beta 5 (23O5765a) を開発者向け公開 Vision Pro現行系の安定化ラインを継続",
+      "source_name": "Apple Developer",
+      "source_url": "https://developer.apple.com/news/releases/?id=07132026e",
+      "first_reported": "2026-07-14",
+      "last_seen": "2026-07-14",
       "category": "sdk"
     },
     "device_xreal_xbx_a01plus_launch_jul8_2026": {
@@ -1008,7 +976,7 @@
       "source_name": "Meta Newsroom",
       "source_url": "https://about.fb.com/news/2026/07/metas-ai-glasses-your-questions-answered/",
       "first_reported": "2026-07-10",
-      "last_seen": "2026-07-10",
+      "last_seen": "2026-07-14",
       "category": "regulation"
     }
   }
