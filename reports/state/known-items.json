@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-07-15",
+  "last_updated": "2026-07-17",
   "last_biweekly": "2026-05-04",
   "items": {
     "device_xreal_xbx_a01_may27_2026": {
@@ -283,14 +283,6 @@
       "last_seen": "2026-04-20",
       "category": "device"
     },
-    "device_meta_facial_recognition_plan": {
-      "title": "Metaスマートグラス顔認識機能追加計画",
-      "source_name": "Adafruit",
-      "source_url": "https://x.com/adafruit/status/2022719923487936709",
-      "first_reported": "2026-04-05",
-      "last_seen": "2026-04-17",
-      "category": "device"
-    },
     "device_google_two_ai_glasses_2026": {
       "title": "Google 2種類AIグラス2026年発売確定 Warby Parker/Samsung",
       "source_name": "Google Blog",
@@ -305,22 +297,6 @@
       "source_url": "https://www.tomsguide.com/computing/smart-glasses/samsung-just-confirmed-its-android-xr-smart-glasses-will-launch-this-year-heres-how-they-can-beat-ray-ban-meta",
       "first_reported": "2026-04-05",
       "last_seen": "2026-04-23",
-      "category": "device"
-    },
-    "device_apple_visionos_264": {
-      "title": "visionOS 26.4リリース フォヴィエイテッドストリーミング対応",
-      "source_name": "9to5Mac",
-      "source_url": "https://9to5mac.com/2026/03/24/visionos-26-4-arrives-for-apple-vision-pro-heres-whats-new/",
-      "first_reported": "2026-04-05",
-      "last_seen": "2026-04-17",
-      "category": "sdk"
-    },
-    "device_snap_os2_spectacles": {
-      "title": "Snap OS 2.0リリース 次世代Spectaclesテザーなし",
-      "source_name": "Tom's Guide",
-      "source_url": "https://www.tomsguide.com/computing/smart-glasses/snap-os-is-finally-ready-for-snap-specs-in-2026-i-just-tested-the-game-changing-update",
-      "first_reported": "2026-04-05",
-      "last_seen": "2026-04-17",
       "category": "device"
     },
     "device_alibaba_quark_s1": {
@@ -338,14 +314,6 @@
       "first_reported": "2026-04-05",
       "last_seen": "2026-04-24",
       "category": "market"
-    },
-    "sdk_qualcomm_ar1plus_gen1_ondevice_ai": {
-      "title": "Qualcomm AR1+ Gen 1チップ 28%小型化 オンデバイスAI Llama 1B対応",
-      "source_name": "Engadget",
-      "source_url": "https://www.engadget.com/wearables/qualcomm-says-its-new-ar1-gen-1-chip-can-handle-ai-directly-on-smart-glasses-163002410.html",
-      "first_reported": "2026-04-05",
-      "last_seen": "2026-04-17",
-      "category": "sdk"
     },
     "device_snap_specs_consumer_openai_gemini": {
       "title": "Snap Specs消費者版にOpenAI+Gemini AI双方を統合",
@@ -419,14 +387,6 @@
       "last_seen": "2026-04-23",
       "category": "sdk"
     },
-    "sdk_visionos_265_beta2_developer": {
-      "title": "Apple visionOS 26.5 Beta 2 開発者向けリリース",
-      "source_name": "MacRumors",
-      "source_url": "https://www.macrumors.com/2026/04/13/apple-releases-watchos-26-5-beta-2/",
-      "first_reported": "2026-04-14",
-      "last_seen": "2026-04-17",
-      "category": "sdk"
-    },
     "regulation_aclu_75orgs_meta_nametag_halt": {
       "title": "ACLU+75団体 Meta顔認識'Name Tag'即時中止を公開書簡で要求",
       "source_name": "ACLU / Washington Times",
@@ -434,14 +394,6 @@
       "first_reported": "2026-04-15",
       "last_seen": "2026-04-23",
       "category": "regulation"
-    },
-    "other_apple_immersive_video_fatal_crash": {
-      "title": "Apple Vision Pro Immersive Video撮影中に死亡事故 Claire Lomas氏 安全管理問題",
-      "source_name": "Bloomberg / MacRumors / 9to5Mac",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-04-16/pilot-claire-lomas-was-being-filmed-for-apple-vision-pro-video-during-crash",
-      "first_reported": "2026-04-17",
-      "last_seen": "2026-04-17",
-      "category": "other"
     },
     "regulation_rsac_2026_meta_glasses_corsight_fr_demo": {
       "title": "RSAC 2026 ESET研究者がMeta Ray-Ban+Corsight顔認識で通行人を即時特定デモ",
@@ -760,7 +712,7 @@
       "source_name": "Snap Newsroom",
       "source_url": "https://newsroom.snap.com/introducing-specs-augmented-reality-glasses",
       "first_reported": "2026-06-17",
-      "last_seen": "2026-07-15",
+      "last_seen": "2026-07-17",
       "category": "device"
     },
     "device_xreal_aura_reservations_open_jun16_2026": {
@@ -768,7 +720,7 @@
       "source_name": "XREAL / Google Blog",
       "source_url": "https://www.xreal.com/aura",
       "first_reported": "2026-06-17",
-      "last_seen": "2026-07-15",
+      "last_seen": "2026-07-17",
       "category": "device"
     },
     "sdk_android_xr_awe_tooling_updates_jun15_2026": {
@@ -776,7 +728,7 @@
       "source_name": "Android Developers Blog",
       "source_url": "https://android-developers.googleblog.com/2026/06/what-is-new-android-xr.html",
       "first_reported": "2026-06-17",
-      "last_seen": "2026-07-15",
+      "last_seen": "2026-07-17",
       "category": "sdk"
     },
     "sdk_qualcomm_snapdragon_reality_elite_jun16_2026": {
@@ -920,7 +872,7 @@
       "source_name": "Meta AI Glasses Help",
       "source_url": "https://www.meta.com/help/ai-glasses/1809764829519902/",
       "first_reported": "2026-07-04",
-      "last_seen": "2026-07-04",
+      "last_seen": "2026-07-17",
       "category": "sdk"
     },
     "sdk_meta_ai_glasses_fitness_golf_integrations_jul5_2026": {
@@ -960,7 +912,7 @@
       "source_name": "Apple Developer",
       "source_url": "https://developer.apple.com/news/releases/?id=07132026e",
       "first_reported": "2026-07-14",
-      "last_seen": "2026-07-15",
+      "last_seen": "2026-07-17",
       "category": "sdk"
     },
     "device_xreal_xbx_a01plus_launch_jul8_2026": {
@@ -976,7 +928,7 @@
       "source_name": "Meta Newsroom",
       "source_url": "https://about.fb.com/news/2026/07/metas-ai-glasses-your-questions-answered/",
       "first_reported": "2026-07-10",
-      "last_seen": "2026-07-15",
+      "last_seen": "2026-07-17",
       "category": "regulation"
     },
     "regulation_uci_oakley_meta_race_disqualification_jul13_2026": {
