@@ -938,6 +938,22 @@
       "first_reported": "2026-07-15",
       "last_seen": "2026-07-15",
       "category": "regulation"
+    },
+    "sdk_androidx_xr_projected_alpha10_jul15_2026": {
+      "title": "Android XRのJetpack Projectedが1.0.0-alpha10公開 権限要求をProjectedActivityCompat.requestPermissionsへ移行",
+      "source_name": "Android Developers",
+      "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-projected",
+      "first_reported": "2026-07-17",
+      "last_seen": "2026-07-17",
+      "category": "sdk"
+    },
+    "sdk_androidx_xr_scenecore_beta01_jul15_2026": {
+      "title": "Android XRのJetpack SceneCoreが初の1.0.0-beta01公開 Session.create suspend化やAnchorSpace改名を反映",
+      "source_name": "Android Developers",
+      "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-scenecore",
+      "first_reported": "2026-07-17",
+      "last_seen": "2026-07-17",
+      "category": "sdk"
     }
   }
 }
