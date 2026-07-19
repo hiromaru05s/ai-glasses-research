@@ -40,7 +40,7 @@
       "source_name": "Google Blog / Samsung Newsroom U.K.",
       "source_url": "https://blog.google/products-and-platforms/platforms/android/android-xr-io-2026/",
       "first_reported": "2026-06-03",
-      "last_seen": "2026-07-03",
+      "last_seen": "2026-07-19",
       "category": "device"
     },
     "sdk_android_xr_dp4_audio_display_glasses_may19_2026": {
@@ -888,6 +888,14 @@
       "source_name": "Meta Newsroom",
       "source_url": "https://about.fb.com/news/2026/07/metas-ai-glasses-your-questions-answered/",
       "first_reported": "2026-07-10",
+      "last_seen": "2026-07-19",
+      "category": "regulation"
+    },
+    "regulation_google_android_xr_intelligent_eyewear_trust_jul16_2026": {
+      "title": "GoogleがIntelligent Eyewearのprivacy重視方針を補足し 信頼できる録画LED・改変検知ハード・display版trusted tester年内開始を示した",
+      "source_name": "Tom's Guide / Android Central",
+      "source_url": "https://www.tomsguide.com/computing/smart-glasses/exclusive-inside-googles-plan-to-win-over-your-face-with-ai-glasses-and-avoid-metas-privacy-missteps",
+      "first_reported": "2026-07-19",
       "last_seen": "2026-07-19",
       "category": "regulation"
     },
