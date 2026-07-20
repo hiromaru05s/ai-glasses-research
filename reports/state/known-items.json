@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-07-19",
+  "last_updated": "2026-07-20",
   "last_biweekly": "2026-05-04",
   "items": {
     "device_xreal_xbx_a01_may27_2026": {
@@ -40,7 +40,7 @@
       "source_name": "Google Blog / Samsung Newsroom U.K.",
       "source_url": "https://blog.google/products-and-platforms/platforms/android/android-xr-io-2026/",
       "first_reported": "2026-06-03",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "category": "device"
     },
     "sdk_android_xr_dp4_audio_display_glasses_may19_2026": {
@@ -672,7 +672,7 @@
       "source_name": "Snap Newsroom",
       "source_url": "https://newsroom.snap.com/introducing-specs-augmented-reality-glasses",
       "first_reported": "2026-06-17",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "category": "device"
     },
     "device_xreal_aura_reservations_open_jun16_2026": {
@@ -680,7 +680,7 @@
       "source_name": "XREAL / Google Blog",
       "source_url": "https://www.xreal.com/aura",
       "first_reported": "2026-06-17",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "category": "device"
     },
     "sdk_android_xr_awe_tooling_updates_jun15_2026": {
@@ -720,7 +720,7 @@
       "source_name": "Samsung Newsroom U.K.",
       "source_url": "https://news.samsung.com/uk/samsung-galaxy-xr-arrives-in-the-uk",
       "first_reported": "2026-07-03",
-      "last_seen": "2026-07-03",
+      "last_seen": "2026-07-20",
       "category": "device"
     },
     "device_samsungdisplay_rgb_oledos_awe_jun17_2026": {
@@ -872,7 +872,7 @@
       "source_name": "Apple Developer",
       "source_url": "https://developer.apple.com/news/releases/?id=07132026e",
       "first_reported": "2026-07-14",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "category": "sdk"
     },
     "device_xreal_xbx_a01plus_launch_jul8_2026": {
@@ -888,7 +888,7 @@
       "source_name": "Meta Newsroom",
       "source_url": "https://about.fb.com/news/2026/07/metas-ai-glasses-your-questions-answered/",
       "first_reported": "2026-07-10",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "category": "regulation"
     },
     "regulation_google_android_xr_intelligent_eyewear_trust_jul16_2026": {
@@ -896,7 +896,7 @@
       "source_name": "Tom's Guide / Android Central",
       "source_url": "https://www.tomsguide.com/computing/smart-glasses/exclusive-inside-googles-plan-to-win-over-your-face-with-ai-glasses-and-avoid-metas-privacy-missteps",
       "first_reported": "2026-07-19",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "category": "regulation"
     },
     "regulation_uci_oakley_meta_race_disqualification_jul13_2026": {
@@ -912,7 +912,7 @@
       "source_name": "Android Developers",
       "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-projected",
       "first_reported": "2026-07-17",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "category": "sdk"
     },
     "sdk_androidx_xr_scenecore_beta01_jul15_2026": {
@@ -920,7 +920,7 @@
       "source_name": "Android Developers",
       "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-scenecore",
       "first_reported": "2026-07-17",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "category": "sdk"
     },
     "sdk_androidx_xr_runtime_beta01_jul15_2026": {
@@ -928,7 +928,7 @@
       "source_name": "Android Developers",
       "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-runtime",
       "first_reported": "2026-07-19",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "category": "sdk"
     },
     "sdk_androidx_xr_arcore_beta01_jul15_2026": {
@@ -936,7 +936,7 @@
       "source_name": "Android Developers",
       "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-arcore",
       "first_reported": "2026-07-19",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "category": "sdk"
     },
     "sdk_androidx_xr_compose_alpha16_jul15_2026": {
@@ -944,7 +944,7 @@
       "source_name": "Android Developers",
       "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-compose",
       "first_reported": "2026-07-19",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "category": "sdk"
     }
   }
