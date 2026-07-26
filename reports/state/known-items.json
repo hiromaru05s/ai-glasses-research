@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-07-24",
+  "last_updated": "2026-07-26",
   "last_biweekly": "2026-05-04",
   "items": {
     "device_xreal_xbx_a01_may27_2026": {
@@ -40,7 +40,7 @@
       "source_name": "Google Blog / Samsung Newsroom U.K.",
       "source_url": "https://blog.google/products-and-platforms/platforms/android/android-xr-io-2026/",
       "first_reported": "2026-06-03",
-      "last_seen": "2026-07-24",
+      "last_seen": "2026-07-26",
       "category": "device"
     },
     "sdk_android_xr_dp4_audio_display_glasses_may19_2026": {
@@ -235,46 +235,6 @@
       "last_seen": "2026-05-04",
       "category": "device"
     },
-    "device_meta_oakley_vanguard_london_marathon_accessibility": {
-      "title": "Oakley Meta Vanguard×Be My Eyes 2026ロンドンマラソンで視覚障害ランナー支援 AP全国配信 Sha Khan氏ら使用事例",
-      "source_name": "AP / Washington Post / Fortune / Boston Globe / Be My Eyes",
-      "source_url": "https://www.washingtonpost.com/business/2026/04/24/london-marathon-ai-smart-glasses/8e9c1228-3ff9-11f1-bb46-ed564688d953_story.html",
-      "first_reported": "2026-04-25",
-      "last_seen": "2026-04-25",
-      "category": "device"
-    },
-    "7c93c6d35e7ede15": {
-      "title": "XREAL One Pro 永続値下げ $649→$599 4/23 9to5Google独占 Real 3D追加 JB Hi-Fi豪展開",
-      "source_name": "9to5Google",
-      "source_url": "https://9to5google.com/2026/04/23/xreal-one-pro-gets-a-permanent-price-cut-to-599/",
-      "first_reported": "2026-04-26",
-      "last_seen": "2026-04-26",
-      "category": "device"
-    },
-    "93c1b2dc6791f67a": {
-      "title": "Apple 6新製品カテゴリーロードマップ AIグラス/Pendant/カメラAirPods/スマートディスプレイ/デスクトップロボ/セキュリティカメラ Gurman",
-      "source_name": "9to5Mac",
-      "source_url": "https://9to5mac.com/2026/04/23/apple-has-six-major-new-product-categories-coming-says-mark-gurman/",
-      "first_reported": "2026-04-26",
-      "last_seen": "2026-04-26",
-      "category": "device"
-    },
-    "fb8a6560946af10a": {
-      "title": "Vuzix 米防衛顧客から6桁規模の追加導波路AR表示モジュール量産発注 次世代HMDプログラム供給",
-      "source_name": "Stocktitan / VUZI",
-      "source_url": "https://www.stocktitan.net/news/VUZI/vuzix-ships-follow-on-production-order-from-major-defense-customer-awyf0e9eb7y9.html",
-      "first_reported": "2026-04-26",
-      "last_seen": "2026-04-26",
-      "category": "partnership"
-    },
-    "57b6fb25e2efaaaf": {
-      "title": "Vuzix 動物医療市場拡大 Movora社と販売代理店契約 M400ベース獣医リモート支援キット北米展開",
-      "source_name": "Stocktitan / VUZI",
-      "source_url": "https://www.stocktitan.net/news/VUZI/vuzix-expands-further-into-veterinary-medical-market-with-movora-8y0oy7nhoxgv.html",
-      "first_reported": "2026-04-26",
-      "last_seen": "2026-04-26",
-      "category": "partnership"
-    },
     "device_samsung_galaxy_glasses_jinju_render_leak_apr27": {
       "title": "Samsung Galaxy Glasses 'Jinju' 実機レンダー初漏洩 50g/Snapdragon AR1/155mAh/12MP Sony IMX681/$380-500/ディスプレイ非搭載 第2モデル'Haean'2027 micro-LED $600-900",
       "source_name": "9to5Google / Tom's Guide / Engadget / Android Headlines / Wccftech / Gizmodo / iPhone in Canada",
@@ -456,7 +416,7 @@
       "source_name": "Snap Newsroom",
       "source_url": "https://newsroom.snap.com/introducing-specs-augmented-reality-glasses",
       "first_reported": "2026-06-17",
-      "last_seen": "2026-07-24",
+      "last_seen": "2026-07-26",
       "category": "device"
     },
     "device_xreal_aura_reservations_open_jun16_2026": {
@@ -464,7 +424,7 @@
       "source_name": "XREAL / Google Blog",
       "source_url": "https://www.xreal.com/aura",
       "first_reported": "2026-06-17",
-      "last_seen": "2026-07-24",
+      "last_seen": "2026-07-26",
       "category": "device"
     },
     "sdk_android_xr_awe_tooling_updates_jun15_2026": {
@@ -488,7 +448,7 @@
       "source_name": "Snap Newsroom",
       "source_url": "https://newsroom.snap.com/snap-launches-new-tools-for-specs-developers",
       "first_reported": "2026-06-17",
-      "last_seen": "2026-07-15",
+      "last_seen": "2026-07-26",
       "category": "sdk"
     },
     "sdk_qualcomm_snapdragon_start_jun16_2026": {
@@ -536,7 +496,7 @@
       "source_name": "Meta Newsroom",
       "source_url": "https://about.fb.com/news/2026/06/meta-essilorluxottica-partner-launch-meta-glasses/",
       "first_reported": "2026-06-25",
-      "last_seen": "2026-07-24",
+      "last_seen": "2026-07-26",
       "category": "device"
     },
     "market_snap_illumix_acquisition_jun5_2026": {
@@ -664,7 +624,7 @@
       "source_name": "Apple Developer",
       "source_url": "https://developer.apple.com/news/releases/",
       "first_reported": "2026-07-22",
-      "last_seen": "2026-07-24",
+      "last_seen": "2026-07-26",
       "category": "sdk"
     },
     "sdk_visionos_27_beta4_jul20_2026": {
@@ -672,7 +632,7 @@
       "source_name": "Apple Developer",
       "source_url": "https://developer.apple.com/news/releases/",
       "first_reported": "2026-07-22",
-      "last_seen": "2026-07-24",
+      "last_seen": "2026-07-26",
       "category": "sdk"
     },
     "device_xreal_xbx_a01plus_launch_jul8_2026": {
@@ -688,7 +648,7 @@
       "source_name": "Meta Newsroom",
       "source_url": "https://about.fb.com/news/2026/07/metas-ai-glasses-your-questions-answered/",
       "first_reported": "2026-07-10",
-      "last_seen": "2026-07-24",
+      "last_seen": "2026-07-26",
       "category": "regulation"
     },
     "regulation_google_android_xr_intelligent_eyewear_trust_jul16_2026": {
@@ -752,7 +712,7 @@
       "source_name": "XREAL",
       "source_url": "https://www.xreal.com/aura",
       "first_reported": "2026-07-22",
-      "last_seen": "2026-07-24",
+      "last_seen": "2026-07-26",
       "category": "device"
     },
     "device_samsung_google_intelligent_eyewear_unpacked_jul22_2026": {
@@ -760,7 +720,7 @@
       "source_name": "Samsung / Google Blog",
       "source_url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
       "first_reported": "2026-07-23",
-      "last_seen": "2026-07-24",
+      "last_seen": "2026-07-26",
       "category": "device"
     },
     "sdk_qualcomm_samsung_intelligent_eyewear_ar1_jul22_2026": {
@@ -768,8 +728,24 @@
       "source_name": "Qualcomm",
       "source_url": "https://www.qualcomm.com/news/releases/2026/07/qualcomm-and-samsung-expand-collaboration-with-snapdragon-poweri",
       "first_reported": "2026-07-23",
-      "last_seen": "2026-07-24",
+      "last_seen": "2026-07-26",
       "category": "sdk"
+    },
+    "regulation_meta_instagram_harassment_ban_jul23_2026": {
+      "title": "InstagramがMetaグラスでの隠し撮り系ハラスメント動画を削除対象にし悪質アカウント停止も開始",
+      "source_name": "Business Insider / The Verge",
+      "source_url": "https://www.businessinsider.com/instagram-meta-glasses-banning-pickup-prank-creeps-2026-7",
+      "first_reported": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "category": "regulation"
+    },
+    "market_meta_conversation_focus_pause_jul24_2026": {
+      "title": "MetaがAIグラスConversation Focusの課金・利用上限制テストを反発後に一時停止し monetization方針を再検討",
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/tech/970970/after-backlash-meta-pauses-plan-to-rate-limit-its-smart-glasses",
+      "first_reported": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "category": "market"
     }
   }
 }
