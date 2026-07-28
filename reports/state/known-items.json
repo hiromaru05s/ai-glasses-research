@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-07-26",
+  "last_updated": "2026-07-28",
   "last_biweekly": "2026-05-04",
   "items": {
     "device_xreal_xbx_a01_may27_2026": {
@@ -40,7 +40,7 @@
       "source_name": "Google Blog / Samsung Newsroom U.K.",
       "source_url": "https://blog.google/products-and-platforms/platforms/android/android-xr-io-2026/",
       "first_reported": "2026-06-03",
-      "last_seen": "2026-07-26",
+      "last_seen": "2026-07-28",
       "category": "device"
     },
     "sdk_android_xr_dp4_audio_display_glasses_may19_2026": {
@@ -163,46 +163,6 @@
       "last_seen": "2026-05-01",
       "category": "partnership"
     },
-    "device_samsung_galaxy_glasses_nearby_app_v11_changelog_apr28": {
-      "title": "Samsung Nearby Device Scanning v11.1.23.4 changelog 'Glasses quick pair and battery pop up' 製品名Galaxy Glasses公式確定",
-      "source_name": "9to5Google / Droid Life / The Gadgeteer / SammyGuru",
-      "source_url": "https://9to5google.com/2026/04/28/samsung-is-already-adding-galaxy-glasses-support-to-one-ui-ahead-of-launch/",
-      "first_reported": "2026-04-29",
-      "last_seen": "2026-04-29",
-      "category": "device"
-    },
-    "other_apple_vision_pro_cataract_surgery_world_first_apr28": {
-      "title": "Apple Vision Pro 世界初の白内障手術ユースケース SightMD Eric Rosenberg ScopeXR 数百件実施",
-      "source_name": "MacRumors / AppleInsider / Cult of Mac / Next Reality",
-      "source_url": "https://www.macrumors.com/2026/04/28/apple-vision-pro-cataract-surgery/",
-      "first_reported": "2026-04-29",
-      "last_seen": "2026-04-29",
-      "category": "other"
-    },
-    "market_meta_q1_2026_earnings_april29_preview": {
-      "title": "Meta Q1 2026決算4/29発表予定 売上コンセンサス$55.5B(+31%) Reality Labs損失2025並みでピーク 2027から縮小 Capex$115-135B Ray-Ban Meta牽引",
-      "source_name": "TradingKey / MarketBeat / Alphastreet",
-      "source_url": "https://www.tradingkey.com/analysis/stocks/us-stocks/261826234-meta-earnings-ai-advertising-capital-spending-margin-reality-labs-regulation-tradingkey",
-      "first_reported": "2026-04-28",
-      "last_seen": "2026-04-28",
-      "category": "market"
-    },
-    "market_moor_insights_galaxy_xr_first_update_analysis": {
-      "title": "Moor Insights & Strategy Galaxy XR 4月アップデート分析 'ハードウェア基盤強くソフトウェア成熟待ち' アイトラ再キャリブ要 Auto-Spatialization/wall pinning/100超アプリ評価",
-      "source_name": "Moor Insights & Strategy",
-      "source_url": "https://moorinsightsstrategy.com/research-notes/samsung-galaxy-xr-headset-a-strong-hardware-foundation-waiting-on-software/",
-      "first_reported": "2026-04-28",
-      "last_seen": "2026-04-28",
-      "category": "market"
-    },
-    "device_viture_beast_xr_april27_549": {
-      "title": "Viture Beast XR Glasses 4/27発売 $549 Sony micro-OLED dual 174インチ仮想画面 58度FOV 1200p/eye",
-      "source_name": "GameSpot / PRNewswire / VITURE公式",
-      "source_url": "https://www.viture.com/product/viture-beast-xr-glasses",
-      "first_reported": "2026-04-24",
-      "last_seen": "2026-04-28",
-      "category": "device"
-    },
     "device_xreal_project_aura_android_xr": {
       "title": "XREAL Project Aura Android XR光学シースルーグラス 70°FOV 2026年発売",
       "source_name": "XREAL公式",
@@ -234,30 +194,6 @@
       "first_reported": "2026-04-21",
       "last_seen": "2026-05-04",
       "category": "device"
-    },
-    "device_samsung_galaxy_glasses_jinju_render_leak_apr27": {
-      "title": "Samsung Galaxy Glasses 'Jinju' 実機レンダー初漏洩 50g/Snapdragon AR1/155mAh/12MP Sony IMX681/$380-500/ディスプレイ非搭載 第2モデル'Haean'2027 micro-LED $600-900",
-      "source_name": "9to5Google / Tom's Guide / Engadget / Android Headlines / Wccftech / Gizmodo / iPhone in Canada",
-      "source_url": "https://9to5google.com/2026/04/27/samsung-galaxy-glasses-first-leaked-images/",
-      "first_reported": "2026-04-27",
-      "last_seen": "2026-04-28",
-      "category": "device"
-    },
-    "sdk_visionos_265_beta4_developer": {
-      "title": "Apple visionOS 26.5 Beta 4 開発者向けリリース GA間近 安定性最終調整",
-      "source_name": "MacRumors / MacObserver",
-      "source_url": "https://www.macrumors.com/2026/04/27/apple-seeds-watchos-26-5-beta-4/",
-      "first_reported": "2026-04-27",
-      "last_seen": "2026-04-28",
-      "category": "sdk"
-    },
-    "market_rokid_un_delegation_eu_launch_apr29": {
-      "title": "Rokid 国連事務次長Catherine PollardにAIグラスをデモ 欧州フラッグシップ4/29正式投入",
-      "source_name": "GlobeNewswire (Rokid公式)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/04/27/3281950/0/en/Rokid-Showcases-Its-AI-Smart-Glasses-to-United-Nations-Delegation.html",
-      "first_reported": "2026-04-27",
-      "last_seen": "2026-04-28",
-      "category": "market"
     },
     "market_meta_82pct_global_share_7m_2025": {
       "title": "Meta+EssilorLuxottica 2025年AIグラス700万台販売 グローバルシェア約82%",
@@ -416,7 +352,7 @@
       "source_name": "Snap Newsroom",
       "source_url": "https://newsroom.snap.com/introducing-specs-augmented-reality-glasses",
       "first_reported": "2026-06-17",
-      "last_seen": "2026-07-26",
+      "last_seen": "2026-07-28",
       "category": "device"
     },
     "device_xreal_aura_reservations_open_jun16_2026": {
@@ -424,7 +360,7 @@
       "source_name": "XREAL / Google Blog",
       "source_url": "https://www.xreal.com/aura",
       "first_reported": "2026-06-17",
-      "last_seen": "2026-07-26",
+      "last_seen": "2026-07-28",
       "category": "device"
     },
     "sdk_android_xr_awe_tooling_updates_jun15_2026": {
@@ -432,7 +368,7 @@
       "source_name": "Android Developers Blog",
       "source_url": "https://android-developers.googleblog.com/2026/06/what-is-new-android-xr.html",
       "first_reported": "2026-06-17",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-28",
       "category": "sdk"
     },
     "sdk_qualcomm_snapdragon_reality_elite_jun16_2026": {
@@ -448,7 +384,7 @@
       "source_name": "Snap Newsroom",
       "source_url": "https://newsroom.snap.com/snap-launches-new-tools-for-specs-developers",
       "first_reported": "2026-06-17",
-      "last_seen": "2026-07-26",
+      "last_seen": "2026-07-28",
       "category": "sdk"
     },
     "sdk_qualcomm_snapdragon_start_jun16_2026": {
@@ -496,7 +432,7 @@
       "source_name": "Meta Newsroom",
       "source_url": "https://about.fb.com/news/2026/06/meta-essilorluxottica-partner-launch-meta-glasses/",
       "first_reported": "2026-06-25",
-      "last_seen": "2026-07-26",
+      "last_seen": "2026-07-28",
       "category": "device"
     },
     "market_snap_illumix_acquisition_jun5_2026": {
@@ -624,7 +560,7 @@
       "source_name": "Apple Developer",
       "source_url": "https://developer.apple.com/news/releases/",
       "first_reported": "2026-07-22",
-      "last_seen": "2026-07-26",
+      "last_seen": "2026-07-28",
       "category": "sdk"
     },
     "sdk_visionos_27_beta4_jul20_2026": {
@@ -632,7 +568,7 @@
       "source_name": "Apple Developer",
       "source_url": "https://developer.apple.com/news/releases/",
       "first_reported": "2026-07-22",
-      "last_seen": "2026-07-26",
+      "last_seen": "2026-07-28",
       "category": "sdk"
     },
     "device_xreal_xbx_a01plus_launch_jul8_2026": {
@@ -648,7 +584,7 @@
       "source_name": "Meta Newsroom",
       "source_url": "https://about.fb.com/news/2026/07/metas-ai-glasses-your-questions-answered/",
       "first_reported": "2026-07-10",
-      "last_seen": "2026-07-26",
+      "last_seen": "2026-07-28",
       "category": "regulation"
     },
     "regulation_google_android_xr_intelligent_eyewear_trust_jul16_2026": {
@@ -712,7 +648,7 @@
       "source_name": "XREAL",
       "source_url": "https://www.xreal.com/aura",
       "first_reported": "2026-07-22",
-      "last_seen": "2026-07-26",
+      "last_seen": "2026-07-28",
       "category": "device"
     },
     "device_samsung_google_intelligent_eyewear_unpacked_jul22_2026": {
@@ -720,7 +656,7 @@
       "source_name": "Samsung / Google Blog",
       "source_url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
       "first_reported": "2026-07-23",
-      "last_seen": "2026-07-26",
+      "last_seen": "2026-07-28",
       "category": "device"
     },
     "sdk_qualcomm_samsung_intelligent_eyewear_ar1_jul22_2026": {
@@ -728,7 +664,7 @@
       "source_name": "Qualcomm",
       "source_url": "https://www.qualcomm.com/news/releases/2026/07/qualcomm-and-samsung-expand-collaboration-with-snapdragon-poweri",
       "first_reported": "2026-07-23",
-      "last_seen": "2026-07-26",
+      "last_seen": "2026-07-28",
       "category": "sdk"
     },
     "regulation_meta_instagram_harassment_ban_jul23_2026": {
@@ -746,6 +682,22 @@
       "first_reported": "2026-07-26",
       "last_seen": "2026-07-26",
       "category": "market"
+    },
+    "sdk_visionos_266_ga_jul27_2026": {
+      "title": "AppleがvisionOS 26.6 (23O770) を正式配信 7月20日のRCと同一buildでVision Pro現行系がGAへ移行",
+      "source_name": "Apple Developer",
+      "source_url": "https://developer.apple.com/news/releases/",
+      "first_reported": "2026-07-28",
+      "last_seen": "2026-07-28",
+      "category": "sdk"
+    },
+    "partnership_meta_ai_glasses_impact_grants_jul27_2026": {
+      "title": "MetaがAI Glasses Impact Grants採択先30団体を公表 総額約200万ドル・18州規模で年内のRay-Ban Metaアプリ統合案件を拡大",
+      "source_name": "Meta",
+      "source_url": "https://about.fb.com/news/2026/07/ai-glasses-helping-people-work-learn-live-independently/",
+      "first_reported": "2026-07-28",
+      "last_seen": "2026-07-28",
+      "category": "partnership"
     }
   }
 }
