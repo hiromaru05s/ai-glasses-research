@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-07-28",
+  "last_updated": "2026-07-29",
   "last_biweekly": "2026-05-04",
   "items": {
     "device_xreal_xbx_a01_may27_2026": {
@@ -40,7 +40,7 @@
       "source_name": "Google Blog / Samsung Newsroom U.K.",
       "source_url": "https://blog.google/products-and-platforms/platforms/android/android-xr-io-2026/",
       "first_reported": "2026-06-03",
-      "last_seen": "2026-07-28",
+      "last_seen": "2026-07-29",
       "category": "device"
     },
     "sdk_android_xr_dp4_audio_display_glasses_may19_2026": {
@@ -203,28 +203,12 @@
       "last_seen": "2026-05-04",
       "category": "market"
     },
-    "d03bf85ae4f417d6": {
-      "title": "Meta Q1 2026決算確定 Reality Labs $4.03B損失/$402M売上 Capex上限$145Bへ上方修正 全社売上$56.31B(+33%)",
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/04/29/metas-reality-labs-lost-over-4-billion-in-first-quarter.html",
-      "first_reported": "2026-04-30",
-      "last_seen": "2026-04-30",
-      "category": "market"
-    },
     "512ad29622c0c20d": {
       "title": "Apple Vision Pro M5リフレッシュ商業的flop AppleはVision Pro継続投資を実質断念しAIグラスへシフト Vision Pro Group再配分・元メンバーがSiri/Mike Rockwellへ",
       "source_name": "MacRumors / AppleInsider / Tom's Hardware / OSnews",
       "source_url": "https://www.macrumors.com/2026/04/29/apple-vision-pro-m5-flop/",
       "first_reported": "2026-04-30",
       "last_seen": "2026-05-02",
-      "category": "device"
-    },
-    "899fa0880805060d": {
-      "title": "Google AIグラス3階層ブランディング Gemini Audio Frames/Gemini Display Edition/Project Aura で展開",
-      "source_name": "The Gadgeteer",
-      "source_url": "https://the-gadgeteer.com/2026/04/27/google-android-xr-ai-smart-glasses/",
-      "first_reported": "2026-04-30",
-      "last_seen": "2026-04-30",
       "category": "device"
     },
     "device_apple_glasses_sep_oct_2026_pull_rug_gurman": {
@@ -352,7 +336,7 @@
       "source_name": "Snap Newsroom",
       "source_url": "https://newsroom.snap.com/introducing-specs-augmented-reality-glasses",
       "first_reported": "2026-06-17",
-      "last_seen": "2026-07-28",
+      "last_seen": "2026-07-29",
       "category": "device"
     },
     "device_xreal_aura_reservations_open_jun16_2026": {
@@ -360,7 +344,7 @@
       "source_name": "XREAL / Google Blog",
       "source_url": "https://www.xreal.com/aura",
       "first_reported": "2026-06-17",
-      "last_seen": "2026-07-28",
+      "last_seen": "2026-07-29",
       "category": "device"
     },
     "sdk_android_xr_awe_tooling_updates_jun15_2026": {
@@ -368,7 +352,7 @@
       "source_name": "Android Developers Blog",
       "source_url": "https://android-developers.googleblog.com/2026/06/what-is-new-android-xr.html",
       "first_reported": "2026-06-17",
-      "last_seen": "2026-07-28",
+      "last_seen": "2026-07-29",
       "category": "sdk"
     },
     "sdk_qualcomm_snapdragon_reality_elite_jun16_2026": {
@@ -384,7 +368,7 @@
       "source_name": "Snap Newsroom",
       "source_url": "https://newsroom.snap.com/snap-launches-new-tools-for-specs-developers",
       "first_reported": "2026-06-17",
-      "last_seen": "2026-07-28",
+      "last_seen": "2026-07-29",
       "category": "sdk"
     },
     "sdk_qualcomm_snapdragon_start_jun16_2026": {
@@ -432,7 +416,7 @@
       "source_name": "Meta Newsroom",
       "source_url": "https://about.fb.com/news/2026/06/meta-essilorluxottica-partner-launch-meta-glasses/",
       "first_reported": "2026-06-25",
-      "last_seen": "2026-07-28",
+      "last_seen": "2026-07-29",
       "category": "device"
     },
     "market_snap_illumix_acquisition_jun5_2026": {
@@ -560,7 +544,7 @@
       "source_name": "Apple Developer",
       "source_url": "https://developer.apple.com/news/releases/",
       "first_reported": "2026-07-22",
-      "last_seen": "2026-07-28",
+      "last_seen": "2026-07-29",
       "category": "sdk"
     },
     "sdk_visionos_27_beta4_jul20_2026": {
@@ -568,7 +552,7 @@
       "source_name": "Apple Developer",
       "source_url": "https://developer.apple.com/news/releases/",
       "first_reported": "2026-07-22",
-      "last_seen": "2026-07-28",
+      "last_seen": "2026-07-29",
       "category": "sdk"
     },
     "device_xreal_xbx_a01plus_launch_jul8_2026": {
@@ -584,7 +568,7 @@
       "source_name": "Meta Newsroom",
       "source_url": "https://about.fb.com/news/2026/07/metas-ai-glasses-your-questions-answered/",
       "first_reported": "2026-07-10",
-      "last_seen": "2026-07-28",
+      "last_seen": "2026-07-29",
       "category": "regulation"
     },
     "regulation_google_android_xr_intelligent_eyewear_trust_jul16_2026": {
@@ -648,7 +632,7 @@
       "source_name": "XREAL",
       "source_url": "https://www.xreal.com/aura",
       "first_reported": "2026-07-22",
-      "last_seen": "2026-07-28",
+      "last_seen": "2026-07-29",
       "category": "device"
     },
     "device_samsung_google_intelligent_eyewear_unpacked_jul22_2026": {
@@ -656,7 +640,7 @@
       "source_name": "Samsung / Google Blog",
       "source_url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
       "first_reported": "2026-07-23",
-      "last_seen": "2026-07-28",
+      "last_seen": "2026-07-29",
       "category": "device"
     },
     "sdk_qualcomm_samsung_intelligent_eyewear_ar1_jul22_2026": {
@@ -664,7 +648,7 @@
       "source_name": "Qualcomm",
       "source_url": "https://www.qualcomm.com/news/releases/2026/07/qualcomm-and-samsung-expand-collaboration-with-snapdragon-poweri",
       "first_reported": "2026-07-23",
-      "last_seen": "2026-07-28",
+      "last_seen": "2026-07-29",
       "category": "sdk"
     },
     "regulation_meta_instagram_harassment_ban_jul23_2026": {
@@ -688,7 +672,7 @@
       "source_name": "Apple Developer",
       "source_url": "https://developer.apple.com/news/releases/",
       "first_reported": "2026-07-28",
-      "last_seen": "2026-07-28",
+      "last_seen": "2026-07-29",
       "category": "sdk"
     },
     "partnership_meta_ai_glasses_impact_grants_jul27_2026": {
@@ -696,7 +680,7 @@
       "source_name": "Meta",
       "source_url": "https://about.fb.com/news/2026/07/ai-glasses-helping-people-work-learn-live-independently/",
       "first_reported": "2026-07-28",
-      "last_seen": "2026-07-28",
+      "last_seen": "2026-07-29",
       "category": "partnership"
     }
   }
