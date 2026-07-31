@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-07-30",
+  "last_updated": "2026-07-31",
   "last_biweekly": "2026-05-04",
   "items": {
     "device_xreal_xbx_a01_may27_2026": {
@@ -40,7 +40,7 @@
       "source_name": "Google Blog / Samsung Newsroom U.K.",
       "source_url": "https://blog.google/products-and-platforms/platforms/android/android-xr-io-2026/",
       "first_reported": "2026-06-03",
-      "last_seen": "2026-07-30",
+      "last_seen": "2026-07-31",
       "category": "device"
     },
     "sdk_android_xr_dp4_audio_display_glasses_may19_2026": {
@@ -163,22 +163,6 @@
       "last_seen": "2026-05-04",
       "category": "market"
     },
-    "512ad29622c0c20d": {
-      "title": "Apple Vision Pro M5リフレッシュ商業的flop AppleはVision Pro継続投資を実質断念しAIグラスへシフト Vision Pro Group再配分・元メンバーがSiri/Mike Rockwellへ",
-      "source_name": "MacRumors / AppleInsider / Tom's Hardware / OSnews",
-      "source_url": "https://www.macrumors.com/2026/04/29/apple-vision-pro-m5-flop/",
-      "first_reported": "2026-04-30",
-      "last_seen": "2026-05-02",
-      "category": "device"
-    },
-    "device_apple_glasses_sep_oct_2026_pull_rug_gurman": {
-      "title": "Apple Glasses 2026年9-10月発表でMeta/Google/Warby Parkerホリデー商戦の足元すくう戦略 Gurman明言 アセテート4スタイル iPhone深統合",
-      "source_name": "Tom's Guide / Bloomberg (Mark Gurman) / Android Headlines",
-      "source_url": "https://www.tomsguide.com/computing/smart-glasses/pull-the-rug-out-mark-gurman-explains-apples-plan-to-launch-smart-glasses-this-year-to-stop-metas-momentum",
-      "first_reported": "2026-05-02",
-      "last_seen": "2026-05-02",
-      "category": "device"
-    },
     "partnership_snap_specs_awe2026_spiegel_keynote_june16": {
       "title": "Snap CEO Spiegel AWE 2026基調講演 6/16確定 Specs Inc.が新ツール/Specsプラットフォーム最新進捗発表",
       "source_name": "Snap Newsroom",
@@ -296,7 +280,7 @@
       "source_name": "Snap Newsroom",
       "source_url": "https://newsroom.snap.com/introducing-specs-augmented-reality-glasses",
       "first_reported": "2026-06-17",
-      "last_seen": "2026-07-30",
+      "last_seen": "2026-07-31",
       "category": "device"
     },
     "device_xreal_aura_reservations_open_jun16_2026": {
@@ -304,7 +288,7 @@
       "source_name": "XREAL / Google Blog",
       "source_url": "https://www.xreal.com/aura",
       "first_reported": "2026-06-17",
-      "last_seen": "2026-07-30",
+      "last_seen": "2026-07-31",
       "category": "device"
     },
     "sdk_android_xr_awe_tooling_updates_jun15_2026": {
@@ -312,7 +296,7 @@
       "source_name": "Android Developers Blog",
       "source_url": "https://android-developers.googleblog.com/2026/06/what-is-new-android-xr.html",
       "first_reported": "2026-06-17",
-      "last_seen": "2026-07-30",
+      "last_seen": "2026-07-31",
       "category": "sdk"
     },
     "sdk_qualcomm_snapdragon_reality_elite_jun16_2026": {
@@ -328,7 +312,7 @@
       "source_name": "Snap Newsroom",
       "source_url": "https://newsroom.snap.com/snap-launches-new-tools-for-specs-developers",
       "first_reported": "2026-06-17",
-      "last_seen": "2026-07-30",
+      "last_seen": "2026-07-31",
       "category": "sdk"
     },
     "sdk_qualcomm_snapdragon_start_jun16_2026": {
@@ -376,7 +360,7 @@
       "source_name": "Meta Newsroom",
       "source_url": "https://about.fb.com/news/2026/06/meta-essilorluxottica-partner-launch-meta-glasses/",
       "first_reported": "2026-06-25",
-      "last_seen": "2026-07-30",
+      "last_seen": "2026-07-31",
       "category": "device"
     },
     "market_snap_illumix_acquisition_jun5_2026": {
@@ -504,7 +488,7 @@
       "source_name": "Apple Developer",
       "source_url": "https://developer.apple.com/news/releases/",
       "first_reported": "2026-07-22",
-      "last_seen": "2026-07-30",
+      "last_seen": "2026-07-31",
       "category": "sdk"
     },
     "sdk_visionos_27_beta4_jul20_2026": {
@@ -512,7 +496,7 @@
       "source_name": "Apple Developer",
       "source_url": "https://developer.apple.com/news/releases/",
       "first_reported": "2026-07-22",
-      "last_seen": "2026-07-30",
+      "last_seen": "2026-07-31",
       "category": "sdk"
     },
     "device_xreal_xbx_a01plus_launch_jul8_2026": {
@@ -528,7 +512,7 @@
       "source_name": "Meta Newsroom",
       "source_url": "https://about.fb.com/news/2026/07/metas-ai-glasses-your-questions-answered/",
       "first_reported": "2026-07-10",
-      "last_seen": "2026-07-30",
+      "last_seen": "2026-07-31",
       "category": "regulation"
     },
     "regulation_google_android_xr_intelligent_eyewear_trust_jul16_2026": {
@@ -592,7 +576,7 @@
       "source_name": "XREAL",
       "source_url": "https://www.xreal.com/aura",
       "first_reported": "2026-07-22",
-      "last_seen": "2026-07-30",
+      "last_seen": "2026-07-31",
       "category": "device"
     },
     "device_samsung_google_intelligent_eyewear_unpacked_jul22_2026": {
@@ -600,7 +584,7 @@
       "source_name": "Samsung / Google Blog",
       "source_url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
       "first_reported": "2026-07-23",
-      "last_seen": "2026-07-30",
+      "last_seen": "2026-07-31",
       "category": "device"
     },
     "sdk_qualcomm_samsung_intelligent_eyewear_ar1_jul22_2026": {
@@ -608,7 +592,7 @@
       "source_name": "Qualcomm",
       "source_url": "https://www.qualcomm.com/news/releases/2026/07/qualcomm-and-samsung-expand-collaboration-with-snapdragon-poweri",
       "first_reported": "2026-07-23",
-      "last_seen": "2026-07-30",
+      "last_seen": "2026-07-31",
       "category": "sdk"
     },
     "regulation_meta_instagram_harassment_ban_jul23_2026": {
@@ -632,7 +616,7 @@
       "source_name": "Apple Developer",
       "source_url": "https://developer.apple.com/news/releases/",
       "first_reported": "2026-07-28",
-      "last_seen": "2026-07-30",
+      "last_seen": "2026-07-31",
       "category": "sdk"
     },
     "partnership_meta_ai_glasses_impact_grants_jul27_2026": {
@@ -640,8 +624,32 @@
       "source_name": "Meta",
       "source_url": "https://about.fb.com/news/2026/07/ai-glasses-helping-people-work-learn-live-independently/",
       "first_reported": "2026-07-28",
-      "last_seen": "2026-07-30",
+      "last_seen": "2026-07-31",
       "category": "partnership"
+    },
+    "device_snap_specs_launch_event_sep16_jul30_2026": {
+      "title": "SnapがSPECSの次回公式launch eventを9月16日に設定 秋投入へ向けた次の発表節目を明示",
+      "source_name": "Snap Newsroom",
+      "source_url": "https://newsroom.snap.com/specs-launch-date",
+      "first_reported": "2026-07-31",
+      "last_seen": "2026-07-31",
+      "category": "device"
+    },
+    "market_xreal_aura_founder_pass_sold_out_jul31_2026": {
+      "title": "XREAL AURA公式ページがFounder Priority Pass 2,000枠の36時間完売を掲出 Founder向けdepositも$299で明示",
+      "source_name": "XREAL",
+      "source_url": "https://www.xreal.com/aura",
+      "first_reported": "2026-07-31",
+      "last_seen": "2026-07-31",
+      "category": "market"
+    },
+    "regulation_samsung_intelligent_eyewear_privacy_training_jul31_2026": {
+      "title": "SamsungがIntelligent Eyewearのprivacy設計を補足 音声/動画/画面共有データはAI学習に使わず LED遮断時や非装着時は録画停止",
+      "source_name": "Samsung Global Newsroom",
+      "source_url": "https://news.samsung.com/global/interview-galaxy-unpacked-july-2026-intelligent-eyewear-the-first-step-toward-the-next-mobile-ai-interface",
+      "first_reported": "2026-07-31",
+      "last_seen": "2026-07-31",
+      "category": "regulation"
     }
   }
 }
