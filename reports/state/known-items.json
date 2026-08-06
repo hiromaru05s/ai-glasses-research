@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-08-05",
+  "last_updated": "2026-08-06",
   "last_biweekly": "2026-05-04",
   "items": {
     "device_xreal_xbx_a01_may27_2026": {
@@ -40,7 +40,7 @@
       "source_name": "Google Blog / Samsung Newsroom U.K.",
       "source_url": "https://blog.google/products-and-platforms/platforms/android/android-xr-io-2026/",
       "first_reported": "2026-06-03",
-      "last_seen": "2026-08-05",
+      "last_seen": "2026-08-06",
       "category": "device"
     },
     "sdk_android_xr_dp4_audio_display_glasses_may19_2026": {
@@ -200,7 +200,7 @@
       "source_name": "XREAL / Google Blog",
       "source_url": "https://www.xreal.com/aura",
       "first_reported": "2026-06-17",
-      "last_seen": "2026-08-05",
+      "last_seen": "2026-08-06",
       "category": "device"
     },
     "sdk_android_xr_awe_tooling_updates_jun15_2026": {
@@ -408,7 +408,7 @@
       "source_name": "Apple Developer",
       "source_url": "https://developer.apple.com/news/releases/",
       "first_reported": "2026-07-22",
-      "last_seen": "2026-08-05",
+      "last_seen": "2026-08-06",
       "category": "sdk"
     },
     "sdk_android_xr_security_bulletin_august2026": {
@@ -416,7 +416,7 @@
       "source_name": "Android Open Source Project",
       "source_url": "https://source.android.com/docs/security/bulletin/xr/2026/2026-08-01",
       "first_reported": "2026-08-05",
-      "last_seen": "2026-08-05",
+      "last_seen": "2026-08-06",
       "category": "sdk"
     },
     "device_xreal_xbx_a01plus_launch_jul8_2026": {
@@ -496,7 +496,7 @@
       "source_name": "XREAL",
       "source_url": "https://www.xreal.com/aura",
       "first_reported": "2026-07-22",
-      "last_seen": "2026-08-02",
+      "last_seen": "2026-08-06",
       "category": "device"
     },
     "device_samsung_google_intelligent_eyewear_unpacked_jul22_2026": {
@@ -504,7 +504,7 @@
       "source_name": "Samsung / Google Blog",
       "source_url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
       "first_reported": "2026-07-23",
-      "last_seen": "2026-08-05",
+      "last_seen": "2026-08-06",
       "category": "device"
     },
     "sdk_qualcomm_samsung_intelligent_eyewear_ar1_jul22_2026": {
@@ -512,7 +512,7 @@
       "source_name": "Qualcomm",
       "source_url": "https://www.qualcomm.com/news/releases/2026/07/qualcomm-and-samsung-expand-collaboration-with-snapdragon-poweri",
       "first_reported": "2026-07-23",
-      "last_seen": "2026-08-05",
+      "last_seen": "2026-08-06",
       "category": "sdk"
     },
     "regulation_meta_instagram_harassment_ban_jul23_2026": {
@@ -536,7 +536,7 @@
       "source_name": "Apple Developer",
       "source_url": "https://developer.apple.com/news/releases/",
       "first_reported": "2026-07-28",
-      "last_seen": "2026-08-05",
+      "last_seen": "2026-08-06",
       "category": "sdk"
     },
     "partnership_meta_ai_glasses_impact_grants_jul27_2026": {
@@ -544,7 +544,7 @@
       "source_name": "Meta",
       "source_url": "https://about.fb.com/news/2026/07/ai-glasses-helping-people-work-learn-live-independently/",
       "first_reported": "2026-07-28",
-      "last_seen": "2026-08-05",
+      "last_seen": "2026-08-06",
       "category": "partnership"
     },
     "device_snap_specs_launch_event_sep16_jul30_2026": {
@@ -552,7 +552,7 @@
       "source_name": "Snap Newsroom",
       "source_url": "https://newsroom.snap.com/specs-launch-date",
       "first_reported": "2026-07-31",
-      "last_seen": "2026-08-05",
+      "last_seen": "2026-08-06",
       "category": "device"
     },
     "market_xreal_aura_founder_pass_sold_out_jul31_2026": {
@@ -560,7 +560,7 @@
       "source_name": "XREAL",
       "source_url": "https://www.xreal.com/aura",
       "first_reported": "2026-07-31",
-      "last_seen": "2026-08-02",
+      "last_seen": "2026-08-06",
       "category": "market"
     },
     "regulation_samsung_intelligent_eyewear_privacy_training_jul31_2026": {
@@ -568,8 +568,16 @@
       "source_name": "Samsung Global Newsroom",
       "source_url": "https://news.samsung.com/global/interview-galaxy-unpacked-july-2026-intelligent-eyewear-the-first-step-toward-the-next-mobile-ai-interface",
       "first_reported": "2026-07-31",
-      "last_seen": "2026-08-05",
+      "last_seen": "2026-08-06",
       "category": "regulation"
+    },
+    "device_samsung_intelligent_eyewear_engineering_aug3_2026": {
+      "title": "SamsungがIntelligent Eyewearの技術詳細を公開 1回充電9時間・ケース7回超充電・約200件の特許出願を明示",
+      "source_name": "Samsung US Newsroom",
+      "source_url": "https://news.samsung.com/us/samsung-interview-galaxy-unpacked-july-2026-inside-engineering-intelligent-eyewear/",
+      "first_reported": "2026-08-06",
+      "last_seen": "2026-08-06",
+      "category": "device"
     }
   }
 }
