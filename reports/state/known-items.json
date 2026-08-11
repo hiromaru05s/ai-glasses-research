@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-08-06",
+  "last_updated": "2026-08-11",
   "last_biweekly": "2026-05-04",
   "items": {
     "device_xreal_xbx_a01_may27_2026": {
@@ -411,12 +411,20 @@
       "last_seen": "2026-08-06",
       "category": "sdk"
     },
+    "sdk_visionos_27_beta5_aug10_2026": {
+      "title": "AppleがvisionOS 27.0 beta 5 (24M5348b) を開発者向け公開 Vision Pro次期メジャー系の継続検証を前進",
+      "source_name": "Apple Developer",
+      "source_url": "https://developer.apple.com/news/releases/",
+      "first_reported": "2026-08-11",
+      "last_seen": "2026-08-11",
+      "category": "sdk"
+    },
     "sdk_android_xr_security_bulletin_august2026": {
       "title": "Android XR Bulletin August 2026公開 patch level 2026-08-05以降を案内し XR固有の新規セキュリティパッチなし",
       "source_name": "Android Open Source Project",
       "source_url": "https://source.android.com/docs/security/bulletin/xr/2026/2026-08-01",
       "first_reported": "2026-08-05",
-      "last_seen": "2026-08-06",
+      "last_seen": "2026-08-11",
       "category": "sdk"
     },
     "device_xreal_xbx_a01plus_launch_jul8_2026": {
@@ -504,7 +512,7 @@
       "source_name": "Samsung / Google Blog",
       "source_url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
       "first_reported": "2026-07-23",
-      "last_seen": "2026-08-06",
+      "last_seen": "2026-08-11",
       "category": "device"
     },
     "sdk_qualcomm_samsung_intelligent_eyewear_ar1_jul22_2026": {
@@ -536,7 +544,7 @@
       "source_name": "Apple Developer",
       "source_url": "https://developer.apple.com/news/releases/",
       "first_reported": "2026-07-28",
-      "last_seen": "2026-08-06",
+      "last_seen": "2026-08-11",
       "category": "sdk"
     },
     "partnership_meta_ai_glasses_impact_grants_jul27_2026": {
@@ -544,7 +552,7 @@
       "source_name": "Meta",
       "source_url": "https://about.fb.com/news/2026/07/ai-glasses-helping-people-work-learn-live-independently/",
       "first_reported": "2026-07-28",
-      "last_seen": "2026-08-06",
+      "last_seen": "2026-08-11",
       "category": "partnership"
     },
     "device_snap_specs_launch_event_sep16_jul30_2026": {
@@ -552,7 +560,7 @@
       "source_name": "Snap Newsroom",
       "source_url": "https://newsroom.snap.com/specs-launch-date",
       "first_reported": "2026-07-31",
-      "last_seen": "2026-08-06",
+      "last_seen": "2026-08-11",
       "category": "device"
     },
     "market_xreal_aura_founder_pass_sold_out_jul31_2026": {
@@ -576,7 +584,7 @@
       "source_name": "Samsung US Newsroom",
       "source_url": "https://news.samsung.com/us/samsung-interview-galaxy-unpacked-july-2026-inside-engineering-intelligent-eyewear/",
       "first_reported": "2026-08-06",
-      "last_seen": "2026-08-06",
+      "last_seen": "2026-08-11",
       "category": "device"
     }
   }
