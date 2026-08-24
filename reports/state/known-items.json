@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-08-23",
+  "last_updated": "2026-08-24",
   "last_biweekly": "2026-05-04",
   "items": {
     "device_xreal_xbx_a01_may27_2026": {
@@ -200,7 +200,7 @@
       "source_name": "XREAL / Google Blog",
       "source_url": "https://www.xreal.com/aura",
       "first_reported": "2026-06-17",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-08-24",
       "category": "device"
     },
     "sdk_android_xr_awe_tooling_updates_jun15_2026": {
@@ -504,7 +504,7 @@
       "source_name": "Android Developers Blog",
       "source_url": "https://android-developers.googleblog.com/2026/08/jetpack-xr-sdk-core-libraries-beta.html",
       "first_reported": "2026-08-21",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-08-24",
       "category": "sdk"
     },
     "device_xreal_aura_founder_priority_pass_jul22_2026": {
@@ -512,7 +512,7 @@
       "source_name": "XREAL",
       "source_url": "https://www.xreal.com/aura",
       "first_reported": "2026-07-22",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-08-24",
       "category": "device"
     },
     "device_samsung_google_intelligent_eyewear_unpacked_jul22_2026": {
@@ -528,7 +528,7 @@
       "source_name": "Qualcomm",
       "source_url": "https://www.qualcomm.com/news/releases/2026/07/qualcomm-and-samsung-expand-collaboration-with-snapdragon-poweri",
       "first_reported": "2026-07-23",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-08-24",
       "category": "sdk"
     },
     "regulation_meta_instagram_harassment_ban_jul23_2026": {
@@ -568,7 +568,7 @@
       "source_name": "Snap Newsroom",
       "source_url": "https://newsroom.snap.com/specs-launch-date",
       "first_reported": "2026-07-31",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-08-24",
       "category": "device"
     },
     "market_xreal_aura_founder_pass_sold_out_jul31_2026": {
@@ -576,7 +576,7 @@
       "source_name": "XREAL",
       "source_url": "https://www.xreal.com/aura",
       "first_reported": "2026-07-31",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-08-24",
       "category": "market"
     },
     "regulation_samsung_intelligent_eyewear_privacy_training_jul31_2026": {
@@ -584,7 +584,7 @@
       "source_name": "Samsung Global Newsroom",
       "source_url": "https://news.samsung.com/global/interview-galaxy-unpacked-july-2026-intelligent-eyewear-the-first-step-toward-the-next-mobile-ai-interface",
       "first_reported": "2026-07-31",
-      "last_seen": "2026-08-22",
+      "last_seen": "2026-08-24",
       "category": "regulation"
     },
     "device_samsung_intelligent_eyewear_engineering_aug3_2026": {
@@ -592,7 +592,7 @@
       "source_name": "Samsung US Newsroom",
       "source_url": "https://news.samsung.com/us/samsung-interview-galaxy-unpacked-july-2026-inside-engineering-intelligent-eyewear/",
       "first_reported": "2026-08-06",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-08-24",
       "category": "device"
     },
     "partnership_meta_vision_ireland_rayban_meta_aug12_2026": {
@@ -600,7 +600,7 @@
       "source_name": "Meta",
       "source_url": "https://about.fb.com/news/2026/08/the-future-is-for-everyone-free-ai-glasses-for-every-blind-and-visually-impaired-adult-vision-ireland-supports/",
       "first_reported": "2026-08-17",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-08-24",
       "category": "partnership"
     },
     "regulation_meta_glasses_england_wales_courts_ban_aug11_2026": {
@@ -616,7 +616,7 @@
       "source_name": "UK Cinema Association",
       "source_url": "https://www.cinemauk.org.uk/2026/08/meta-glasses-and-other-wearable-technology/",
       "first_reported": "2026-08-22",
-      "last_seen": "2026-08-22",
+      "last_seen": "2026-08-24",
       "category": "regulation"
     },
     "regulation_brazil_idec_coding_rights_meta_glasses_probe_aug20_2026": {
@@ -632,7 +632,7 @@
       "source_name": "Apple Developer",
       "source_url": "https://developer.apple.com/news/releases/",
       "first_reported": "2026-08-18",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-08-24",
       "category": "sdk"
     },
     "sdk_visionos_2661_aug17_2026": {
@@ -640,7 +640,7 @@
       "source_name": "Apple Developer",
       "source_url": "https://developer.apple.com/news/releases/",
       "first_reported": "2026-08-18",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-08-24",
       "category": "sdk"
     },
     "market_xreal_aura_10000_reservations_aug20_2026": {
@@ -648,7 +648,7 @@
       "source_name": "XREAL 👓 on X",
       "source_url": "https://x.com/XREAL_Global/status/2090454319355101352",
       "first_reported": "2026-08-23",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-08-24",
       "category": "market"
     }
   }
