@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-08-27",
+  "last_updated": "2026-08-29",
   "last_biweekly": "2026-05-04",
   "items": {
     "device_xreal_xbx_a01_may27_2026": {
@@ -200,7 +200,7 @@
       "source_name": "XREAL / Google Blog",
       "source_url": "https://www.xreal.com/aura",
       "first_reported": "2026-06-17",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-29",
       "category": "device"
     },
     "sdk_android_xr_awe_tooling_updates_jun15_2026": {
@@ -440,7 +440,15 @@
       "source_name": "Meta Newsroom",
       "source_url": "https://about.fb.com/news/2026/07/metas-ai-glasses-your-questions-answered/",
       "first_reported": "2026-07-10",
-      "last_seen": "2026-08-05",
+      "last_seen": "2026-08-29",
+      "category": "regulation"
+    },
+    "regulation_meta_capture_led_recording_stop_aug27_2026": {
+      "title": "Meta幹部Alex Himelがcapture LED信頼性向上更新を予告し 録画中にLEDを覆うとカメラ停止へ進める方針を示した",
+      "source_name": "Threads / Alex Himel",
+      "source_url": "https://www.threads.com/@ahimel/post/DcjTatTGyn-",
+      "first_reported": "2026-08-29",
+      "last_seen": "2026-08-29",
       "category": "regulation"
     },
     "regulation_google_android_xr_intelligent_eyewear_trust_jul16_2026": {
@@ -504,7 +512,7 @@
       "source_name": "Android Developers Blog",
       "source_url": "https://android-developers.googleblog.com/2026/08/jetpack-xr-sdk-core-libraries-beta.html",
       "first_reported": "2026-08-21",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-29",
       "category": "sdk"
     },
     "sdk_android_xr_glimmer_alpha18_aug26_2026": {
@@ -512,7 +520,7 @@
       "source_name": "Android Developers",
       "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-glimmer",
       "first_reported": "2026-08-27",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-29",
       "category": "sdk"
     },
     "device_xreal_aura_founder_priority_pass_jul22_2026": {
@@ -576,7 +584,7 @@
       "source_name": "Snap Newsroom",
       "source_url": "https://newsroom.snap.com/specs-launch-date",
       "first_reported": "2026-07-31",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-29",
       "category": "device"
     },
     "market_xreal_aura_founder_pass_sold_out_jul31_2026": {
@@ -584,7 +592,7 @@
       "source_name": "XREAL",
       "source_url": "https://www.xreal.com/aura",
       "first_reported": "2026-07-31",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-29",
       "category": "market"
     },
     "regulation_samsung_intelligent_eyewear_privacy_training_jul31_2026": {
@@ -592,7 +600,7 @@
       "source_name": "Samsung Global Newsroom",
       "source_url": "https://news.samsung.com/global/interview-galaxy-unpacked-july-2026-intelligent-eyewear-the-first-step-toward-the-next-mobile-ai-interface",
       "first_reported": "2026-07-31",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-29",
       "category": "regulation"
     },
     "device_samsung_intelligent_eyewear_engineering_aug3_2026": {
@@ -600,7 +608,7 @@
       "source_name": "Samsung US Newsroom",
       "source_url": "https://news.samsung.com/us/samsung-interview-galaxy-unpacked-july-2026-inside-engineering-intelligent-eyewear/",
       "first_reported": "2026-08-06",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-29",
       "category": "device"
     },
     "partnership_meta_vision_ireland_rayban_meta_aug12_2026": {
@@ -608,7 +616,7 @@
       "source_name": "Meta",
       "source_url": "https://about.fb.com/news/2026/08/the-future-is-for-everyone-free-ai-glasses-for-every-blind-and-visually-impaired-adult-vision-ireland-supports/",
       "first_reported": "2026-08-17",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-29",
       "category": "partnership"
     },
     "regulation_meta_glasses_england_wales_courts_ban_aug11_2026": {
@@ -648,7 +656,7 @@
       "source_name": "Apple Developer",
       "source_url": "https://developer.apple.com/news/releases/",
       "first_reported": "2026-08-18",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-29",
       "category": "sdk"
     },
     "market_xreal_aura_10000_reservations_aug20_2026": {
@@ -664,7 +672,7 @@
       "source_name": "Apple Developer",
       "source_url": "https://developer.apple.com/news/releases/",
       "first_reported": "2026-08-25",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-29",
       "category": "sdk"
     },
     "market_xreal_aura_launch_credit_sold_out_priority_deposit_aug25_2026": {
@@ -672,7 +680,7 @@
       "source_name": "XREAL",
       "source_url": "https://www.xreal.com/aura",
       "first_reported": "2026-08-25",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-29",
       "category": "market"
     }
   }
