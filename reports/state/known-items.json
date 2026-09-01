@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-08-30",
+  "last_updated": "2026-08-31",
   "last_biweekly": "2026-05-04",
   "items": {
     "device_xreal_xbx_a01_may27_2026": {
@@ -512,7 +512,7 @@
       "source_name": "Android Developers Blog",
       "source_url": "https://android-developers.googleblog.com/2026/08/jetpack-xr-sdk-core-libraries-beta.html",
       "first_reported": "2026-08-21",
-      "last_seen": "2026-08-30",
+      "last_seen": "2026-08-31",
       "category": "sdk"
     },
     "sdk_android_xr_glimmer_alpha18_aug26_2026": {
@@ -520,7 +520,7 @@
       "source_name": "Android Developers",
       "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-glimmer",
       "first_reported": "2026-08-27",
-      "last_seen": "2026-08-30",
+      "last_seen": "2026-08-31",
       "category": "sdk"
     },
     "device_xreal_aura_founder_priority_pass_jul22_2026": {
@@ -584,7 +584,7 @@
       "source_name": "Snap Newsroom",
       "source_url": "https://newsroom.snap.com/specs-launch-date",
       "first_reported": "2026-07-31",
-      "last_seen": "2026-08-30",
+      "last_seen": "2026-08-31",
       "category": "device"
     },
     "market_xreal_aura_founder_pass_sold_out_jul31_2026": {
@@ -600,7 +600,7 @@
       "source_name": "Samsung Global Newsroom",
       "source_url": "https://news.samsung.com/global/interview-galaxy-unpacked-july-2026-intelligent-eyewear-the-first-step-toward-the-next-mobile-ai-interface",
       "first_reported": "2026-07-31",
-      "last_seen": "2026-08-30",
+      "last_seen": "2026-08-31",
       "category": "regulation"
     },
     "device_samsung_intelligent_eyewear_engineering_aug3_2026": {
@@ -608,7 +608,7 @@
       "source_name": "Samsung US Newsroom",
       "source_url": "https://news.samsung.com/us/samsung-interview-galaxy-unpacked-july-2026-inside-engineering-intelligent-eyewear/",
       "first_reported": "2026-08-06",
-      "last_seen": "2026-08-30",
+      "last_seen": "2026-08-31",
       "category": "device"
     },
     "partnership_meta_vision_ireland_rayban_meta_aug12_2026": {
@@ -616,7 +616,7 @@
       "source_name": "Meta",
       "source_url": "https://about.fb.com/news/2026/08/the-future-is-for-everyone-free-ai-glasses-for-every-blind-and-visually-impaired-adult-vision-ireland-supports/",
       "first_reported": "2026-08-17",
-      "last_seen": "2026-08-30",
+      "last_seen": "2026-08-31",
       "category": "partnership"
     },
     "regulation_meta_glasses_england_wales_courts_ban_aug11_2026": {
@@ -656,7 +656,7 @@
       "source_name": "Apple Developer",
       "source_url": "https://developer.apple.com/news/releases/",
       "first_reported": "2026-08-18",
-      "last_seen": "2026-08-29",
+      "last_seen": "2026-08-31",
       "category": "sdk"
     },
     "market_xreal_aura_10000_reservations_aug20_2026": {
@@ -672,7 +672,7 @@
       "source_name": "Apple Developer",
       "source_url": "https://developer.apple.com/news/releases/",
       "first_reported": "2026-08-25",
-      "last_seen": "2026-08-30",
+      "last_seen": "2026-08-31",
       "category": "sdk"
     },
     "market_xreal_aura_launch_credit_sold_out_priority_deposit_aug25_2026": {
@@ -680,7 +680,7 @@
       "source_name": "XREAL",
       "source_url": "https://www.xreal.com/aura",
       "first_reported": "2026-08-25",
-      "last_seen": "2026-08-30",
+      "last_seen": "2026-08-31",
       "category": "market"
     },
     "regulation_australia_greens_import_ban_smart_glasses_aug27_2026": {
@@ -688,7 +688,15 @@
       "source_name": "Australian Greens",
       "source_url": "https://greens.org.au/news/media-release/media-release-greens-introduce-law-targeting-law-targeting-covert-smart-glasses",
       "first_reported": "2026-08-30",
-      "last_seen": "2026-08-30",
+      "last_seen": "2026-08-31",
+      "category": "regulation"
+    },
+    "regulation_australia_esafety_smart_glasses_online_safety_aug30_2026": {
+      "title": "豪州eSafety Commissionerがsmart glasses向けSafety by Design指針を公開し 顔の自動ぼかしや明確な録画表示を推奨",
+      "source_name": "eSafety Commissioner",
+      "source_url": "https://www.esafety.gov.au/industry/tech-trends-and-challenges/convergence-series/smart-glasses-and-online-safety",
+      "first_reported": "2026-08-31",
+      "last_seen": "2026-08-31",
       "category": "regulation"
     }
   }
