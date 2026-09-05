@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-09-02",
+  "last_updated": "2026-09-05",
   "last_biweekly": "2026-05-04",
   "items": {
     "device_xreal_xbx_a01_may27_2026": {
@@ -67,36 +67,12 @@
       "last_seen": "2026-06-17",
       "category": "device"
     },
-    "device_meta_japan_launch_rayban_oakley_may21_2026": {
-      "title": "Ray-Ban MetaとOakley Metaが5月21日から日本販売開始 Optics含む国内展開を正式発表",
-      "source_name": "Meta",
-      "source_url": "https://about.fb.com/ja/news/2026/05/ai-glass-launch/amp/",
-      "first_reported": "2026-06-03",
-      "last_seen": "2026-06-04",
-      "category": "device"
-    },
     "sdk_meta_ai_wearables_accessibility_features_may18_2026": {
       "title": "Meta AI wearablesがアクセシビリティ拡張 Be My Eyes強化 通話音声操作 one-touch shortcuts captioned calls追加",
       "source_name": "Meta Newsroom",
       "source_url": "https://about.fb.com/news/2026/05/meta-ai-wearables-changing-the-game-for-disabled-people/",
       "first_reported": "2026-06-03",
       "last_seen": "2026-06-13",
-      "category": "sdk"
-    },
-    "device_apple_vision_pro_accessibility_updates_may19_2026": {
-      "title": "Apple Vision Proに自動生成字幕と視線による電動車いす操作機能を追加予定 アクセシビリティ用途を強化",
-      "source_name": "Apple Newsroom",
-      "source_url": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
-      "first_reported": "2026-06-03",
-      "last_seen": "2026-06-04",
-      "category": "device"
-    },
-    "sdk_visionos_26_6_beta_release_notes_may26_2026": {
-      "title": "visionOS 26.6 beta配信開始 WWDC前の安定化フェーズ入り リリースノートは大きな新規項目なし",
-      "source_name": "Apple Developer Documentation",
-      "source_url": "https://developer.apple.com/documentation/visionos-release-notes/visionos-26_6-release-notes",
-      "first_reported": "2026-06-03",
-      "last_seen": "2026-06-04",
       "category": "sdk"
     },
     "partnership_snap_qualcomm_snapdragon_xr_multiyear": {
@@ -122,30 +98,6 @@
       "first_reported": "2026-06-04",
       "last_seen": "2026-06-13",
       "category": "sdk"
-    },
-    "device_acer_gi0_gemini_ai_glasses_may29_2026": {
-      "title": "Acer GI0発表 GeminiベースAIアシスタント搭載の音声AIグラスを北米$299.99で投入",
-      "source_name": "Acer News",
-      "source_url": "https://news.acer.com/new-acer-tablets-plus-ai-and-ar-glasses-expand-on-the-go-capabilities",
-      "first_reported": "2026-06-04",
-      "last_seen": "2026-06-04",
-      "category": "device"
-    },
-    "device_acer_ar_vision_gr0_may29_2026": {
-      "title": "Acer AR Vision GR0発表 172インチ相当の接続型ARグラスを北米$499.99で投入",
-      "source_name": "Acer News",
-      "source_url": "https://news.acer.com/new-acer-tablets-plus-ai-and-ar-glasses-expand-on-the-go-capabilities",
-      "first_reported": "2026-06-04",
-      "last_seen": "2026-06-04",
-      "category": "device"
-    },
-    "device_xreal_xbx_a01_entry_level_may27_2026": {
-      "title": "XREALがxbx a01をentry-level viewing glassesとして展開 低価格帯ラインを前面化",
-      "source_name": "XREAL Tutorials / 9to5Google",
-      "source_url": "https://tutorials.xreal.com/docs/glasses/xbxa01/",
-      "first_reported": "2026-06-04",
-      "last_seen": "2026-06-04",
-      "category": "device"
     },
     "device_meta_rayban_meta_optics_mexico_launch_jun3_2026": {
       "title": "MetaがRay-Ban Meta Blayzer Optics/Scriber Opticsをメキシコ投入 処方箋対応AIグラスをMXN 9,069から販売開始",
@@ -512,7 +464,7 @@
       "source_name": "Android Developers Blog",
       "source_url": "https://android-developers.googleblog.com/2026/08/jetpack-xr-sdk-core-libraries-beta.html",
       "first_reported": "2026-08-21",
-      "last_seen": "2026-09-02",
+      "last_seen": "2026-09-05",
       "category": "sdk"
     },
     "sdk_android_xr_glimmer_alpha18_aug26_2026": {
@@ -520,7 +472,7 @@
       "source_name": "Android Developers",
       "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-glimmer",
       "first_reported": "2026-08-27",
-      "last_seen": "2026-09-02",
+      "last_seen": "2026-09-05",
       "category": "sdk"
     },
     "device_xreal_aura_founder_priority_pass_jul22_2026": {
@@ -544,7 +496,7 @@
       "source_name": "Qualcomm",
       "source_url": "https://www.qualcomm.com/news/releases/2026/07/qualcomm-and-samsung-expand-collaboration-with-snapdragon-poweri",
       "first_reported": "2026-07-23",
-      "last_seen": "2026-09-02",
+      "last_seen": "2026-09-05",
       "category": "sdk"
     },
     "regulation_meta_instagram_harassment_ban_jul23_2026": {
@@ -584,7 +536,7 @@
       "source_name": "Snap Newsroom",
       "source_url": "https://newsroom.snap.com/specs-launch-date",
       "first_reported": "2026-07-31",
-      "last_seen": "2026-09-02",
+      "last_seen": "2026-09-05",
       "category": "device"
     },
     "market_xreal_aura_founder_pass_sold_out_jul31_2026": {
@@ -600,7 +552,7 @@
       "source_name": "Samsung Global Newsroom",
       "source_url": "https://news.samsung.com/global/interview-galaxy-unpacked-july-2026-intelligent-eyewear-the-first-step-toward-the-next-mobile-ai-interface",
       "first_reported": "2026-07-31",
-      "last_seen": "2026-09-02",
+      "last_seen": "2026-09-05",
       "category": "regulation"
     },
     "device_samsung_intelligent_eyewear_engineering_aug3_2026": {
@@ -608,7 +560,7 @@
       "source_name": "Samsung US Newsroom",
       "source_url": "https://news.samsung.com/us/samsung-interview-galaxy-unpacked-july-2026-inside-engineering-intelligent-eyewear/",
       "first_reported": "2026-08-06",
-      "last_seen": "2026-09-02",
+      "last_seen": "2026-09-05",
       "category": "device"
     },
     "partnership_meta_vision_ireland_rayban_meta_aug12_2026": {
@@ -680,7 +632,7 @@
       "source_name": "Apple Developer",
       "source_url": "https://developer.apple.com/news/releases/?id=08312026e",
       "first_reported": "2026-09-02",
-      "last_seen": "2026-09-02",
+      "last_seen": "2026-09-05",
       "category": "sdk"
     },
     "market_xreal_aura_launch_credit_sold_out_priority_deposit_aug25_2026": {
@@ -688,7 +640,7 @@
       "source_name": "XREAL",
       "source_url": "https://www.xreal.com/aura",
       "first_reported": "2026-08-25",
-      "last_seen": "2026-09-02",
+      "last_seen": "2026-09-05",
       "category": "market"
     },
     "regulation_australia_greens_import_ban_smart_glasses_aug27_2026": {
@@ -706,6 +658,46 @@
       "first_reported": "2026-08-31",
       "last_seen": "2026-08-31",
       "category": "regulation"
+    },
+    "device_meta_glasses_japan_launch_aug26_2026": {
+      "title": "Meta Glassesが日本で50600円から販売開始 26スタイルと度付きレンズに対応",
+      "source_name": "Meta",
+      "source_url": "https://about.fb.com/ja/news/2026/08/meta-glasses-launch-in-japan/",
+      "first_reported": "2026-09-05",
+      "last_seen": "2026-09-05",
+      "category": "device"
+    },
+    "device_htc_vive_eagle_us_uk_eu_launch_sep3_2026": {
+      "title": "HTC VIVE Eagleが北米出荷開始 英国・欧州は9月21日出荷で499ドルから",
+      "source_name": "HTC VIVE / T3",
+      "source_url": "https://shop-us.vive.com/products/vive-eagle",
+      "first_reported": "2026-09-05",
+      "last_seen": "2026-09-05",
+      "category": "device"
+    },
+    "device_gosight_p1_ifa_unveil_sep4_2026": {
+      "title": "GOSIGHTが双眼フルカラーAI+ARグラスP1を発表 ホットスワップ電源を採用",
+      "source_name": "GOSIGHT / GlobeNewswire",
+      "source_url": "https://www.globenewswire.com/news-release/2026/09/04/3356376/0/en/gosight-p1-moves-full-color-ar-into-continuous-use-with-binocular-display-and-seamless-battery-swapping.html",
+      "first_reported": "2026-09-05",
+      "last_seen": "2026-09-05",
+      "category": "device"
+    },
+    "partnership_lumus_quanta_waveguide_license_sep1_2026": {
+      "title": "LumusとQuantaが次世代ARグラス用薄型・低コストwaveguideの製造ライセンス契約を締結",
+      "source_name": "Lumus / PR Newswire",
+      "source_url": "https://www.prnewswire.com/news-releases/lumus-and-quanta-expand-manufacturing-partnership-with-licensing-agreement-for-next-generation-thinner-lower-cost-waveguides-for-ai-glasses-302866019.html",
+      "first_reported": "2026-09-05",
+      "last_seen": "2026-09-05",
+      "category": "partnership"
+    },
+    "market_omdia_xr_headwear_shipments_1h26_sep3_2026": {
+      "title": "Omdiaが1H26 XRヘッドウェア出荷190万台・前年比38.7%減 XRグラス構成比25.8%と発表",
+      "source_name": "Omdia / Business Wire",
+      "source_url": "https://www.businesswire.com/news/home/20260903768294/en/",
+      "first_reported": "2026-09-05",
+      "last_seen": "2026-09-05",
+      "category": "market"
     }
   }
 }
