@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-09-05",
+  "last_updated": "2026-09-06",
   "last_biweekly": "2026-05-04",
   "items": {
     "device_xreal_xbx_a01_may27_2026": {
@@ -80,7 +80,7 @@
       "source_name": "Snap Newsroom",
       "source_url": "https://newsroom.snap.com/snap-qualcomm-strategic-collaboration-specs-2026",
       "first_reported": "2026-04-12",
-      "last_seen": "2026-06-13",
+      "last_seen": "2026-09-06",
       "category": "partnership"
     },
     "partnership_snap_specs_awe2026_spiegel_keynote_june16": {
@@ -98,14 +98,6 @@
       "first_reported": "2026-06-04",
       "last_seen": "2026-06-13",
       "category": "sdk"
-    },
-    "device_meta_rayban_meta_optics_mexico_launch_jun3_2026": {
-      "title": "MetaがRay-Ban Meta Blayzer Optics/Scriber Opticsをメキシコ投入 処方箋対応AIグラスをMXN 9,069から販売開始",
-      "source_name": "Meta",
-      "source_url": "https://about.fb.com/ltam/news/2026/06/presentamos-una-nueva-linea-de-lentes-ray-ban-meta-disenada-para-prescripcion-y-para-ofrecer-comodidad-durante-todo-el-dia/amp/",
-      "first_reported": "2026-06-07",
-      "last_seen": "2026-06-07",
-      "category": "device"
     },
     "sdk_android_xr_security_bulletin_june2026": {
       "title": "Android XR Security Bulletin June 2026 パッチレベル2026-06-05以降でXR固有のHigh脆弱性CVE-2026-0072を修正",
@@ -152,7 +144,7 @@
       "source_name": "XREAL / Google Blog",
       "source_url": "https://www.xreal.com/aura",
       "first_reported": "2026-06-17",
-      "last_seen": "2026-08-29",
+      "last_seen": "2026-09-06",
       "category": "device"
     },
     "sdk_android_xr_awe_tooling_updates_jun15_2026": {
@@ -464,7 +456,7 @@
       "source_name": "Android Developers Blog",
       "source_url": "https://android-developers.googleblog.com/2026/08/jetpack-xr-sdk-core-libraries-beta.html",
       "first_reported": "2026-08-21",
-      "last_seen": "2026-09-05",
+      "last_seen": "2026-09-06",
       "category": "sdk"
     },
     "sdk_android_xr_glimmer_alpha18_aug26_2026": {
@@ -472,7 +464,7 @@
       "source_name": "Android Developers",
       "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-glimmer",
       "first_reported": "2026-08-27",
-      "last_seen": "2026-09-05",
+      "last_seen": "2026-09-06",
       "category": "sdk"
     },
     "device_xreal_aura_founder_priority_pass_jul22_2026": {
@@ -536,7 +528,7 @@
       "source_name": "Snap Newsroom",
       "source_url": "https://newsroom.snap.com/specs-launch-date",
       "first_reported": "2026-07-31",
-      "last_seen": "2026-09-05",
+      "last_seen": "2026-09-06",
       "category": "device"
     },
     "market_xreal_aura_founder_pass_sold_out_jul31_2026": {
@@ -544,7 +536,7 @@
       "source_name": "XREAL",
       "source_url": "https://www.xreal.com/aura",
       "first_reported": "2026-07-31",
-      "last_seen": "2026-08-29",
+      "last_seen": "2026-09-06",
       "category": "market"
     },
     "regulation_samsung_intelligent_eyewear_privacy_training_jul31_2026": {
@@ -560,7 +552,7 @@
       "source_name": "Samsung US Newsroom",
       "source_url": "https://news.samsung.com/us/samsung-interview-galaxy-unpacked-july-2026-inside-engineering-intelligent-eyewear/",
       "first_reported": "2026-08-06",
-      "last_seen": "2026-09-05",
+      "last_seen": "2026-09-06",
       "category": "device"
     },
     "partnership_meta_vision_ireland_rayban_meta_aug12_2026": {
@@ -568,7 +560,7 @@
       "source_name": "Meta",
       "source_url": "https://about.fb.com/news/2026/08/the-future-is-for-everyone-free-ai-glasses-for-every-blind-and-visually-impaired-adult-vision-ireland-supports/",
       "first_reported": "2026-08-17",
-      "last_seen": "2026-09-02",
+      "last_seen": "2026-09-06",
       "category": "partnership"
     },
     "regulation_meta_glasses_england_wales_courts_ban_aug11_2026": {
@@ -608,7 +600,7 @@
       "source_name": "Apple Developer",
       "source_url": "https://developer.apple.com/news/releases/",
       "first_reported": "2026-08-18",
-      "last_seen": "2026-09-02",
+      "last_seen": "2026-09-06",
       "category": "sdk"
     },
     "market_xreal_aura_10000_reservations_aug20_2026": {
@@ -632,7 +624,7 @@
       "source_name": "Apple Developer",
       "source_url": "https://developer.apple.com/news/releases/?id=08312026e",
       "first_reported": "2026-09-02",
-      "last_seen": "2026-09-05",
+      "last_seen": "2026-09-06",
       "category": "sdk"
     },
     "market_xreal_aura_launch_credit_sold_out_priority_deposit_aug25_2026": {
@@ -640,7 +632,7 @@
       "source_name": "XREAL",
       "source_url": "https://www.xreal.com/aura",
       "first_reported": "2026-08-25",
-      "last_seen": "2026-09-05",
+      "last_seen": "2026-09-06",
       "category": "market"
     },
     "regulation_australia_greens_import_ban_smart_glasses_aug27_2026": {
@@ -697,6 +689,22 @@
       "source_url": "https://www.businesswire.com/news/home/20260903768294/en/",
       "first_reported": "2026-09-05",
       "last_seen": "2026-09-05",
+      "category": "market"
+    },
+    "www.tcl.com/hk/en/ifa": {
+      "title": "TCLがIFAでRayNeo GT MaxとiOの表示・AI機能を紹介",
+      "source_name": "TCL Global",
+      "source_url": "https://www.tcl.com/hk/en/ifa",
+      "first_reported": "2026-09-06",
+      "last_seen": "2026-09-06",
+      "category": "device"
+    },
+    "www.nasdaq.com/press-release/innovative-eyewear-inc-announces-q3-business-update-2026-09-03": {
+      "title": "Innovative Eyewearが375店舗試験展開とアプリ更新を公表",
+      "source_name": "Innovative Eyewear / PRNewswire (Nasdaq)",
+      "source_url": "https://www.nasdaq.com/press-release/innovative-eyewear-inc-announces-q3-business-update-2026-09-03",
+      "first_reported": "2026-09-06",
+      "last_seen": "2026-09-06",
       "category": "market"
     }
   }
