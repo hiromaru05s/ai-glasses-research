@@ -1,24 +1,8 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-09-08",
+  "last_updated": "2026-09-09",
   "last_biweekly": "2026-05-04",
   "items": {
-    "device_xreal_xbx_a01_may27_2026": {
-      "title": "XREALが廉価サブブランドX By Xrealとa01 ARグラスを投入 62g/1600nit/$299で2026年7月米国発売予定",
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/gadgets/937944/x-by-xreal-subbrand-a01-ar-glasses-price-availability",
-      "first_reported": "2026-06-11",
-      "last_seen": "2026-06-11",
-      "category": "device"
-    },
-    "sdk_meta_rayban_display_v125_palm_unlock_call_captions_jun8_2026": {
-      "title": "Android CentralがMeta Ray-Ban Display v125関連でPalm Unlock/通話字幕/WhatsApp POV通話/Live Sports/Cellular設定の段階的配信を報道 Meta公式告知は未確認",
-      "source_name": "Android Central",
-      "source_url": "https://www.androidcentral.com/gaming/virtual-reality/update-alert-metas-ray-ban-display-gets-palm-unlock-real-time-call-captions",
-      "first_reported": "2026-06-11",
-      "last_seen": "2026-06-11",
-      "category": "sdk"
-    },
     "sdk_apple_visionos_27_preview_jun8_2026": {
       "title": "AppleがvisionOS 27 Preview公開 Siri AI/Visual Intelligence/curved windows/Spatial Mac previewing/新Web EnvironmentsなどVision Pro向け機能を告知",
       "source_name": "Apple",
@@ -288,7 +272,7 @@
       "source_name": "Meta AI Glasses Help",
       "source_url": "https://www.meta.com/help/ai-glasses/1809764829519902/",
       "first_reported": "2026-07-04",
-      "last_seen": "2026-07-17",
+      "last_seen": "2026-09-09",
       "category": "sdk"
     },
     "sdk_meta_ai_glasses_fitness_golf_integrations_jul5_2026": {
@@ -448,7 +432,7 @@
       "source_name": "Android Developers Blog",
       "source_url": "https://android-developers.googleblog.com/2026/08/jetpack-xr-sdk-core-libraries-beta.html",
       "first_reported": "2026-08-21",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "category": "sdk"
     },
     "sdk_android_xr_glimmer_alpha18_aug26_2026": {
@@ -456,7 +440,7 @@
       "source_name": "Android Developers",
       "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-glimmer",
       "first_reported": "2026-08-27",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "category": "sdk"
     },
     "device_xreal_aura_founder_priority_pass_jul22_2026": {
@@ -520,7 +504,7 @@
       "source_name": "Snap Newsroom",
       "source_url": "https://newsroom.snap.com/specs-launch-date",
       "first_reported": "2026-07-31",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "category": "device"
     },
     "market_xreal_aura_founder_pass_sold_out_jul31_2026": {
@@ -528,7 +512,7 @@
       "source_name": "XREAL",
       "source_url": "https://www.xreal.com/aura",
       "first_reported": "2026-07-31",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "category": "market"
     },
     "regulation_samsung_intelligent_eyewear_privacy_training_jul31_2026": {
@@ -592,7 +576,7 @@
       "source_name": "Apple Developer",
       "source_url": "https://developer.apple.com/news/releases/",
       "first_reported": "2026-08-18",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "category": "sdk"
     },
     "market_xreal_aura_10000_reservations_aug20_2026": {
@@ -616,7 +600,7 @@
       "source_name": "Apple Developer",
       "source_url": "https://developer.apple.com/news/releases/?id=08312026e",
       "first_reported": "2026-09-02",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "category": "sdk"
     },
     "market_xreal_aura_launch_credit_sold_out_priority_deposit_aug25_2026": {
@@ -624,7 +608,7 @@
       "source_name": "XREAL",
       "source_url": "https://www.xreal.com/aura",
       "first_reported": "2026-08-25",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "category": "market"
     },
     "regulation_australia_greens_import_ban_smart_glasses_aug27_2026": {
@@ -648,7 +632,7 @@
       "source_name": "Meta",
       "source_url": "https://about.fb.com/ja/news/2026/08/meta-glasses-launch-in-japan/",
       "first_reported": "2026-09-05",
-      "last_seen": "2026-09-05",
+      "last_seen": "2026-09-09",
       "category": "device"
     },
     "device_htc_vive_eagle_us_uk_eu_launch_sep3_2026": {
@@ -656,7 +640,7 @@
       "source_name": "HTC VIVE / T3",
       "source_url": "https://shop-us.vive.com/products/vive-eagle",
       "first_reported": "2026-09-05",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "category": "device"
     },
     "device_gosight_p1_ifa_unveil_sep4_2026": {
@@ -680,7 +664,7 @@
       "source_name": "Omdia / Business Wire",
       "source_url": "https://www.businesswire.com/news/home/20260903768294/en/",
       "first_reported": "2026-09-05",
-      "last_seen": "2026-09-05",
+      "last_seen": "2026-09-09",
       "category": "market"
     },
     "www.tcl.com/hk/en/ifa": {
@@ -704,7 +688,7 @@
       "source_name": "Deutsche Telekom",
       "source_url": "https://www.telekom.com/de/newsroom/aktuelles/medieninformationen/2026/09/telekom-bringt-ray-ban-meta-glasses-in-ihre-shops",
       "first_reported": "2026-09-07",
-      "last_seen": "2026-09-07",
+      "last_seen": "2026-09-09",
       "category": "market"
     },
     "www.ifa-berlin.com/de/pressemitteilungen/ifa2026-meta-cupra": {
@@ -746,6 +730,30 @@
       "first_reported": "2026-09-08",
       "last_seen": "2026-09-08",
       "category": "regulation"
+    },
+    "about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/": {
+      "title": "MetaがMuseを発表しAIグラス向け提供を予告",
+      "source_name": "Meta Newsroom",
+      "source_url": "https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/",
+      "first_reported": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "category": "sdk"
+    },
+    "source.android.com/docs/security/bulletin/xr/2026/2026-09-01": {
+      "title": "Android XRの9月公報がHighの権限昇格脆弱性を掲載",
+      "source_name": "Android Open Source Project",
+      "source_url": "https://source.android.com/docs/security/bulletin/xr/2026/2026-09-01",
+      "first_reported": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "category": "sdk"
+    },
+    "www.prnewswire.com/news-releases/memomind-one-opens-developer-access-announces-kiwear-as-first-sdk-partner-302865894.html": {
+      "title": "MemoMindがBLE公開計画とKiWear提携を発表",
+      "source_name": "XGIMI / MemoMind（PR Newswire）",
+      "source_url": "https://www.prnewswire.com/news-releases/memomind-one-opens-developer-access-announces-kiwear-as-first-sdk-partner-302865894.html",
+      "first_reported": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "category": "sdk"
     }
   }
 }
