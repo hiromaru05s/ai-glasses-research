@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-09-09",
+  "last_updated": "2026-09-10",
   "last_biweekly": "2026-05-04",
   "items": {
     "sdk_apple_visionos_27_preview_jun8_2026": {
@@ -56,7 +56,7 @@
       "source_name": "Snap Newsroom",
       "source_url": "https://newsroom.snap.com/snap-qualcomm-strategic-collaboration-specs-2026",
       "first_reported": "2026-04-12",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-10",
       "category": "partnership"
     },
     "partnership_snap_specs_awe2026_spiegel_keynote_june16": {
@@ -128,7 +128,7 @@
       "source_name": "Android Developers Blog",
       "source_url": "https://android-developers.googleblog.com/2026/06/what-is-new-android-xr.html",
       "first_reported": "2026-06-17",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-10",
       "category": "sdk"
     },
     "sdk_qualcomm_snapdragon_reality_elite_jun16_2026": {
@@ -192,7 +192,7 @@
       "source_name": "Meta Newsroom",
       "source_url": "https://about.fb.com/news/2026/06/meta-essilorluxottica-partner-launch-meta-glasses/",
       "first_reported": "2026-06-25",
-      "last_seen": "2026-08-05",
+      "last_seen": "2026-09-10",
       "category": "device"
     },
     "market_snap_illumix_acquisition_jun5_2026": {
@@ -272,7 +272,7 @@
       "source_name": "Meta AI Glasses Help",
       "source_url": "https://www.meta.com/help/ai-glasses/1809764829519902/",
       "first_reported": "2026-07-04",
-      "last_seen": "2026-09-09",
+      "last_seen": "2026-09-10",
       "category": "sdk"
     },
     "sdk_meta_ai_glasses_fitness_golf_integrations_jul5_2026": {
@@ -504,7 +504,7 @@
       "source_name": "Snap Newsroom",
       "source_url": "https://newsroom.snap.com/specs-launch-date",
       "first_reported": "2026-07-31",
-      "last_seen": "2026-09-09",
+      "last_seen": "2026-09-10",
       "category": "device"
     },
     "market_xreal_aura_founder_pass_sold_out_jul31_2026": {
@@ -512,7 +512,7 @@
       "source_name": "XREAL",
       "source_url": "https://www.xreal.com/aura",
       "first_reported": "2026-07-31",
-      "last_seen": "2026-09-09",
+      "last_seen": "2026-09-10",
       "category": "market"
     },
     "regulation_samsung_intelligent_eyewear_privacy_training_jul31_2026": {
@@ -608,7 +608,7 @@
       "source_name": "XREAL",
       "source_url": "https://www.xreal.com/aura",
       "first_reported": "2026-08-25",
-      "last_seen": "2026-09-09",
+      "last_seen": "2026-09-10",
       "category": "market"
     },
     "regulation_australia_greens_import_ban_smart_glasses_aug27_2026": {
@@ -632,7 +632,7 @@
       "source_name": "Meta",
       "source_url": "https://about.fb.com/ja/news/2026/08/meta-glasses-launch-in-japan/",
       "first_reported": "2026-09-05",
-      "last_seen": "2026-09-09",
+      "last_seen": "2026-09-10",
       "category": "device"
     },
     "device_htc_vive_eagle_us_uk_eu_launch_sep3_2026": {
@@ -640,7 +640,7 @@
       "source_name": "HTC VIVE / T3",
       "source_url": "https://shop-us.vive.com/products/vive-eagle",
       "first_reported": "2026-09-05",
-      "last_seen": "2026-09-09",
+      "last_seen": "2026-09-10",
       "category": "device"
     },
     "device_gosight_p1_ifa_unveil_sep4_2026": {
@@ -736,7 +736,7 @@
       "source_name": "Meta Newsroom",
       "source_url": "https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/",
       "first_reported": "2026-09-09",
-      "last_seen": "2026-09-09",
+      "last_seen": "2026-09-10",
       "category": "sdk"
     },
     "source.android.com/docs/security/bulletin/xr/2026/2026-09-01": {
@@ -754,6 +754,54 @@
       "first_reported": "2026-09-09",
       "last_seen": "2026-09-09",
       "category": "sdk"
+    },
+    "developer.android.com/jetpack/androidx/releases/xr-runtime": {
+      "title": "Android XRコア3ライブラリがrc01へ Runtime次期alphaも公開",
+      "source_name": "Android Developers",
+      "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-runtime",
+      "first_reported": "2026-09-10",
+      "last_seen": "2026-09-10",
+      "category": "sdk"
+    },
+    "developer.android.com/jetpack/androidx/releases/xr-projected": {
+      "title": "XR Projected alpha12が権限要求テストを修正",
+      "source_name": "Android Developers",
+      "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-projected",
+      "first_reported": "2026-09-10",
+      "last_seen": "2026-09-10",
+      "category": "sdk"
+    },
+    "developer.android.com/jetpack/androidx/releases/xr-glimmer": {
+      "title": "Glimmer alpha19が引数名とcompileSdk要件を更新",
+      "source_name": "Android Developers",
+      "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-glimmer",
+      "first_reported": "2026-09-10",
+      "last_seen": "2026-09-10",
+      "category": "sdk"
+    },
+    "developer.apple.com/news/releases/": {
+      "title": "AppleがvisionOS 27 RCとXcode 27 RCを公開",
+      "source_name": "Apple Developer",
+      "source_url": "https://developer.apple.com/news/releases/",
+      "first_reported": "2026-09-10",
+      "last_seen": "2026-09-10",
+      "category": "sdk"
+    },
+    "www.prnewswire.com/news-releases/rokid-launches-aiui-studio-globally-at-ifa-berlin-2026-making-ai-glasses-creation-more-accessible-for-everyone-302873504.html": {
+      "title": "RokidがAIUI Studioのグローバル提供を発表",
+      "source_name": "Rokid（PR Newswire）",
+      "source_url": "https://www.prnewswire.com/news-releases/rokid-launches-aiui-studio-globally-at-ifa-berlin-2026-making-ai-glasses-creation-more-accessible-for-everyone-302873504.html",
+      "first_reported": "2026-09-10",
+      "last_seen": "2026-09-10",
+      "category": "sdk"
+    },
+    "prtimes.jp/main/html/rd/p/000000075.000111538.html": {
+      "title": "FUJIKONがSOUND GLASSの9月10日発売を告知",
+      "source_name": "FUJIKON HOLDINGS（PR TIMES）",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000075.000111538.html",
+      "first_reported": "2026-09-10",
+      "last_seen": "2026-09-10",
+      "category": "device"
     }
   }
 }
