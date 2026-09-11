@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-09-10",
+  "last_updated": "2026-09-11",
   "last_biweekly": "2026-05-04",
   "items": {
     "sdk_apple_visionos_27_preview_jun8_2026": {
@@ -43,20 +43,12 @@
       "last_seen": "2026-06-17",
       "category": "device"
     },
-    "sdk_meta_ai_wearables_accessibility_features_may18_2026": {
-      "title": "Meta AI wearablesがアクセシビリティ拡張 Be My Eyes強化 通話音声操作 one-touch shortcuts captioned calls追加",
-      "source_name": "Meta Newsroom",
-      "source_url": "https://about.fb.com/news/2026/05/meta-ai-wearables-changing-the-game-for-disabled-people/",
-      "first_reported": "2026-06-03",
-      "last_seen": "2026-06-13",
-      "category": "sdk"
-    },
     "partnership_snap_qualcomm_snapdragon_xr_multiyear": {
       "title": "Snap(Specs Inc.)×Qualcomm 複数年Snapdragon XR戦略提携",
       "source_name": "Snap Newsroom",
       "source_url": "https://newsroom.snap.com/snap-qualcomm-strategic-collaboration-specs-2026",
       "first_reported": "2026-04-12",
-      "last_seen": "2026-09-10",
+      "last_seen": "2026-09-11",
       "category": "partnership"
     },
     "partnership_snap_specs_awe2026_spiegel_keynote_june16": {
@@ -66,14 +58,6 @@
       "first_reported": "2026-05-03",
       "last_seen": "2026-06-17",
       "category": "partnership"
-    },
-    "sdk_android_xr_unreal_godot_engine_hub_may19_2026": {
-      "title": "Android XRがUnreal/Godot公式対応とEngine Hub・Interaction Frameworkを公開",
-      "source_name": "Android Developers Blog",
-      "source_url": "https://developer.android.com/blog/posts/android-xr-updates-for-unity-unreal-and-godot?authuser=00",
-      "first_reported": "2026-06-04",
-      "last_seen": "2026-06-13",
-      "category": "sdk"
     },
     "sdk_android_xr_security_bulletin_june2026": {
       "title": "Android XR Security Bulletin June 2026 パッチレベル2026-06-05以降でXR固有のHigh脆弱性CVE-2026-0072を修正",
@@ -504,7 +488,7 @@
       "source_name": "Snap Newsroom",
       "source_url": "https://newsroom.snap.com/specs-launch-date",
       "first_reported": "2026-07-31",
-      "last_seen": "2026-09-10",
+      "last_seen": "2026-09-11",
       "category": "device"
     },
     "market_xreal_aura_founder_pass_sold_out_jul31_2026": {
@@ -512,7 +496,7 @@
       "source_name": "XREAL",
       "source_url": "https://www.xreal.com/aura",
       "first_reported": "2026-07-31",
-      "last_seen": "2026-09-10",
+      "last_seen": "2026-09-11",
       "category": "market"
     },
     "regulation_samsung_intelligent_eyewear_privacy_training_jul31_2026": {
@@ -608,7 +592,7 @@
       "source_name": "XREAL",
       "source_url": "https://www.xreal.com/aura",
       "first_reported": "2026-08-25",
-      "last_seen": "2026-09-10",
+      "last_seen": "2026-09-11",
       "category": "market"
     },
     "regulation_australia_greens_import_ban_smart_glasses_aug27_2026": {
@@ -736,7 +720,7 @@
       "source_name": "Meta Newsroom",
       "source_url": "https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/",
       "first_reported": "2026-09-09",
-      "last_seen": "2026-09-10",
+      "last_seen": "2026-09-11",
       "category": "sdk"
     },
     "source.android.com/docs/security/bulletin/xr/2026/2026-09-01": {
@@ -760,7 +744,7 @@
       "source_name": "Android Developers",
       "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-runtime",
       "first_reported": "2026-09-10",
-      "last_seen": "2026-09-10",
+      "last_seen": "2026-09-11",
       "category": "sdk"
     },
     "developer.android.com/jetpack/androidx/releases/xr-projected": {
@@ -768,7 +752,7 @@
       "source_name": "Android Developers",
       "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-projected",
       "first_reported": "2026-09-10",
-      "last_seen": "2026-09-10",
+      "last_seen": "2026-09-11",
       "category": "sdk"
     },
     "developer.android.com/jetpack/androidx/releases/xr-glimmer": {
@@ -776,7 +760,7 @@
       "source_name": "Android Developers",
       "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-glimmer",
       "first_reported": "2026-09-10",
-      "last_seen": "2026-09-10",
+      "last_seen": "2026-09-11",
       "category": "sdk"
     },
     "developer.apple.com/news/releases/": {
@@ -784,7 +768,7 @@
       "source_name": "Apple Developer",
       "source_url": "https://developer.apple.com/news/releases/",
       "first_reported": "2026-09-10",
-      "last_seen": "2026-09-10",
+      "last_seen": "2026-09-11",
       "category": "sdk"
     },
     "www.prnewswire.com/news-releases/rokid-launches-aiui-studio-globally-at-ifa-berlin-2026-making-ai-glasses-creation-more-accessible-for-everyone-302873504.html": {
@@ -802,6 +786,38 @@
       "first_reported": "2026-09-10",
       "last_seen": "2026-09-10",
       "category": "device"
+    },
+    "www.meta.com/en-gb/connect/agenda/": {
+      "title": "Meta ConnectがDisplay向けWebアプリとToolkitのセッションを掲載",
+      "source_name": "Meta",
+      "source_url": "https://www.meta.com/en-gb/connect/agenda/",
+      "first_reported": "2026-09-11",
+      "last_seen": "2026-09-11",
+      "category": "sdk"
+    },
+    "www.apple.com/os/visionos/": {
+      "title": "AppleがvisionOS 27の9月14日提供予定を明示",
+      "source_name": "Apple",
+      "source_url": "https://www.apple.com/os/visionos/",
+      "first_reported": "2026-09-11",
+      "last_seen": "2026-09-11",
+      "category": "sdk"
+    },
+    "bastille.net/press-release/bastille-launches-only-software-to-locate-smart-glasses-in-secure-environments/": {
+      "title": "Bastilleがスマートグラスの検知・位置特定ソフトを発表",
+      "source_name": "Bastille Networks",
+      "source_url": "https://bastille.net/press-release/bastille-launches-only-software-to-locate-smart-glasses-in-secure-environments/",
+      "first_reported": "2026-09-11",
+      "last_seen": "2026-09-11",
+      "category": "other"
+    },
+    "www.prnewswire.com/news-releases/lumus-bolsters-global-supply-chain-in-china-with-crystal-optech-partnership-302873220.html": {
+      "title": "LumusがCrystal-Optechとの導波路製造契約を発表",
+      "source_name": "Lumus（PR Newswire）",
+      "source_url": "https://www.prnewswire.com/news-releases/lumus-bolsters-global-supply-chain-in-china-with-crystal-optech-partnership-302873220.html",
+      "first_reported": "2026-09-11",
+      "last_seen": "2026-09-11",
+      "category": "partnership"
     }
   }
 }
