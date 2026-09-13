@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-09-13",
+  "last_updated": "2026-09-14",
   "last_biweekly": "2026-05-04",
   "items": {
     "sdk_apple_visionos_27_preview_jun8_2026": {
@@ -32,7 +32,7 @@
       "source_name": "Snap Newsroom",
       "source_url": "https://newsroom.snap.com/snap-qualcomm-strategic-collaboration-specs-2026",
       "first_reported": "2026-04-12",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "category": "partnership"
     },
     "partnership_snap_specs_awe2026_spiegel_keynote_june16": {
@@ -168,7 +168,7 @@
       "source_name": "Counterpoint Research",
       "source_url": "https://counterpointresearch.com/en/insights/intelligent-eyewear-up-yoy-driven-by-demand-q1-2026",
       "first_reported": "2026-06-28",
-      "last_seen": "2026-07-03",
+      "last_seen": "2026-09-14",
       "category": "market"
     },
     "partnership_essilorluxottica_appliedmaterials_ar_optics_jun16_2026": {
@@ -456,7 +456,7 @@
       "source_name": "Snap Newsroom",
       "source_url": "https://newsroom.snap.com/specs-launch-date",
       "first_reported": "2026-07-31",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "category": "device"
     },
     "market_xreal_aura_founder_pass_sold_out_jul31_2026": {
@@ -464,7 +464,7 @@
       "source_name": "XREAL",
       "source_url": "https://www.xreal.com/aura",
       "first_reported": "2026-07-31",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "category": "market"
     },
     "regulation_samsung_intelligent_eyewear_privacy_training_jul31_2026": {
@@ -560,7 +560,7 @@
       "source_name": "XREAL",
       "source_url": "https://www.xreal.com/aura",
       "first_reported": "2026-08-25",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "category": "market"
     },
     "regulation_australia_greens_import_ban_smart_glasses_aug27_2026": {
@@ -632,7 +632,7 @@
       "source_name": "Innovative Eyewear / PRNewswire (Nasdaq)",
       "source_url": "https://www.nasdaq.com/press-release/innovative-eyewear-inc-announces-q3-business-update-2026-09-03",
       "first_reported": "2026-09-06",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-14",
       "category": "market"
     },
     "www.telekom.com/de/newsroom/aktuelles/medieninformationen/2026/09/telekom-bringt-ray-ban-meta-glasses-in-ihre-shops": {
@@ -640,7 +640,7 @@
       "source_name": "Deutsche Telekom",
       "source_url": "https://www.telekom.com/de/newsroom/aktuelles/medieninformationen/2026/09/telekom-bringt-ray-ban-meta-glasses-in-ihre-shops",
       "first_reported": "2026-09-07",
-      "last_seen": "2026-09-09",
+      "last_seen": "2026-09-14",
       "category": "market"
     },
     "www.ifa-berlin.com/de/pressemitteilungen/ifa2026-meta-cupra": {
@@ -688,7 +688,7 @@
       "source_name": "Meta Newsroom",
       "source_url": "https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/",
       "first_reported": "2026-09-09",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-14",
       "category": "sdk"
     },
     "source.android.com/docs/security/bulletin/xr/2026/2026-09-01": {
@@ -712,7 +712,7 @@
       "source_name": "Android Developers",
       "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-runtime",
       "first_reported": "2026-09-10",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "category": "sdk"
     },
     "developer.android.com/jetpack/androidx/releases/xr-projected": {
@@ -720,7 +720,7 @@
       "source_name": "Android Developers",
       "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-projected",
       "first_reported": "2026-09-10",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "category": "sdk"
     },
     "developer.android.com/jetpack/androidx/releases/xr-glimmer": {
@@ -728,7 +728,7 @@
       "source_name": "Android Developers",
       "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-glimmer",
       "first_reported": "2026-09-10",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "category": "sdk"
     },
     "developer.apple.com/news/releases/": {
@@ -736,7 +736,7 @@
       "source_name": "Apple Developer",
       "source_url": "https://developer.apple.com/news/releases/",
       "first_reported": "2026-09-10",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "category": "sdk"
     },
     "www.prnewswire.com/news-releases/rokid-launches-aiui-studio-globally-at-ifa-berlin-2026-making-ai-glasses-creation-more-accessible-for-everyone-302873504.html": {
@@ -768,7 +768,7 @@
       "source_name": "Apple",
       "source_url": "https://www.apple.com/os/visionos/",
       "first_reported": "2026-09-11",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "category": "sdk"
     },
     "bastille.net/press-release/bastille-launches-only-software-to-locate-smart-glasses-in-secure-environments/": {
@@ -802,6 +802,22 @@
       "first_reported": "2026-09-13",
       "last_seen": "2026-09-13",
       "category": "other"
+    },
+    "www.altaregional.org/post/acrc-expands-meta-smart-glasses-pilot": {
+      "title": "ACRCがMetaグラスによる就労・生活支援の実証拡大を発表",
+      "source_name": "Alta California Regional Center",
+      "source_url": "https://www.altaregional.org/post/acrc-expands-meta-smart-glasses-pilot",
+      "first_reported": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "category": "partnership"
+    },
+    "www.gmanetwork.com/news/scitech/technology/1001955/oslo-bans-smart-glasses-in-schools/story/": {
+      "title": "オスロの学校でスマートグラス禁止とAFPが報道",
+      "source_name": "AFP / GMA News Online",
+      "source_url": "https://www.gmanetwork.com/news/scitech/technology/1001955/oslo-bans-smart-glasses-in-schools/story/",
+      "first_reported": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "category": "regulation"
     }
   }
 }
