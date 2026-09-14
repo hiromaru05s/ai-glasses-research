@@ -818,6 +818,22 @@
       "first_reported": "2026-09-14",
       "last_seen": "2026-09-14",
       "category": "regulation"
+    },
+    "developer.apple.com/news/": {
+      "title": "AppleがvisionOS 27アプリ申請受付と翌4月のSDK要件を告知",
+      "source_name": "Apple Developer",
+      "source_url": "https://developer.apple.com/news/?id=k1mtkt1k",
+      "first_reported": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "category": "sdk"
+    },
+    "www.thinkar.com/en/blogs/news/salesforce-headless-360-glassforce-softbank-world-2026": {
+      "title": "ThinkARがSalesforce連携の日本語業務デモを紹介",
+      "source_name": "ThinkAR",
+      "source_url": "https://www.thinkar.com/en/blogs/news/salesforce-headless-360-glassforce-softbank-world-2026",
+      "first_reported": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "category": "partnership"
     }
   }
 }
