@@ -1,16 +1,8 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-09-14",
+  "last_updated": "2026-09-15",
   "last_biweekly": "2026-05-04",
   "items": {
-    "sdk_apple_visionos_27_preview_jun8_2026": {
-      "title": "AppleがvisionOS 27 Preview公開 Siri AI/Visual Intelligence/curved windows/Spatial Mac previewing/新Web EnvironmentsなどVision Pro向け機能を告知",
-      "source_name": "Apple",
-      "source_url": "https://www.apple.com/os/visionos/",
-      "first_reported": "2026-06-10",
-      "last_seen": "2026-06-17",
-      "category": "sdk"
-    },
     "device_google_android_xr_intelligent_eyewear_fall_2026": {
       "title": "Google/SamsungがGemini搭載intelligent eyewear初公開 audio glassesを2026年秋投入予定 Gentle Monster/Warby Parkerデザイン公開",
       "source_name": "Google Blog / Samsung Newsroom U.K.",
@@ -19,28 +11,12 @@
       "last_seen": "2026-08-06",
       "category": "device"
     },
-    "device_xreal_project_aura_google_io_may19_2026": {
-      "title": "XREAL Project AuraをGoogle I/Oで実機披露 2026年グローバル投入予定 Android XR開発キットも案内",
-      "source_name": "XREAL",
-      "source_url": "https://www.xreal.com/nl-en/blog/project-aura-google-io-2026",
-      "first_reported": "2026-06-03",
-      "last_seen": "2026-06-17",
-      "category": "device"
-    },
     "partnership_snap_qualcomm_snapdragon_xr_multiyear": {
       "title": "Snap(Specs Inc.)×Qualcomm 複数年Snapdragon XR戦略提携",
       "source_name": "Snap Newsroom",
       "source_url": "https://newsroom.snap.com/snap-qualcomm-strategic-collaboration-specs-2026",
       "first_reported": "2026-04-12",
       "last_seen": "2026-09-14",
-      "category": "partnership"
-    },
-    "partnership_snap_specs_awe2026_spiegel_keynote_june16": {
-      "title": "Snap CEO Spiegel AWE 2026基調講演 6/16確定 Specs Inc.が新ツール/Specsプラットフォーム最新進捗発表",
-      "source_name": "Snap Newsroom",
-      "source_url": "https://newsroom.snap.com/awe-2026-save-the-date",
-      "first_reported": "2026-05-03",
-      "last_seen": "2026-06-17",
       "category": "partnership"
     },
     "partnership_meta_rayban_meta_blind_veterans_jun12_2026": {
@@ -456,7 +432,7 @@
       "source_name": "Snap Newsroom",
       "source_url": "https://newsroom.snap.com/specs-launch-date",
       "first_reported": "2026-07-31",
-      "last_seen": "2026-09-14",
+      "last_seen": "2026-09-15",
       "category": "device"
     },
     "market_xreal_aura_founder_pass_sold_out_jul31_2026": {
@@ -464,7 +440,7 @@
       "source_name": "XREAL",
       "source_url": "https://www.xreal.com/aura",
       "first_reported": "2026-07-31",
-      "last_seen": "2026-09-14",
+      "last_seen": "2026-09-15",
       "category": "market"
     },
     "regulation_samsung_intelligent_eyewear_privacy_training_jul31_2026": {
@@ -560,7 +536,7 @@
       "source_name": "XREAL",
       "source_url": "https://www.xreal.com/aura",
       "first_reported": "2026-08-25",
-      "last_seen": "2026-09-14",
+      "last_seen": "2026-09-15",
       "category": "market"
     },
     "regulation_australia_greens_import_ban_smart_glasses_aug27_2026": {
@@ -712,7 +688,7 @@
       "source_name": "Android Developers",
       "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-runtime",
       "first_reported": "2026-09-10",
-      "last_seen": "2026-09-14",
+      "last_seen": "2026-09-15",
       "category": "sdk"
     },
     "developer.android.com/jetpack/androidx/releases/xr-projected": {
@@ -720,7 +696,7 @@
       "source_name": "Android Developers",
       "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-projected",
       "first_reported": "2026-09-10",
-      "last_seen": "2026-09-14",
+      "last_seen": "2026-09-15",
       "category": "sdk"
     },
     "developer.android.com/jetpack/androidx/releases/xr-glimmer": {
@@ -728,7 +704,7 @@
       "source_name": "Android Developers",
       "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-glimmer",
       "first_reported": "2026-09-10",
-      "last_seen": "2026-09-14",
+      "last_seen": "2026-09-15",
       "category": "sdk"
     },
     "developer.apple.com/news/releases/": {
@@ -764,11 +740,11 @@
       "category": "sdk"
     },
     "www.apple.com/os/visionos/": {
-      "title": "AppleがvisionOS 27の9月14日提供予定を明示",
+      "title": "AppleがvisionOS 27の一般提供開始を公式ページで確認",
       "source_name": "Apple",
       "source_url": "https://www.apple.com/os/visionos/",
       "first_reported": "2026-09-11",
-      "last_seen": "2026-09-14",
+      "last_seen": "2026-09-15",
       "category": "sdk"
     },
     "bastille.net/press-release/bastille-launches-only-software-to-locate-smart-glasses-in-secure-environments/": {
@@ -788,11 +764,11 @@
       "category": "partnership"
     },
     "jp.rokid.com/pages/rokid-ai-glasses-style": {
-      "title": "Rokid Styleの国内価格64990円と9月15日発売予定を確認",
-      "source_name": "Rokid Japan / Impress Watch",
+      "title": "Rokid Ai Glasses Styleが日本で公式オンライン限定販売を開始",
+      "source_name": "Rokid Japan / Rokid（PR TIMES）",
       "source_url": "https://jp.rokid.com/pages/rokid-ai-glasses-style",
       "first_reported": "2026-09-13",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-15",
       "category": "device"
     },
     "arxiv.org/abs/2609.08103": {
