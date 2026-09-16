@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-09-15",
+  "last_updated": "2026-09-16",
   "last_biweekly": "2026-05-04",
   "items": {
     "device_google_android_xr_intelligent_eyewear_fall_2026": {
@@ -89,14 +89,6 @@
       "source_url": "https://news.samsung.com/uk/samsung-galaxy-xr-arrives-in-the-uk",
       "first_reported": "2026-07-03",
       "last_seen": "2026-07-22",
-      "category": "device"
-    },
-    "device_samsungdisplay_rgb_oledos_awe_jun17_2026": {
-      "title": "Samsung DisplayがAWE 2026で40,000nit RGB OLEDoSと0.62型搭載ARスマートグラス試作機を公開",
-      "source_name": "Samsung Display",
-      "source_url": "https://www.samsungdisplay.com/eng/media/news/detail/ssdsNews-260617.jsp",
-      "first_reported": "2026-06-18",
-      "last_seen": "2026-06-18",
       "category": "device"
     },
     "sdk_visionos_266_beta2_jun15_2026": {
@@ -432,7 +424,7 @@
       "source_name": "Snap Newsroom",
       "source_url": "https://newsroom.snap.com/specs-launch-date",
       "first_reported": "2026-07-31",
-      "last_seen": "2026-09-15",
+      "last_seen": "2026-09-16",
       "category": "device"
     },
     "market_xreal_aura_founder_pass_sold_out_jul31_2026": {
@@ -440,7 +432,7 @@
       "source_name": "XREAL",
       "source_url": "https://www.xreal.com/aura",
       "first_reported": "2026-07-31",
-      "last_seen": "2026-09-15",
+      "last_seen": "2026-09-16",
       "category": "market"
     },
     "regulation_samsung_intelligent_eyewear_privacy_training_jul31_2026": {
@@ -536,7 +528,7 @@
       "source_name": "XREAL",
       "source_url": "https://www.xreal.com/aura",
       "first_reported": "2026-08-25",
-      "last_seen": "2026-09-15",
+      "last_seen": "2026-09-16",
       "category": "market"
     },
     "regulation_australia_greens_import_ban_smart_glasses_aug27_2026": {
@@ -688,7 +680,7 @@
       "source_name": "Android Developers",
       "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-runtime",
       "first_reported": "2026-09-10",
-      "last_seen": "2026-09-15",
+      "last_seen": "2026-09-16",
       "category": "sdk"
     },
     "developer.android.com/jetpack/androidx/releases/xr-projected": {
@@ -696,7 +688,7 @@
       "source_name": "Android Developers",
       "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-projected",
       "first_reported": "2026-09-10",
-      "last_seen": "2026-09-15",
+      "last_seen": "2026-09-16",
       "category": "sdk"
     },
     "developer.android.com/jetpack/androidx/releases/xr-glimmer": {
@@ -704,7 +696,7 @@
       "source_name": "Android Developers",
       "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-glimmer",
       "first_reported": "2026-09-10",
-      "last_seen": "2026-09-15",
+      "last_seen": "2026-09-16",
       "category": "sdk"
     },
     "developer.apple.com/news/releases/": {
@@ -744,7 +736,7 @@
       "source_name": "Apple",
       "source_url": "https://www.apple.com/os/visionos/",
       "first_reported": "2026-09-11",
-      "last_seen": "2026-09-15",
+      "last_seen": "2026-09-16",
       "category": "sdk"
     },
     "bastille.net/press-release/bastille-launches-only-software-to-locate-smart-glasses-in-secure-environments/": {
@@ -810,6 +802,46 @@
       "first_reported": "2026-09-14",
       "last_seen": "2026-09-14",
       "category": "partnership"
+    },
+    "about.fb.com/news/2026/09/introducing-meta-one-subscription-service-more-features-ai/": {
+      "title": "Meta One正式発表、AIグラスへ今後拡張する方針を明示",
+      "source_name": "Meta Newsroom",
+      "source_url": "https://about.fb.com/news/2026/09/introducing-meta-one-subscription-service-more-features-ai/",
+      "first_reported": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "category": "market"
+    },
+    "support.apple.com/en-us/148831": {
+      "title": "visionOS 27が企業向け管理・再登録・消去ポリシーを更新",
+      "source_name": "Apple Support",
+      "source_url": "https://support.apple.com/en-us/148831",
+      "first_reported": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "category": "sdk"
+    },
+    "www.globenewswire.com/news-release/2026/09/15/3362083/0/en/dimenso-raises-650-000-to-bring-physical-ai-and-smart-glasses-to-life-sciences-laboratories.html": {
+      "title": "Dimensoが研究室向けAIグラス基盤の拡大へ65万ドル調達",
+      "source_name": "Dimenso Technologies（GlobeNewswire）",
+      "source_url": "https://www.globenewswire.com/news-release/2026/09/15/3362083/0/en/dimenso-raises-650-000-to-bring-physical-ai-and-smart-glasses-to-life-sciences-laboratories.html",
+      "first_reported": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "category": "market"
+    },
+    "us.engoeyewear.com/products/engo3-cyclist-photochromic": {
+      "title": "ENGOがVariaレーダー連携の自転車向けHUDを販売",
+      "source_name": "ENGO / Auganix / Stuff",
+      "source_url": "https://us.engoeyewear.com/products/engo3-cyclist-photochromic",
+      "first_reported": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "category": "device"
+    },
+    "www.investing.com/news/stock-market-news/meta-plans-to-launch-camerafree-smart-glasses-for-fall-the-information-reports-4902737": {
+      "title": "MetaがカメラなしLunaを今秋投入予定との未確認報道",
+      "source_name": "Reuters（Investing.com、The Information報道を引用）",
+      "source_url": "https://www.investing.com/news/stock-market-news/meta-plans-to-launch-camerafree-smart-glasses-for-fall-the-information-reports-4902737",
+      "first_reported": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "category": "device"
     }
   }
 }
