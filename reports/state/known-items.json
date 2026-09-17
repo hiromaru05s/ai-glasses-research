@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-17",
   "last_biweekly": "2026-05-04",
   "items": {
     "device_google_android_xr_intelligent_eyewear_fall_2026": {
@@ -40,7 +40,7 @@
       "source_name": "Snap Newsroom",
       "source_url": "https://newsroom.snap.com/introducing-specs-augmented-reality-glasses",
       "first_reported": "2026-06-17",
-      "last_seen": "2026-08-05",
+      "last_seen": "2026-09-17",
       "category": "device"
     },
     "device_xreal_aura_reservations_open_jun16_2026": {
@@ -432,7 +432,7 @@
       "source_name": "XREAL",
       "source_url": "https://www.xreal.com/aura",
       "first_reported": "2026-07-31",
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-09-17",
       "category": "market"
     },
     "regulation_samsung_intelligent_eyewear_privacy_training_jul31_2026": {
@@ -528,7 +528,7 @@
       "source_name": "XREAL",
       "source_url": "https://www.xreal.com/aura",
       "first_reported": "2026-08-25",
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-09-17",
       "category": "market"
     },
     "regulation_australia_greens_import_ban_smart_glasses_aug27_2026": {
@@ -552,7 +552,7 @@
       "source_name": "Meta",
       "source_url": "https://about.fb.com/ja/news/2026/08/meta-glasses-launch-in-japan/",
       "first_reported": "2026-09-05",
-      "last_seen": "2026-09-10",
+      "last_seen": "2026-09-17",
       "category": "device"
     },
     "device_htc_vive_eagle_us_uk_eu_launch_sep3_2026": {
@@ -680,7 +680,7 @@
       "source_name": "Android Developers",
       "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-runtime",
       "first_reported": "2026-09-10",
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-09-17",
       "category": "sdk"
     },
     "developer.android.com/jetpack/androidx/releases/xr-projected": {
@@ -688,7 +688,7 @@
       "source_name": "Android Developers",
       "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-projected",
       "first_reported": "2026-09-10",
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-09-17",
       "category": "sdk"
     },
     "developer.android.com/jetpack/androidx/releases/xr-glimmer": {
@@ -696,15 +696,15 @@
       "source_name": "Android Developers",
       "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-glimmer",
       "first_reported": "2026-09-10",
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-09-17",
       "category": "sdk"
     },
     "developer.apple.com/news/releases/": {
-      "title": "AppleがvisionOS 27 RCとXcode 27 RCを公開",
+      "title": "AppleがvisionOS 27.2 betaとXcode 27.2 betaを公開",
       "source_name": "Apple Developer",
       "source_url": "https://developer.apple.com/news/releases/",
       "first_reported": "2026-09-10",
-      "last_seen": "2026-09-14",
+      "last_seen": "2026-09-17",
       "category": "sdk"
     },
     "www.prnewswire.com/news-releases/rokid-launches-aiui-studio-globally-at-ifa-berlin-2026-making-ai-glasses-creation-more-accessible-for-everyone-302873504.html": {
@@ -824,7 +824,7 @@
       "source_name": "Dimenso Technologies（GlobeNewswire）",
       "source_url": "https://www.globenewswire.com/news-release/2026/09/15/3362083/0/en/dimenso-raises-650-000-to-bring-physical-ai-and-smart-glasses-to-life-sciences-laboratories.html",
       "first_reported": "2026-09-16",
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-09-17",
       "category": "market"
     },
     "us.engoeyewear.com/products/engo3-cyclist-photochromic": {
@@ -842,6 +842,30 @@
       "first_reported": "2026-09-16",
       "last_seen": "2026-09-16",
       "category": "device"
+    },
+    "newsroom.snap.com/making-computing-more-human-with-specs": {
+      "title": "SnapがSPECS通信ケースと体験会、通信料金を発表",
+      "source_name": "Snap Newsroom",
+      "source_url": "https://newsroom.snap.com/making-computing-more-human-with-specs",
+      "first_reported": "2026-09-17",
+      "last_seen": "2026-09-17",
+      "category": "device"
+    },
+    "newsroom.snap.com/introducing-specs-intelligence": {
+      "title": "SPECS Intelligenceが米国iOSプレビューを開始",
+      "source_name": "Snap Newsroom",
+      "source_url": "https://newsroom.snap.com/introducing-specs-intelligence",
+      "first_reported": "2026-09-17",
+      "last_seen": "2026-09-17",
+      "category": "sdk"
+    },
+    "newsroom.snap.com/specs-for-enterprise": {
+      "title": "SnapがSalesforce・AWS・NVIDIA等と企業向け提携を発表",
+      "source_name": "Snap Newsroom",
+      "source_url": "https://newsroom.snap.com/specs-for-enterprise",
+      "first_reported": "2026-09-17",
+      "last_seen": "2026-09-17",
+      "category": "partnership"
     }
   }
 }
