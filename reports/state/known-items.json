@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-09-17",
+  "last_updated": "2026-09-18",
   "last_biweekly": "2026-05-04",
   "items": {
     "device_google_android_xr_intelligent_eyewear_fall_2026": {
@@ -432,7 +432,7 @@
       "source_name": "XREAL",
       "source_url": "https://www.xreal.com/aura",
       "first_reported": "2026-07-31",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-09-18",
       "category": "market"
     },
     "regulation_samsung_intelligent_eyewear_privacy_training_jul31_2026": {
@@ -528,7 +528,7 @@
       "source_name": "XREAL",
       "source_url": "https://www.xreal.com/aura",
       "first_reported": "2026-08-25",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-09-18",
       "category": "market"
     },
     "regulation_australia_greens_import_ban_smart_glasses_aug27_2026": {
@@ -680,7 +680,7 @@
       "source_name": "Android Developers",
       "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-runtime",
       "first_reported": "2026-09-10",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-09-18",
       "category": "sdk"
     },
     "developer.android.com/jetpack/androidx/releases/xr-projected": {
@@ -688,7 +688,7 @@
       "source_name": "Android Developers",
       "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-projected",
       "first_reported": "2026-09-10",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-09-18",
       "category": "sdk"
     },
     "developer.android.com/jetpack/androidx/releases/xr-glimmer": {
@@ -696,7 +696,7 @@
       "source_name": "Android Developers",
       "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-glimmer",
       "first_reported": "2026-09-10",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-09-18",
       "category": "sdk"
     },
     "developer.apple.com/news/releases/": {
@@ -704,7 +704,7 @@
       "source_name": "Apple Developer",
       "source_url": "https://developer.apple.com/news/releases/",
       "first_reported": "2026-09-10",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-09-18",
       "category": "sdk"
     },
     "www.prnewswire.com/news-releases/rokid-launches-aiui-studio-globally-at-ifa-berlin-2026-making-ai-glasses-creation-more-accessible-for-everyone-302873504.html": {
@@ -856,7 +856,7 @@
       "source_name": "Snap Newsroom",
       "source_url": "https://newsroom.snap.com/introducing-specs-intelligence",
       "first_reported": "2026-09-17",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-09-18",
       "category": "sdk"
     },
     "newsroom.snap.com/specs-for-enterprise": {
@@ -864,8 +864,32 @@
       "source_name": "Snap Newsroom",
       "source_url": "https://newsroom.snap.com/specs-for-enterprise",
       "first_reported": "2026-09-17",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-09-18",
       "category": "partnership"
+    },
+    "ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/09/enabling-technology-for-good/": {
+      "title": "英国ICOがスマートグラスの透明性と包摂的な保護設計に見解",
+      "source_name": "ICO",
+      "source_url": "https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/09/enabling-technology-for-good/",
+      "first_reported": "2026-09-18",
+      "last_seen": "2026-09-18",
+      "category": "regulation"
+    },
+    "www.itnews.com.au/news/australia-considers-banning-the-use-of-smart-glasses-in-government-buildings-629007": {
+      "title": "豪政府が録画対応グラスの政府職場での禁止を検討",
+      "source_name": "Reuters / iTnews",
+      "source_url": "https://www.itnews.com.au/news/australia-considers-banning-the-use-of-smart-glasses-in-government-buildings-629007",
+      "first_reported": "2026-09-18",
+      "last_seen": "2026-09-18",
+      "category": "regulation"
+    },
+    "www.itnews.com.au/news/optus-may-ban-smart-glasses-in-stores-offices-628995": {
+      "title": "Optusが店舗・オフィスでのグラス利用ルールを検討",
+      "source_name": "iTnews",
+      "source_url": "https://www.itnews.com.au/news/optus-may-ban-smart-glasses-in-stores-offices-628995",
+      "first_reported": "2026-09-18",
+      "last_seen": "2026-09-18",
+      "category": "regulation"
     }
   }
 }
