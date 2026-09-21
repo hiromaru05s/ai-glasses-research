@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-09-20",
+  "last_updated": "2026-09-21",
   "last_biweekly": "2026-05-04",
   "items": {
     "device_google_android_xr_intelligent_eyewear_fall_2026": {
@@ -528,7 +528,7 @@
       "source_name": "XREAL",
       "source_url": "https://www.xreal.com/aura",
       "first_reported": "2026-08-25",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-09-21",
       "category": "market"
     },
     "regulation_australia_greens_import_ban_smart_glasses_aug27_2026": {
@@ -680,7 +680,7 @@
       "source_name": "Android Developers",
       "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-runtime",
       "first_reported": "2026-09-10",
-      "last_seen": "2026-09-20",
+      "last_seen": "2026-09-21",
       "category": "sdk"
     },
     "developer.android.com/jetpack/androidx/releases/xr-projected": {
@@ -688,7 +688,7 @@
       "source_name": "Android Developers",
       "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-projected",
       "first_reported": "2026-09-10",
-      "last_seen": "2026-09-20",
+      "last_seen": "2026-09-21",
       "category": "sdk"
     },
     "developer.android.com/jetpack/androidx/releases/xr-glimmer": {
@@ -696,7 +696,7 @@
       "source_name": "Android Developers",
       "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-glimmer",
       "first_reported": "2026-09-10",
-      "last_seen": "2026-09-20",
+      "last_seen": "2026-09-21",
       "category": "sdk"
     },
     "developer.apple.com/news/releases/": {
@@ -704,7 +704,7 @@
       "source_name": "Apple Developer",
       "source_url": "https://developer.apple.com/news/releases/",
       "first_reported": "2026-09-10",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-09-21",
       "category": "sdk"
     },
     "www.prnewswire.com/news-releases/rokid-launches-aiui-studio-globally-at-ifa-berlin-2026-making-ai-glasses-creation-more-accessible-for-everyone-302873504.html": {
@@ -864,7 +864,7 @@
       "source_name": "Snap Newsroom",
       "source_url": "https://newsroom.snap.com/specs-for-enterprise",
       "first_reported": "2026-09-17",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-09-21",
       "category": "partnership"
     },
     "ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/09/enabling-technology-for-good/": {
@@ -890,6 +890,30 @@
       "first_reported": "2026-09-18",
       "last_seen": "2026-09-18",
       "category": "regulation"
+    },
+    "english.scio.gov.cn/pressroom/2026-09/20/content_118705061.html": {
+      "title": "中国の主要プラットフォームでスマートグラス販売が前年比120%増",
+      "source_name": "新華社 / 中国国務院新聞弁公室",
+      "source_url": "https://english.scio.gov.cn/pressroom/2026-09/20/content_118705061.html",
+      "first_reported": "2026-09-21",
+      "last_seen": "2026-09-21",
+      "category": "market"
+    },
+    "www.idc.com/resource-center/blog/smart-glasses-growth-cools-to-35-as-meta-doubles-down-on-distribution/": {
+      "title": "IDCがQ2のXRヘッドセット・グラス出荷35.3%増を公表",
+      "source_name": "IDC",
+      "source_url": "https://www.idc.com/resource-center/blog/smart-glasses-growth-cools-to-35-as-meta-doubles-down-on-distribution/",
+      "first_reported": "2026-09-21",
+      "last_seen": "2026-09-21",
+      "category": "market"
+    },
+    "admin.korea.kr/briefing/pressReleaseView.do": {
+      "title": "韓国がAIイン・グラス研究開発事業と70超機関のフォーラムを公表",
+      "source_name": "韓国科学技術情報通信部 / 政策ブリーフィング",
+      "source_url": "https://admin.korea.kr/briefing/pressReleaseView.do?gubun=pressRelease&newsId=156781734",
+      "first_reported": "2026-09-21",
+      "last_seen": "2026-09-21",
+      "category": "partnership"
     }
   }
 }
