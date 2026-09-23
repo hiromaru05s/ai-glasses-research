@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-09-22",
+  "last_updated": "2026-09-23",
   "last_biweekly": "2026-05-04",
   "items": {
     "device_google_android_xr_intelligent_eyewear_fall_2026": {
@@ -17,14 +17,6 @@
       "source_url": "https://newsroom.snap.com/snap-qualcomm-strategic-collaboration-specs-2026",
       "first_reported": "2026-04-12",
       "last_seen": "2026-09-14",
-      "category": "partnership"
-    },
-    "partnership_meta_rayban_meta_blind_veterans_jun12_2026": {
-      "title": "Metaが米国の視覚障害退役軍人13万人超へRay-Ban Metaを無償提供しトレーニングも付帯",
-      "source_name": "Meta Newsroom",
-      "source_url": "https://about.fb.com/news/2026/06/free-ai-glasses-for-every-blind-veteran/",
-      "first_reported": "2026-06-13",
-      "last_seen": "2026-06-25",
       "category": "partnership"
     },
     "partnership_samsung_abbott_galaxy_xr_blood_donation_jun11_2026": {
@@ -90,14 +82,6 @@
       "first_reported": "2026-07-03",
       "last_seen": "2026-07-22",
       "category": "device"
-    },
-    "sdk_visionos_266_beta2_jun15_2026": {
-      "title": "AppleがvisionOS 26.6 beta 2 (23O5743c) を開発者向け公開 現行系Vision Proの安定化ラインを継続",
-      "source_name": "Apple Developer",
-      "source_url": "https://developer.apple.com/news/releases/?id=06152026e",
-      "first_reported": "2026-06-22",
-      "last_seen": "2026-06-25",
-      "category": "sdk"
     },
     "sdk_visionos_27_beta2_jun22_2026": {
       "title": "AppleがvisionOS 27.0 beta 2 (24M5306i) を開発者向け公開 Vision Pro次期メジャー系の継続検証フェーズ",
@@ -528,7 +512,7 @@
       "source_name": "XREAL",
       "source_url": "https://www.xreal.com/aura",
       "first_reported": "2026-08-25",
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-09-23",
       "category": "market"
     },
     "regulation_australia_greens_import_ban_smart_glasses_aug27_2026": {
@@ -680,7 +664,7 @@
       "source_name": "Android Developers",
       "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-runtime",
       "first_reported": "2026-09-10",
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-09-23",
       "category": "sdk"
     },
     "developer.android.com/jetpack/androidx/releases/xr-projected": {
@@ -688,7 +672,7 @@
       "source_name": "Android Developers",
       "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-projected",
       "first_reported": "2026-09-10",
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-09-23",
       "category": "sdk"
     },
     "developer.android.com/jetpack/androidx/releases/xr-glimmer": {
@@ -696,7 +680,7 @@
       "source_name": "Android Developers",
       "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-glimmer",
       "first_reported": "2026-09-10",
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-09-23",
       "category": "sdk"
     },
     "developer.apple.com/news/releases/": {
@@ -864,7 +848,7 @@
       "source_name": "Snap Newsroom",
       "source_url": "https://newsroom.snap.com/specs-for-enterprise",
       "first_reported": "2026-09-17",
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-09-23",
       "category": "partnership"
     },
     "ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/09/enabling-technology-for-good/": {
@@ -928,8 +912,16 @@
       "source_name": "Apple Developer",
       "source_url": "https://developer.apple.com/documentation/visionos-release-notes/visionos-27_2-release-notes",
       "first_reported": "2026-09-22",
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-09-23",
       "category": "sdk"
+    },
+    "www.education.wa.edu.au/web/policies/-/ceo-instruction-ban-on-smart-glasses-school-premises-and-residential-facilities": {
+      "title": "西豪州が公立学校のスマートグラス禁止を10月12日から開始",
+      "source_name": "WA Department of Education / ABC News",
+      "source_url": "https://www.education.wa.edu.au/web/policies/-/ceo-instruction-ban-on-smart-glasses-school-premises-and-residential-facilities",
+      "first_reported": "2026-09-23",
+      "last_seen": "2026-09-23",
+      "category": "regulation"
     }
   }
 }
