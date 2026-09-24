@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-09-23",
+  "last_updated": "2026-09-24",
   "last_biweekly": "2026-05-04",
   "items": {
     "device_google_android_xr_intelligent_eyewear_fall_2026": {
@@ -98,22 +98,6 @@
       "first_reported": "2026-06-25",
       "last_seen": "2026-09-10",
       "category": "device"
-    },
-    "market_snap_illumix_acquisition_jun5_2026": {
-      "title": "SnapがIllumixを買収しSpecs向けに空間マッピング技術と人材を取り込む方針を報道ベースで確認",
-      "source_name": "Road to VR",
-      "source_url": "https://roadtovr.com/snap-acquires-illumix-specsar-glasses/",
-      "first_reported": "2026-06-26",
-      "last_seen": "2026-06-26",
-      "category": "market"
-    },
-    "partnership_qualcomm_inspecs_start_investment_jun16_2026": {
-      "title": "QualcommがInspecsへ約$10m出資しSnapdragon START初号パートナーとして商用スマートアイウェア協業を開始",
-      "source_name": "Investegate / RNS",
-      "source_url": "https://www.investegate.co.uk/announcement/rns/inspecs-group--spec/collaboration-with-qualcomm-technologies/9621673",
-      "first_reported": "2026-06-26",
-      "last_seen": "2026-06-26",
-      "category": "partnership"
     },
     "market_counterpoint_intelligent_eyewear_q1_2026_83pct_yoy_jun24_2026": {
       "title": "CounterpointがQ1 2026インテリジェントアイウェア市場83%YoY成長を報告 Metaはsmart glasses市場で84%シェアを維持",
@@ -512,7 +496,7 @@
       "source_name": "XREAL",
       "source_url": "https://www.xreal.com/aura",
       "first_reported": "2026-08-25",
-      "last_seen": "2026-09-23",
+      "last_seen": "2026-09-24",
       "category": "market"
     },
     "regulation_australia_greens_import_ban_smart_glasses_aug27_2026": {
@@ -640,7 +624,7 @@
       "source_name": "Meta Newsroom",
       "source_url": "https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/",
       "first_reported": "2026-09-09",
-      "last_seen": "2026-09-14",
+      "last_seen": "2026-09-24",
       "category": "sdk"
     },
     "source.android.com/docs/security/bulletin/xr/2026/2026-09-01": {
@@ -664,23 +648,23 @@
       "source_name": "Android Developers",
       "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-runtime",
       "first_reported": "2026-09-10",
-      "last_seen": "2026-09-23",
+      "last_seen": "2026-09-24",
       "category": "sdk"
     },
     "developer.android.com/jetpack/androidx/releases/xr-projected": {
-      "title": "XR Projected alpha12が権限要求テストを修正",
+      "title": "XR Projected alpha13が画面なし端末の入力復帰先指定APIを追加",
       "source_name": "Android Developers",
       "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-projected",
       "first_reported": "2026-09-10",
-      "last_seen": "2026-09-23",
+      "last_seen": "2026-09-24",
       "category": "sdk"
     },
     "developer.android.com/jetpack/androidx/releases/xr-glimmer": {
-      "title": "Glimmer alpha19が引数名とcompileSdk要件を更新",
+      "title": "Glimmer alpha20がKotlin 2.2必須化とCard API変更を公開",
       "source_name": "Android Developers",
       "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-glimmer",
       "first_reported": "2026-09-10",
-      "last_seen": "2026-09-23",
+      "last_seen": "2026-09-24",
       "category": "sdk"
     },
     "developer.apple.com/news/releases/": {
@@ -848,7 +832,7 @@
       "source_name": "Snap Newsroom",
       "source_url": "https://newsroom.snap.com/specs-for-enterprise",
       "first_reported": "2026-09-17",
-      "last_seen": "2026-09-23",
+      "last_seen": "2026-09-24",
       "category": "partnership"
     },
     "ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/09/enabling-technology-for-good/": {
@@ -912,7 +896,7 @@
       "source_name": "Apple Developer",
       "source_url": "https://developer.apple.com/documentation/visionos-release-notes/visionos-27_2-release-notes",
       "first_reported": "2026-09-22",
-      "last_seen": "2026-09-23",
+      "last_seen": "2026-09-24",
       "category": "sdk"
     },
     "www.education.wa.edu.au/web/policies/-/ceo-instruction-ban-on-smart-glasses-school-premises-and-residential-facilities": {
@@ -922,6 +906,38 @@
       "first_reported": "2026-09-23",
       "last_seen": "2026-09-23",
       "category": "regulation"
+    },
+    "about.fb.com/news/2026/09/introducing-ray-ban-meta-audio-glasses-new-styles-plus-muse/": {
+      "title": "MetaがAudio・Gen 3と249ドルモデルの価格・提供日を正式発表",
+      "source_name": "Meta Newsroom",
+      "source_url": "https://about.fb.com/news/2026/09/introducing-ray-ban-meta-audio-glasses-new-styles-plus-muse/",
+      "first_reported": "2026-09-24",
+      "last_seen": "2026-09-24",
+      "category": "device"
+    },
+    "about.fb.com/news/2026/09/new-features-for-meta-ray-ban-display-navigation-hologram/": {
+      "title": "Meta DisplayがExplore・ナビ更新と5市場への拡大を発表",
+      "source_name": "Meta Newsroom",
+      "source_url": "https://about.fb.com/news/2026/09/new-features-for-meta-ray-ban-display-navigation-hologram/",
+      "first_reported": "2026-09-24",
+      "last_seen": "2026-09-24",
+      "category": "device"
+    },
+    "about.fb.com/news/2026/09/introducing-meta-vr-glasses-3d-movies-immersive-live-sports-100-grams/": {
+      "title": "Meta VR Glassesが2027年春・1299.99ドル発売を予告",
+      "source_name": "Meta Newsroom",
+      "source_url": "https://about.fb.com/news/2026/09/introducing-meta-vr-glasses-3d-movies-immersive-live-sports-100-grams/",
+      "first_reported": "2026-09-24",
+      "last_seen": "2026-09-24",
+      "category": "device"
+    },
+    "developer.android.com/jetpack/androidx/releases/xr-compose": {
+      "title": "XR Compose beta01が旧API削除とActivity管理変更を公開",
+      "source_name": "Android Developers",
+      "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-compose",
+      "first_reported": "2026-09-24",
+      "last_seen": "2026-09-24",
+      "category": "sdk"
     }
   }
 }
