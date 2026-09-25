@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-09-24",
+  "last_updated": "2026-09-25",
   "last_biweekly": "2026-05-04",
   "items": {
     "device_google_android_xr_intelligent_eyewear_fall_2026": {
@@ -344,7 +344,7 @@
       "source_name": "Samsung / Google Blog",
       "source_url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
       "first_reported": "2026-07-23",
-      "last_seen": "2026-08-21",
+      "last_seen": "2026-09-25",
       "category": "device"
     },
     "sdk_qualcomm_samsung_intelligent_eyewear_ar1_jul22_2026": {
@@ -496,7 +496,7 @@
       "source_name": "XREAL",
       "source_url": "https://www.xreal.com/aura",
       "first_reported": "2026-08-25",
-      "last_seen": "2026-09-24",
+      "last_seen": "2026-09-25",
       "category": "market"
     },
     "regulation_australia_greens_import_ban_smart_glasses_aug27_2026": {
@@ -832,7 +832,7 @@
       "source_name": "Snap Newsroom",
       "source_url": "https://newsroom.snap.com/specs-for-enterprise",
       "first_reported": "2026-09-17",
-      "last_seen": "2026-09-24",
+      "last_seen": "2026-09-25",
       "category": "partnership"
     },
     "ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/09/enabling-technology-for-good/": {
@@ -896,7 +896,7 @@
       "source_name": "Apple Developer",
       "source_url": "https://developer.apple.com/documentation/visionos-release-notes/visionos-27_2-release-notes",
       "first_reported": "2026-09-22",
-      "last_seen": "2026-09-24",
+      "last_seen": "2026-09-25",
       "category": "sdk"
     },
     "www.education.wa.edu.au/web/policies/-/ceo-instruction-ban-on-smart-glasses-school-premises-and-residential-facilities": {
@@ -937,6 +937,22 @@
       "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-compose",
       "first_reported": "2026-09-24",
       "last_seen": "2026-09-24",
+      "category": "sdk"
+    },
+    "developers.meta.com/blog/meta-connect-recap-ai-glasses/": {
+      "title": "MetaがToolkit 1.0とWeb・AI連携、配布経路の条件を公表",
+      "source_name": "Meta for Developers",
+      "source_url": "https://developers.meta.com/blog/meta-connect-recap-ai-glasses/",
+      "first_reported": "2026-09-25",
+      "last_seen": "2026-09-25",
+      "category": "sdk"
+    },
+    "developers.meta.com/blog/meta-connect-recap-start-building-the-future-of-vr/": {
+      "title": "Meta VR Glasses向けv207 SDKとUnity開発条件を公開",
+      "source_name": "Meta for Developers",
+      "source_url": "https://developers.meta.com/blog/meta-connect-recap-start-building-the-future-of-vr/",
+      "first_reported": "2026-09-25",
+      "last_seen": "2026-09-25",
       "category": "sdk"
     }
   }
