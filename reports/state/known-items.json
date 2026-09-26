@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-09-25",
+  "last_updated": "2026-09-26",
   "last_biweekly": "2026-05-04",
   "items": {
     "device_google_android_xr_intelligent_eyewear_fall_2026": {
@@ -16,15 +16,7 @@
       "source_name": "Snap Newsroom",
       "source_url": "https://newsroom.snap.com/snap-qualcomm-strategic-collaboration-specs-2026",
       "first_reported": "2026-04-12",
-      "last_seen": "2026-09-14",
-      "category": "partnership"
-    },
-    "partnership_samsung_abbott_galaxy_xr_blood_donation_jun11_2026": {
-      "title": "SamsungとAbbottがGalaxy XRを献血体験へ導入し米国・マレーシア展開予定を公表",
-      "source_name": "Samsung Global Newsroom",
-      "source_url": "https://news.samsung.com/global/galaxy-xr-helps-reimagine-blood-donation-experiences-for-donors-worldwide",
-      "first_reported": "2026-06-13",
-      "last_seen": "2026-06-28",
+      "last_seen": "2026-09-26",
       "category": "partnership"
     },
     "device_snap_specs_consumer_preorder_jun16_2026": {
@@ -82,14 +74,6 @@
       "first_reported": "2026-07-03",
       "last_seen": "2026-07-22",
       "category": "device"
-    },
-    "sdk_visionos_27_beta2_jun22_2026": {
-      "title": "AppleがvisionOS 27.0 beta 2 (24M5306i) を開発者向け公開 Vision Pro次期メジャー系の継続検証フェーズ",
-      "source_name": "Apple Developer",
-      "source_url": "https://developer.apple.com/news/releases/?id=06222026e",
-      "first_reported": "2026-06-25",
-      "last_seen": "2026-06-28",
-      "category": "sdk"
     },
     "device_meta_glasses_essilorluxottica_launch_jun23_2026": {
       "title": "MetaがEssilorLuxotticaと新ライン\"Meta Glasses\"を正式発売 26スタイル/$299起点/Muse Spark標準搭載で自社ブランド展開を拡大",
@@ -496,7 +480,7 @@
       "source_name": "XREAL",
       "source_url": "https://www.xreal.com/aura",
       "first_reported": "2026-08-25",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
       "category": "market"
     },
     "regulation_australia_greens_import_ban_smart_glasses_aug27_2026": {
@@ -648,7 +632,7 @@
       "source_name": "Android Developers",
       "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-runtime",
       "first_reported": "2026-09-10",
-      "last_seen": "2026-09-24",
+      "last_seen": "2026-09-26",
       "category": "sdk"
     },
     "developer.android.com/jetpack/androidx/releases/xr-projected": {
@@ -896,7 +880,7 @@
       "source_name": "Apple Developer",
       "source_url": "https://developer.apple.com/documentation/visionos-release-notes/visionos-27_2-release-notes",
       "first_reported": "2026-09-22",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
       "category": "sdk"
     },
     "www.education.wa.edu.au/web/policies/-/ceo-instruction-ban-on-smart-glasses-school-premises-and-residential-facilities": {
@@ -936,7 +920,7 @@
       "source_name": "Android Developers",
       "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-compose",
       "first_reported": "2026-09-24",
-      "last_seen": "2026-09-24",
+      "last_seen": "2026-09-26",
       "category": "sdk"
     },
     "developers.meta.com/blog/meta-connect-recap-ai-glasses/": {
@@ -954,6 +938,30 @@
       "first_reported": "2026-09-25",
       "last_seen": "2026-09-25",
       "category": "sdk"
+    },
+    "recalls-rappels.canada.ca/fr/avis-rappel/lunettes-intelligentes-inmo-air3-rappelees-en-raison-risque-brulure": {
+      "title": "INMO AIR3の過熱リコール 使用停止とFW3.16更新を当局が案内",
+      "source_name": "Health Canada",
+      "source_url": "https://recalls-rappels.canada.ca/fr/avis-rappel/lunettes-intelligentes-inmo-air3-rappelees-en-raison-risque-brulure",
+      "first_reported": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "category": "regulation"
+    },
+    "www.alibabacloud.com/blog/alibaba-unveils-agentic-computer-ai-wearables-and-more-at-2026-apsara-conference_603599": {
+      "title": "AlibabaがQwen Glasses N1シリーズとProの視線追跡・虹彩決済を発表",
+      "source_name": "Alibaba Cloud Community",
+      "source_url": "https://www.alibabacloud.com/blog/alibaba-unveils-agentic-computer-ai-wearables-and-more-at-2026-apsara-conference_603599",
+      "first_reported": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "category": "device"
+    },
+    "www.aboutamazon.com/news/transportation/smart-glasses-amazon-delivery-drivers": {
+      "title": "Amazonが配送グラス年内5000台追加と2027年末2万台超への拡大計画を公表",
+      "source_name": "About Amazon",
+      "source_url": "https://www.aboutamazon.com/news/transportation/smart-glasses-amazon-delivery-drivers",
+      "first_reported": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "category": "market"
     }
   }
 }
