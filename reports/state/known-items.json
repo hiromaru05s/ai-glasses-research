@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-09-26",
+  "last_updated": "2026-09-27",
   "last_biweekly": "2026-05-04",
   "items": {
     "device_google_android_xr_intelligent_eyewear_fall_2026": {
@@ -90,22 +90,6 @@
       "first_reported": "2026-06-28",
       "last_seen": "2026-09-14",
       "category": "market"
-    },
-    "partnership_essilorluxottica_appliedmaterials_ar_optics_jun16_2026": {
-      "title": "EssilorLuxotticaとApplied MaterialsがAR光学プラットフォーム共同開発で提携 waveguidesやadaptive lenses向け専用ラボで次世代スマートグラス量産加速を狙う",
-      "source_name": "EssilorLuxottica / Applied Materials",
-      "source_url": "https://www.essilorluxottica.com/en/newsroom/press-releases/essilorluxottica-and-applied-materials-join-forces/",
-      "first_reported": "2026-06-29",
-      "last_seen": "2026-06-29",
-      "category": "partnership"
-    },
-    "other_appliedmaterials_senz_platform_jun17_2026": {
-      "title": "Applied MaterialsがSENZ発表 waveguide opticsやlight engineやelectronic dimmingを統合し次世代スマートグラスの量産短縮を訴求",
-      "source_name": "Applied Materials",
-      "source_url": "https://www.globenewswire.com/news-release/2026/06/17/3313572/0/en/applied-materials-unveils-senz-a-fully-integrated-visual-system-for-next-gen-smart-glasses.html",
-      "first_reported": "2026-06-29",
-      "last_seen": "2026-06-29",
-      "category": "other"
     },
     "market_idc_smart_glasses_q1_2026_share_forecast_jun15_2026": {
       "title": "IDCがQ1 2026のdisplay-less smart glasses 167%YoY増とMeta 69.2%シェアを公表 2026年通年1360万台予測も提示",
@@ -480,7 +464,7 @@
       "source_name": "XREAL",
       "source_url": "https://www.xreal.com/aura",
       "first_reported": "2026-08-25",
-      "last_seen": "2026-09-26",
+      "last_seen": "2026-09-27",
       "category": "market"
     },
     "regulation_australia_greens_import_ban_smart_glasses_aug27_2026": {
@@ -632,7 +616,7 @@
       "source_name": "Android Developers",
       "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-runtime",
       "first_reported": "2026-09-10",
-      "last_seen": "2026-09-26",
+      "last_seen": "2026-09-27",
       "category": "sdk"
     },
     "developer.android.com/jetpack/androidx/releases/xr-projected": {
@@ -640,7 +624,7 @@
       "source_name": "Android Developers",
       "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-projected",
       "first_reported": "2026-09-10",
-      "last_seen": "2026-09-24",
+      "last_seen": "2026-09-27",
       "category": "sdk"
     },
     "developer.android.com/jetpack/androidx/releases/xr-glimmer": {
@@ -648,7 +632,7 @@
       "source_name": "Android Developers",
       "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-glimmer",
       "first_reported": "2026-09-10",
-      "last_seen": "2026-09-24",
+      "last_seen": "2026-09-27",
       "category": "sdk"
     },
     "developer.apple.com/news/releases/": {
@@ -800,7 +784,7 @@
       "source_name": "Snap Newsroom",
       "source_url": "https://newsroom.snap.com/making-computing-more-human-with-specs",
       "first_reported": "2026-09-17",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-09-27",
       "category": "device"
     },
     "newsroom.snap.com/introducing-specs-intelligence": {
@@ -880,7 +864,7 @@
       "source_name": "Apple Developer",
       "source_url": "https://developer.apple.com/documentation/visionos-release-notes/visionos-27_2-release-notes",
       "first_reported": "2026-09-22",
-      "last_seen": "2026-09-26",
+      "last_seen": "2026-09-27",
       "category": "sdk"
     },
     "www.education.wa.edu.au/web/policies/-/ceo-instruction-ban-on-smart-glasses-school-premises-and-residential-facilities": {
@@ -920,7 +904,7 @@
       "source_name": "Android Developers",
       "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-compose",
       "first_reported": "2026-09-24",
-      "last_seen": "2026-09-26",
+      "last_seen": "2026-09-27",
       "category": "sdk"
     },
     "developers.meta.com/blog/meta-connect-recap-ai-glasses/": {
@@ -928,7 +912,7 @@
       "source_name": "Meta for Developers",
       "source_url": "https://developers.meta.com/blog/meta-connect-recap-ai-glasses/",
       "first_reported": "2026-09-25",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-27",
       "category": "sdk"
     },
     "developers.meta.com/blog/meta-connect-recap-start-building-the-future-of-vr/": {
@@ -944,7 +928,7 @@
       "source_name": "Health Canada",
       "source_url": "https://recalls-rappels.canada.ca/fr/avis-rappel/lunettes-intelligentes-inmo-air3-rappelees-en-raison-risque-brulure",
       "first_reported": "2026-09-26",
-      "last_seen": "2026-09-26",
+      "last_seen": "2026-09-27",
       "category": "regulation"
     },
     "www.alibabacloud.com/blog/alibaba-unveils-agentic-computer-ai-wearables-and-more-at-2026-apsara-conference_603599": {
@@ -952,7 +936,7 @@
       "source_name": "Alibaba Cloud Community",
       "source_url": "https://www.alibabacloud.com/blog/alibaba-unveils-agentic-computer-ai-wearables-and-more-at-2026-apsara-conference_603599",
       "first_reported": "2026-09-26",
-      "last_seen": "2026-09-26",
+      "last_seen": "2026-09-27",
       "category": "device"
     },
     "www.aboutamazon.com/news/transportation/smart-glasses-amazon-delivery-drivers": {
@@ -961,6 +945,30 @@
       "source_url": "https://www.aboutamazon.com/news/transportation/smart-glasses-amazon-delivery-drivers",
       "first_reported": "2026-09-26",
       "last_seen": "2026-09-26",
+      "category": "market"
+    },
+    "prismml.com/news/prismml-brings-1-bit-bonsai-models-to-ai-smart-glasses-powered-by-snapdragon": {
+      "title": "PrismMLがAR1搭載グラスで1ビット視覚言語AIのローカル動作を実演",
+      "source_name": "PrismML",
+      "source_url": "https://prismml.com/news/prismml-brings-1-bit-bonsai-models-to-ai-smart-glasses-powered-by-snapdragon",
+      "first_reported": "2026-09-27",
+      "last_seen": "2026-09-27",
+      "category": "sdk"
+    },
+    "www.qualcomm.com/news/onq/2026/09/agentic-commerce-ai-agents-mastercard": {
+      "title": "QualcommとMastercardがXRグラスからの同意付き決済デモを公開",
+      "source_name": "Qualcomm OnQ",
+      "source_url": "https://www.qualcomm.com/news/onq/2026/09/agentic-commerce-ai-agents-mastercard",
+      "first_reported": "2026-09-27",
+      "last_seen": "2026-09-27",
+      "category": "partnership"
+    },
+    "omdia.tech.informa.com/pr/2026/sep/global-ai-glasses-shipments-more-than-doubled-in-1h26-hitting-a-record-4point2-million": {
+      "title": "Omdiaが2026年上期AIグラス出荷420万台・127%増を公表",
+      "source_name": "Omdia",
+      "source_url": "https://omdia.tech.informa.com/pr/2026/sep/global-ai-glasses-shipments-more-than-doubled-in-1h26-hitting-a-record-4point2-million",
+      "first_reported": "2026-09-27",
+      "last_seen": "2026-09-27",
       "category": "market"
     }
   }
