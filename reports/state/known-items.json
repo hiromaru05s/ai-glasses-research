@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-09-27",
+  "last_updated": "2026-09-29",
   "last_biweekly": "2026-05-04",
   "items": {
     "device_google_android_xr_intelligent_eyewear_fall_2026": {
@@ -114,14 +114,6 @@
       "first_reported": "2026-07-03",
       "last_seen": "2026-07-03",
       "category": "market"
-    },
-    "device_memomind_one_kickstarter_jun29_2026": {
-      "title": "MemoMind / XGIMIがcamera-free display glasses「MemoMind One」をKickstarter投入 通常$599・早期支援$399・7月下旬出荷予定",
-      "source_name": "MEMOMIND / The Verge",
-      "source_url": "https://www.kickstarter.com/projects/1963472698/memomind-one-the-most-natural-ai-display-glasses",
-      "first_reported": "2026-07-01",
-      "last_seen": "2026-07-01",
-      "category": "device"
     },
     "sdk_meta_ai_glasses_v26_release_notes_jul4_2026": {
       "title": "MetaがAI glasses v26配信を案内 Muse SparkやDynamic photoに加えConversation Focus多地域展開と日本語/韓国語対応を正式公開",
@@ -464,7 +456,7 @@
       "source_name": "XREAL",
       "source_url": "https://www.xreal.com/aura",
       "first_reported": "2026-08-25",
-      "last_seen": "2026-09-27",
+      "last_seen": "2026-09-29",
       "category": "market"
     },
     "regulation_australia_greens_import_ban_smart_glasses_aug27_2026": {
@@ -616,7 +608,7 @@
       "source_name": "Android Developers",
       "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-runtime",
       "first_reported": "2026-09-10",
-      "last_seen": "2026-09-27",
+      "last_seen": "2026-09-29",
       "category": "sdk"
     },
     "developer.android.com/jetpack/androidx/releases/xr-projected": {
@@ -624,7 +616,7 @@
       "source_name": "Android Developers",
       "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-projected",
       "first_reported": "2026-09-10",
-      "last_seen": "2026-09-27",
+      "last_seen": "2026-09-29",
       "category": "sdk"
     },
     "developer.android.com/jetpack/androidx/releases/xr-glimmer": {
@@ -632,15 +624,15 @@
       "source_name": "Android Developers",
       "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-glimmer",
       "first_reported": "2026-09-10",
-      "last_seen": "2026-09-27",
+      "last_seen": "2026-09-29",
       "category": "sdk"
     },
     "developer.apple.com/news/releases/": {
-      "title": "AppleがvisionOS 27.2 betaとXcode 27.2 betaを公開",
+      "title": "AppleがvisionOS 27.0.1とXcode 27.2 beta 2を公開",
       "source_name": "Apple Developer",
       "source_url": "https://developer.apple.com/news/releases/",
       "first_reported": "2026-09-10",
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-09-29",
       "category": "sdk"
     },
     "www.prnewswire.com/news-releases/rokid-launches-aiui-studio-globally-at-ifa-berlin-2026-making-ai-glasses-creation-more-accessible-for-everyone-302873504.html": {
@@ -864,7 +856,7 @@
       "source_name": "Apple Developer",
       "source_url": "https://developer.apple.com/documentation/visionos-release-notes/visionos-27_2-release-notes",
       "first_reported": "2026-09-22",
-      "last_seen": "2026-09-27",
+      "last_seen": "2026-09-29",
       "category": "sdk"
     },
     "www.education.wa.edu.au/web/policies/-/ceo-instruction-ban-on-smart-glasses-school-premises-and-residential-facilities": {
@@ -904,7 +896,7 @@
       "source_name": "Android Developers",
       "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-compose",
       "first_reported": "2026-09-24",
-      "last_seen": "2026-09-27",
+      "last_seen": "2026-09-29",
       "category": "sdk"
     },
     "developers.meta.com/blog/meta-connect-recap-ai-glasses/": {
@@ -912,7 +904,7 @@
       "source_name": "Meta for Developers",
       "source_url": "https://developers.meta.com/blog/meta-connect-recap-ai-glasses/",
       "first_reported": "2026-09-25",
-      "last_seen": "2026-09-27",
+      "last_seen": "2026-09-29",
       "category": "sdk"
     },
     "developers.meta.com/blog/meta-connect-recap-start-building-the-future-of-vr/": {
@@ -969,6 +961,14 @@
       "source_url": "https://omdia.tech.informa.com/pr/2026/sep/global-ai-glasses-shipments-more-than-doubled-in-1h26-hitting-a-record-4point2-million",
       "first_reported": "2026-09-27",
       "last_seen": "2026-09-27",
+      "category": "market"
+    },
+    "counterpointresearch.com/en/insights/global-ai-glasses-shipments-surge-263-percent-yoy-with-display-less-ai-glasses": {
+      "title": "Counterpointが上期AIグラス263%増を公表、RokidはAR＆AI区分41%と発表",
+      "source_name": "Counterpoint Research / Rokid（PR Newswire）",
+      "source_url": "https://counterpointresearch.com/en/insights/global-ai-glasses-shipments-surge-263-percent-yoy-with-display-less-ai-glasses",
+      "first_reported": "2026-09-29",
+      "last_seen": "2026-09-29",
       "category": "market"
     }
   }
