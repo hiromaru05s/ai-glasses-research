@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-09-29",
+  "last_updated": "2026-09-30",
   "last_biweekly": "2026-05-04",
   "items": {
     "device_google_android_xr_intelligent_eyewear_fall_2026": {
@@ -456,7 +456,7 @@
       "source_name": "XREAL",
       "source_url": "https://www.xreal.com/aura",
       "first_reported": "2026-08-25",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-09-30",
       "category": "market"
     },
     "regulation_australia_greens_import_ban_smart_glasses_aug27_2026": {
@@ -608,7 +608,7 @@
       "source_name": "Android Developers",
       "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-runtime",
       "first_reported": "2026-09-10",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-09-30",
       "category": "sdk"
     },
     "developer.android.com/jetpack/androidx/releases/xr-projected": {
@@ -616,7 +616,7 @@
       "source_name": "Android Developers",
       "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-projected",
       "first_reported": "2026-09-10",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-09-30",
       "category": "sdk"
     },
     "developer.android.com/jetpack/androidx/releases/xr-glimmer": {
@@ -624,7 +624,7 @@
       "source_name": "Android Developers",
       "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-glimmer",
       "first_reported": "2026-09-10",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-09-30",
       "category": "sdk"
     },
     "developer.apple.com/news/releases/": {
@@ -632,7 +632,7 @@
       "source_name": "Apple Developer",
       "source_url": "https://developer.apple.com/news/releases/",
       "first_reported": "2026-09-10",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-09-30",
       "category": "sdk"
     },
     "www.prnewswire.com/news-releases/rokid-launches-aiui-studio-globally-at-ifa-berlin-2026-making-ai-glasses-creation-more-accessible-for-everyone-302873504.html": {
@@ -896,7 +896,7 @@
       "source_name": "Android Developers",
       "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-compose",
       "first_reported": "2026-09-24",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-09-30",
       "category": "sdk"
     },
     "developers.meta.com/blog/meta-connect-recap-ai-glasses/": {
@@ -904,7 +904,7 @@
       "source_name": "Meta for Developers",
       "source_url": "https://developers.meta.com/blog/meta-connect-recap-ai-glasses/",
       "first_reported": "2026-09-25",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-09-30",
       "category": "sdk"
     },
     "developers.meta.com/blog/meta-connect-recap-start-building-the-future-of-vr/": {
@@ -952,7 +952,7 @@
       "source_name": "Qualcomm OnQ",
       "source_url": "https://www.qualcomm.com/news/onq/2026/09/agentic-commerce-ai-agents-mastercard",
       "first_reported": "2026-09-27",
-      "last_seen": "2026-09-27",
+      "last_seen": "2026-09-30",
       "category": "partnership"
     },
     "omdia.tech.informa.com/pr/2026/sep/global-ai-glasses-shipments-more-than-doubled-in-1h26-hitting-a-record-4point2-million": {
@@ -968,8 +968,32 @@
       "source_name": "Counterpoint Research / Rokid（PR Newswire）",
       "source_url": "https://counterpointresearch.com/en/insights/global-ai-glasses-shipments-surge-263-percent-yoy-with-display-less-ai-glasses",
       "first_reported": "2026-09-29",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-09-30",
       "category": "market"
+    },
+    "www.streetinsider.com/PRNewswire/Vuzix%2BIntroduces%2BShrike%2BDefense%2BDisplay%2BPlatform%2Band%2BShips%2BInitial%2BEvaluation%2BUnits/27118827.html": {
+      "title": "VuzixがShrike導波路表示基盤を発表し初期評価機を出荷",
+      "source_name": "Vuzix／PR Newswire（StreetInsider転載）",
+      "source_url": "https://www.streetinsider.com/PRNewswire/Vuzix%2BIntroduces%2BShrike%2BDefense%2BDisplay%2BPlatform%2Band%2BShips%2BInitial%2BEvaluation%2BUnits/27118827.html",
+      "first_reported": "2026-09-30",
+      "last_seen": "2026-09-30",
+      "category": "device"
+    },
+    "www.ledinside.com/interview/2026/9/2026_09_29_01": {
+      "title": "KRETAのPoseidon視覚支援・APOLLO V1導波路グラスを初捕捉",
+      "source_name": "LEDinside／TrendForce",
+      "source_url": "https://www.ledinside.com/interview/2026/9/2026_09_29_01",
+      "first_reported": "2026-09-30",
+      "last_seen": "2026-09-30",
+      "category": "device"
+    },
+    "www.accessnewswire.com/newsroom/en/computers-technology-and-internet/meta-launches-camera-free-smart-glasses-as-privacy-debate-rages.-1228490": {
+      "title": "QRivacyが撮影拒否QR表示と公開後の発見支援を説明",
+      "source_name": "QRivacy（ACCESS Newswire）",
+      "source_url": "https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/meta-launches-camera-free-smart-glasses-as-privacy-debate-rages.-1228490",
+      "first_reported": "2026-09-30",
+      "last_seen": "2026-09-30",
+      "category": "other"
     }
   }
 }
