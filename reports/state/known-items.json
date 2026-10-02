@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-10-01",
+  "last_updated": "2026-10-02",
   "last_biweekly": "2026-05-04",
   "items": {
     "device_google_android_xr_intelligent_eyewear_fall_2026": {
@@ -978,6 +978,22 @@
       "first_reported": "2026-10-01",
       "last_seen": "2026-10-01",
       "category": "regulation"
+    },
+    "www.globenewswire.com/news-release/2026/10/01/3372968/0/en/legato-frames-the-world-s-first-ai-based-hearing-glasses-are-now-available-in-the-u-s.html": {
+      "title": "Legato Framesが米国でAI補聴・度付きレンズ一体グラスを販売開始",
+      "source_name": "Legato / GlobeNewswire",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/01/3372968/0/en/legato-frames-the-world-s-first-ai-based-hearing-glasses-are-now-available-in-the-u-s.html",
+      "first_reported": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "category": "device"
+    },
+    "nos.nl/artikel/2633322-per-direct-geen-meta-brillen-meer-te-koop-bij-hans-anders": {
+      "title": "Hans AndersがMetaカメラグラスの販売を一時停止",
+      "source_name": "NOS / ANP",
+      "source_url": "https://nos.nl/artikel/2633322-per-direct-geen-meta-brillen-meer-te-koop-bij-hans-anders",
+      "first_reported": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "category": "market"
     }
   }
 }
