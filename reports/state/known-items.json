@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-10-03",
+  "last_updated": "2026-10-04",
   "last_biweekly": "2026-05-04",
   "items": {
     "device_google_android_xr_intelligent_eyewear_fall_2026": {
@@ -97,14 +97,6 @@
       "source_url": "https://www.meta.com/help/ai-glasses/1809764829519902/",
       "first_reported": "2026-07-04",
       "last_seen": "2026-09-13",
-      "category": "sdk"
-    },
-    "sdk_meta_ai_glasses_autocapture_modes_jul6_2026": {
-      "title": "MetaがAIグラス向けAutocapture詳細を更新し AI主導の自動撮影とGarmin連動の自動撮影を別モードとして整理 golf対応や地域制約も明示",
-      "source_name": "Meta AI Glasses Help",
-      "source_url": "https://www.meta.com/help/ai-glasses/1824727564872648/",
-      "first_reported": "2026-07-06",
-      "last_seen": "2026-07-06",
       "category": "sdk"
     },
     "sdk_visionos_27_beta3_jul6_2026": {
@@ -576,7 +568,7 @@
       "source_name": "Android Developers",
       "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-runtime",
       "first_reported": "2026-09-10",
-      "last_seen": "2026-09-30",
+      "last_seen": "2026-10-04",
       "category": "sdk"
     },
     "developer.android.com/jetpack/androidx/releases/xr-projected": {
@@ -920,7 +912,7 @@
       "source_name": "Qualcomm OnQ",
       "source_url": "https://www.qualcomm.com/news/onq/2026/09/agentic-commerce-ai-agents-mastercard",
       "first_reported": "2026-09-27",
-      "last_seen": "2026-09-30",
+      "last_seen": "2026-10-04",
       "category": "partnership"
     },
     "omdia.tech.informa.com/pr/2026/sep/global-ai-glasses-shipments-more-than-doubled-in-1h26-hitting-a-record-4point2-million": {
