@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-10-04",
+  "last_updated": "2026-10-05",
   "last_biweekly": "2026-05-04",
   "items": {
     "device_google_android_xr_intelligent_eyewear_fall_2026": {
@@ -576,7 +576,7 @@
       "source_name": "Android Developers",
       "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-projected",
       "first_reported": "2026-09-10",
-      "last_seen": "2026-09-30",
+      "last_seen": "2026-10-05",
       "category": "sdk"
     },
     "developer.android.com/jetpack/androidx/releases/xr-glimmer": {
@@ -832,7 +832,7 @@
       "source_name": "Meta Newsroom",
       "source_url": "https://about.fb.com/news/2026/09/introducing-ray-ban-meta-audio-glasses-new-styles-plus-muse/",
       "first_reported": "2026-09-24",
-      "last_seen": "2026-09-24",
+      "last_seen": "2026-10-05",
       "category": "device"
     },
     "about.fb.com/news/2026/09/new-features-for-meta-ray-ban-display-navigation-hologram/": {
