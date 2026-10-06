@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-10-05",
+  "last_updated": "2026-10-06",
   "last_biweekly": "2026-05-04",
   "items": {
     "device_google_android_xr_intelligent_eyewear_fall_2026": {
@@ -154,14 +154,6 @@
       "first_reported": "2026-08-05",
       "last_seen": "2026-08-22",
       "category": "sdk"
-    },
-    "device_xreal_xbx_a01plus_launch_jul8_2026": {
-      "title": "XREALが低価格ビューアー系のxbx a01+を日本で販売開始し EU向けには7月10日ローンチ予告を掲出",
-      "source_name": "XREAL JP Shop / XREAL EU Shop",
-      "source_url": "https://jp.shop.xreal.com/s/xbxpr",
-      "first_reported": "2026-07-08",
-      "last_seen": "2026-07-08",
-      "category": "device"
     },
     "regulation_meta_ai_glasses_led_tamper_safeguards_jul7_2026": {
       "title": "MetaがAIグラスQ&Aでcapture LED改変検知時のカメラ無効化と改変サービスへの対処方針を明文化",
@@ -986,6 +978,14 @@
       "first_reported": "2026-10-02",
       "last_seen": "2026-10-02",
       "category": "market"
+    },
+    "source.android.com/docs/security/bulletin/xr/2026/2026-10-01": {
+      "title": "Android XR 10月Security BulletinはXR固有パッチなし、2026-10-01以上を案内",
+      "source_name": "Android Open Source Project",
+      "source_url": "https://source.android.com/docs/security/bulletin/xr/2026/2026-10-01",
+      "first_reported": "2026-10-06",
+      "last_seen": "2026-10-06",
+      "category": "sdk"
     }
   }
 }
