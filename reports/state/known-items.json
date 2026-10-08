@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-10-07",
+  "last_updated": "2026-10-08",
   "last_biweekly": "2026-05-04",
   "items": {
     "device_google_android_xr_intelligent_eyewear_fall_2026": {
@@ -986,6 +986,14 @@
       "first_reported": "2026-10-06",
       "last_seen": "2026-10-06",
       "category": "sdk"
+    },
+    "about.fb.com/news/2026/10/meta-donates-1000-ai-glasses-to-singapores-disability-community/": {
+      "title": "Metaがシンガポールの4団体へRay-Ban Meta AIグラス1,000台と研修助成3万ドルを提供",
+      "source_name": "Meta Newsroom",
+      "source_url": "https://about.fb.com/news/2026/10/meta-donates-1000-ai-glasses-to-singapores-disability-community/",
+      "first_reported": "2026-10-08",
+      "last_seen": "2026-10-08",
+      "category": "market"
     }
   }
 }
