@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-10-08",
+  "last_updated": "2026-10-09",
   "last_biweekly": "2026-05-04",
   "items": {
     "device_google_android_xr_intelligent_eyewear_fall_2026": {
@@ -993,6 +993,22 @@
       "source_url": "https://about.fb.com/news/2026/10/meta-donates-1000-ai-glasses-to-singapores-disability-community/",
       "first_reported": "2026-10-08",
       "last_seen": "2026-10-08",
+      "category": "market"
+    },
+    "www.regjeringen.no/no/aktuelt/vil-innfore-midlertidig-forbud-mot-ki-briller/id3175516/": {
+      "title": "ノルウェー政府がAIグラスの選定場所での一時使用禁止を議会提案へ、恒久規制向け専門家委員会も設置方針",
+      "source_name": "ノルウェー政府（Digitalisation and Public Governance Ministry）",
+      "source_url": "https://www.regjeringen.no/no/aktuelt/vil-innfore-midlertidig-forbud-mot-ki-briller/id3175516/",
+      "first_reported": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "category": "regulation"
+    },
+    "www.qualcomm.com/support/partner/content-hub/tripp": {
+      "title": "TRIPPがSnapdragon XR対応Kōkua AIを次世代スマートグラス向けに開発中とQualcommが紹介",
+      "source_name": "Qualcomm",
+      "source_url": "https://www.qualcomm.com/support/partner/content-hub/tripp",
+      "first_reported": "2026-10-09",
+      "last_seen": "2026-10-09",
       "category": "market"
     }
   }
