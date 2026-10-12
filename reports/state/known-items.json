@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-10-09",
+  "last_updated": "2026-10-12",
   "last_biweekly": "2026-05-04",
   "items": {
     "device_google_android_xr_intelligent_eyewear_fall_2026": {
@@ -560,7 +560,7 @@
       "source_name": "Android Developers",
       "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-runtime",
       "first_reported": "2026-09-10",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-12",
       "category": "sdk"
     },
     "developer.android.com/jetpack/androidx/releases/xr-projected": {
@@ -896,7 +896,7 @@
       "source_name": "PrismML",
       "source_url": "https://prismml.com/news/prismml-brings-1-bit-bonsai-models-to-ai-smart-glasses-powered-by-snapdragon",
       "first_reported": "2026-09-27",
-      "last_seen": "2026-09-27",
+      "last_seen": "2026-10-12",
       "category": "sdk"
     },
     "www.qualcomm.com/news/onq/2026/09/agentic-commerce-ai-agents-mastercard": {
@@ -952,7 +952,7 @@
       "source_name": "Governor of California / AP News",
       "source_url": "https://www.gov.ca.gov/2026/09/30/governor-newsom-issues-legislative-update-9-30-2026/",
       "first_reported": "2026-10-01",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-12",
       "category": "regulation"
     },
     "www.globenewswire.com/news-release/2026/10/01/3372968/0/en/legato-frames-the-world-s-first-ai-based-hearing-glasses-are-now-available-in-the-u-s.html": {
@@ -984,7 +984,7 @@
       "source_name": "Android Open Source Project",
       "source_url": "https://source.android.com/docs/security/bulletin/xr/2026/2026-10-01",
       "first_reported": "2026-10-06",
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-12",
       "category": "sdk"
     },
     "about.fb.com/news/2026/10/meta-donates-1000-ai-glasses-to-singapores-disability-community/": {
@@ -992,7 +992,7 @@
       "source_name": "Meta Newsroom",
       "source_url": "https://about.fb.com/news/2026/10/meta-donates-1000-ai-glasses-to-singapores-disability-community/",
       "first_reported": "2026-10-08",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-12",
       "category": "market"
     },
     "www.regjeringen.no/no/aktuelt/vil-innfore-midlertidig-forbud-mot-ki-briller/id3175516/": {
@@ -1000,7 +1000,7 @@
       "source_name": "ノルウェー政府（Digitalisation and Public Governance Ministry）",
       "source_url": "https://www.regjeringen.no/no/aktuelt/vil-innfore-midlertidig-forbud-mot-ki-briller/id3175516/",
       "first_reported": "2026-10-09",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-12",
       "category": "regulation"
     },
     "www.qualcomm.com/support/partner/content-hub/tripp": {
