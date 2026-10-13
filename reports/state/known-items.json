@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-10-12",
+  "last_updated": "2026-10-13",
   "last_biweekly": "2026-05-04",
   "items": {
     "device_google_android_xr_intelligent_eyewear_fall_2026": {
@@ -32,7 +32,7 @@
       "source_name": "XREAL / Google Blog",
       "source_url": "https://www.xreal.com/aura",
       "first_reported": "2026-06-17",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-10-13",
       "category": "device"
     },
     "sdk_android_xr_awe_tooling_updates_jun15_2026": {
@@ -161,14 +161,6 @@
       "source_url": "https://www.tomsguide.com/computing/smart-glasses/exclusive-inside-googles-plan-to-win-over-your-face-with-ai-glasses-and-avoid-metas-privacy-missteps",
       "first_reported": "2026-07-19",
       "last_seen": "2026-07-22",
-      "category": "regulation"
-    },
-    "regulation_uci_oakley_meta_race_disqualification_jul13_2026": {
-      "title": "UCI規制によりOakley Meta Vanguard装着の選手が青海湖ステージ1で失格 録画グラスの競技内装着リスクが顕在化",
-      "source_name": "Cyclingnews / UCI",
-      "source_url": "https://www.cyclingnews.com/pro-cycling/rules/rider-disqualified-for-wearing-video-recording-glasses-during-a-race-complains-of-double-standards-with-tour-de-france-filming/",
-      "first_reported": "2026-07-15",
-      "last_seen": "2026-07-15",
       "category": "regulation"
     },
     "sdk_androidx_xr_projected_alpha10_jul15_2026": {
@@ -720,7 +712,7 @@
       "source_name": "Snap Newsroom",
       "source_url": "https://newsroom.snap.com/introducing-specs-intelligence",
       "first_reported": "2026-09-17",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-10-13",
       "category": "sdk"
     },
     "newsroom.snap.com/specs-for-enterprise": {
