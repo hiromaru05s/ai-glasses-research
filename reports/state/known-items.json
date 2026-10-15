@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-10-14",
+  "last_updated": "2026-10-15",
   "last_biweekly": "2026-05-04",
   "items": {
     "device_google_android_xr_intelligent_eyewear_fall_2026": {
@@ -536,7 +536,7 @@
       "source_name": "Android Developers",
       "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-runtime",
       "first_reported": "2026-09-10",
-      "last_seen": "2026-10-14",
+      "last_seen": "2026-10-15",
       "category": "sdk"
     },
     "developer.android.com/jetpack/androidx/releases/xr-projected": {
@@ -784,7 +784,7 @@
       "source_name": "Apple Developer",
       "source_url": "https://developer.apple.com/documentation/visionos-release-notes/visionos-27_2-release-notes",
       "first_reported": "2026-09-22",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-10-15",
       "category": "sdk"
     },
     "www.education.wa.edu.au/web/policies/-/ceo-instruction-ban-on-smart-glasses-school-premises-and-residential-facilities": {
@@ -800,7 +800,7 @@
       "source_name": "Meta Newsroom",
       "source_url": "https://about.fb.com/news/2026/09/introducing-ray-ban-meta-audio-glasses-new-styles-plus-muse/",
       "first_reported": "2026-09-24",
-      "last_seen": "2026-10-14",
+      "last_seen": "2026-10-15",
       "category": "device"
     },
     "about.fb.com/news/2026/09/new-features-for-meta-ray-ban-display-navigation-hologram/": {
@@ -960,7 +960,7 @@
       "source_name": "Android Open Source Project",
       "source_url": "https://source.android.com/docs/security/bulletin/xr/2026/2026-10-01",
       "first_reported": "2026-10-06",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-15",
       "category": "sdk"
     },
     "about.fb.com/news/2026/10/meta-donates-1000-ai-glasses-to-singapores-disability-community/": {
@@ -968,7 +968,7 @@
       "source_name": "Meta Newsroom",
       "source_url": "https://about.fb.com/news/2026/10/meta-donates-1000-ai-glasses-to-singapores-disability-community/",
       "first_reported": "2026-10-08",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-15",
       "category": "market"
     },
     "www.regjeringen.no/no/aktuelt/vil-innfore-midlertidig-forbud-mot-ki-briller/id3175516/": {
