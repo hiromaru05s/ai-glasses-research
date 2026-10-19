@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-10-16",
+  "last_updated": "2026-10-19",
   "last_biweekly": "2026-05-04",
   "items": {
     "device_google_android_xr_intelligent_eyewear_fall_2026": {
@@ -99,14 +99,6 @@
       "last_seen": "2026-09-13",
       "category": "sdk"
     },
-    "sdk_visionos_266_beta5_jul13_2026": {
-      "title": "AppleがvisionOS 26.6 beta 5 (23O5765a) を開発者向け公開 Vision Pro現行系の安定化ラインを継続",
-      "source_name": "Apple Developer",
-      "source_url": "https://developer.apple.com/news/releases/?id=07132026e",
-      "first_reported": "2026-07-14",
-      "last_seen": "2026-07-20",
-      "category": "sdk"
-    },
     "sdk_visionos_266_rc_jul20_2026": {
       "title": "AppleがvisionOS 26.6 RC (23O770) を開発者向け公開 Vision Pro現行系がrelease candidate段階へ移行",
       "source_name": "Apple Developer",
@@ -162,46 +154,6 @@
       "first_reported": "2026-07-19",
       "last_seen": "2026-07-22",
       "category": "regulation"
-    },
-    "sdk_androidx_xr_projected_alpha10_jul15_2026": {
-      "title": "Android XRのJetpack Projectedが1.0.0-alpha10公開 権限要求をProjectedActivityCompat.requestPermissionsへ移行",
-      "source_name": "Android Developers",
-      "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-projected",
-      "first_reported": "2026-07-17",
-      "last_seen": "2026-07-20",
-      "category": "sdk"
-    },
-    "sdk_androidx_xr_scenecore_beta01_jul15_2026": {
-      "title": "Android XRのJetpack SceneCoreが初の1.0.0-beta01公開 Session.create suspend化やAnchorSpace改名を反映",
-      "source_name": "Android Developers",
-      "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-scenecore",
-      "first_reported": "2026-07-17",
-      "last_seen": "2026-07-20",
-      "category": "sdk"
-    },
-    "sdk_androidx_xr_runtime_beta01_jul15_2026": {
-      "title": "Android XRのJetpack Runtimeが初の1.0.0-beta01公開 Session.create suspend化やテスト支援追加を反映",
-      "source_name": "Android Developers",
-      "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-runtime",
-      "first_reported": "2026-07-19",
-      "last_seen": "2026-07-20",
-      "category": "sdk"
-    },
-    "sdk_androidx_xr_arcore_beta01_jul15_2026": {
-      "title": "ARCore for Jetpack XRが初の1.0.0-beta01公開 AnchorSpace移行やTrackingState整理を反映",
-      "source_name": "Android Developers",
-      "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-arcore",
-      "first_reported": "2026-07-19",
-      "last_seen": "2026-07-20",
-      "category": "sdk"
-    },
-    "sdk_androidx_xr_compose_alpha16_jul15_2026": {
-      "title": "XR Composeが1.0.0-alpha16公開 ComponentOverride削除とspatial audio出力API追加を反映",
-      "source_name": "Android Developers",
-      "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-compose",
-      "first_reported": "2026-07-19",
-      "last_seen": "2026-07-20",
-      "category": "sdk"
     },
     "sdk_android_xr_jetpack_core_beta_aug18_2026": {
       "title": "GoogleがJetpack XR SDK core librariesのbeta到達を告知し SceneCore/ARCore beta02とCompose alpha17・Projected alpha11の更新を整理",
@@ -536,7 +488,7 @@
       "source_name": "Android Developers",
       "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-runtime",
       "first_reported": "2026-09-10",
-      "last_seen": "2026-10-16",
+      "last_seen": "2026-10-19",
       "category": "sdk"
     },
     "developer.android.com/jetpack/androidx/releases/xr-projected": {
@@ -784,7 +736,7 @@
       "source_name": "Apple Developer",
       "source_url": "https://developer.apple.com/documentation/visionos-release-notes/visionos-27_2-release-notes",
       "first_reported": "2026-09-22",
-      "last_seen": "2026-10-16",
+      "last_seen": "2026-10-19",
       "category": "sdk"
     },
     "www.education.wa.edu.au/web/policies/-/ceo-instruction-ban-on-smart-glasses-school-premises-and-residential-facilities": {
@@ -800,7 +752,7 @@
       "source_name": "Meta Newsroom",
       "source_url": "https://about.fb.com/news/2026/09/introducing-ray-ban-meta-audio-glasses-new-styles-plus-muse/",
       "first_reported": "2026-09-24",
-      "last_seen": "2026-10-16",
+      "last_seen": "2026-10-19",
       "category": "device"
     },
     "about.fb.com/news/2026/09/new-features-for-meta-ray-ban-display-navigation-hologram/": {
@@ -960,7 +912,7 @@
       "source_name": "Android Open Source Project",
       "source_url": "https://source.android.com/docs/security/bulletin/xr/2026/2026-10-01",
       "first_reported": "2026-10-06",
-      "last_seen": "2026-10-16",
+      "last_seen": "2026-10-19",
       "category": "sdk"
     },
     "about.fb.com/news/2026/10/meta-donates-1000-ai-glasses-to-singapores-disability-community/": {
@@ -978,6 +930,14 @@
       "first_reported": "2026-10-09",
       "last_seen": "2026-10-12",
       "category": "regulation"
+    },
+    "www.trendforce.com/presscenter/news/20261015-13273.html": {
+      "title": "TrendForceが2026年ARグラス出荷131万台・前年比111.1%増を予測",
+      "source_name": "TrendForce",
+      "source_url": "https://www.trendforce.com/presscenter/news/20261015-13273.html",
+      "first_reported": "2026-10-19",
+      "last_seen": "2026-10-19",
+      "category": "market"
     },
     "www.qualcomm.com/support/partner/content-hub/tripp": {
       "title": "TRIPPがSnapdragon XR対応Kōkua AIを次世代スマートグラス向けに開発中とQualcommが紹介",
