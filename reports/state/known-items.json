@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-10-19",
+  "last_updated": "2026-10-21",
   "last_biweekly": "2026-05-04",
   "items": {
     "device_google_android_xr_intelligent_eyewear_fall_2026": {
@@ -43,14 +43,6 @@
       "last_seen": "2026-09-10",
       "category": "sdk"
     },
-    "sdk_qualcomm_snapdragon_reality_elite_jun16_2026": {
-      "title": "QualcommがSnapdragon Reality Elite発表 GPU+60% CPU+30% NPU最大160%でXREAL AURA初採用へ",
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/gadgets/950229/qualcomm-snapdragon-reality-elite-xr-smart-glasses-wearables",
-      "first_reported": "2026-06-17",
-      "last_seen": "2026-07-23",
-      "category": "sdk"
-    },
     "sdk_snap_specs_developer_tools_jun16_2026": {
       "title": "SnapがSPECS向け開発基盤を拡張 agentic development preview/Spatial Benchmark/NDK/Commerce Kitを公開",
       "source_name": "Snap Newsroom",
@@ -58,22 +50,6 @@
       "first_reported": "2026-06-17",
       "last_seen": "2026-08-02",
       "category": "sdk"
-    },
-    "sdk_qualcomm_snapdragon_start_jun16_2026": {
-      "title": "QualcommがSnapdragon STARTを公開 audio/display AIグラス向けturnkey toolkitで参入短縮を狙う",
-      "source_name": "Qualcomm / 9to5Google",
-      "source_url": "https://www.qualcomm.com/news/releases",
-      "first_reported": "2026-06-17",
-      "last_seen": "2026-07-23",
-      "category": "sdk"
-    },
-    "device_samsung_galaxy_xr_uk_launch_jun17_2026": {
-      "title": "SamsungがGalaxy XRの英国発売日を7月8日と正式発表 事前予約と店頭デモを開始しAndroid XRの商用化を前進",
-      "source_name": "Samsung Newsroom U.K.",
-      "source_url": "https://news.samsung.com/uk/samsung-galaxy-xr-arrives-in-the-uk",
-      "first_reported": "2026-07-03",
-      "last_seen": "2026-07-22",
-      "category": "device"
     },
     "device_meta_glasses_essilorluxottica_launch_jun23_2026": {
       "title": "MetaがEssilorLuxotticaと新ライン\"Meta Glasses\"を正式発売 26スタイル/$299起点/Muse Spark標準搭載で自社ブランド展開を拡大",
@@ -145,14 +121,6 @@
       "source_url": "https://www.threads.com/@ahimel/post/DcjTatTGyn-",
       "first_reported": "2026-08-29",
       "last_seen": "2026-08-30",
-      "category": "regulation"
-    },
-    "regulation_google_android_xr_intelligent_eyewear_trust_jul16_2026": {
-      "title": "GoogleがIntelligent Eyewearのprivacy重視方針を補足し 信頼できる録画LED・改変検知ハード・display版trusted tester年内開始を示した",
-      "source_name": "Tom's Guide / Android Central",
-      "source_url": "https://www.tomsguide.com/computing/smart-glasses/exclusive-inside-googles-plan-to-win-over-your-face-with-ai-glasses-and-avoid-metas-privacy-missteps",
-      "first_reported": "2026-07-19",
-      "last_seen": "2026-07-22",
       "category": "regulation"
     },
     "sdk_android_xr_jetpack_core_beta_aug18_2026": {
@@ -953,6 +921,14 @@
       "source_url": "https://www.qualcomm.com/support/partner/content-hub/tripp",
       "first_reported": "2026-10-09",
       "last_seen": "2026-10-09",
+      "category": "market"
+    },
+    "www.essilorluxottica.com/en/newsroom/press-releases/q3-2026-revenue/": {
+      "title": "EssilorLuxotticaがQ3 2026にAIグラスとNuance Audioを含むwearables売上20%増を開示",
+      "source_name": "EssilorLuxottica",
+      "source_url": "https://www.essilorluxottica.com/en/newsroom/press-releases/q3-2026-revenue/",
+      "first_reported": "2026-10-21",
+      "last_seen": "2026-10-21",
       "category": "market"
     }
   }
