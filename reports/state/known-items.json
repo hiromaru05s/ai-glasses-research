@@ -1,8 +1,16 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-10-21",
+  "last_updated": "2026-10-23",
   "last_biweekly": "2026-05-04",
   "items": {
+    "sdk_androidx_xr_runtime_1_0_0_oct21_2026": {
+      "title": "Jetpack XR Runtime 1.0.0が安定版として正式公開、ARCore・SceneCore・XR Composeの共通基盤を提供",
+      "source_name": "Android Developers",
+      "source_url": "https://developer.android.com/jetpack/androidx/releases/xr-runtime",
+      "first_reported": "2026-10-23",
+      "last_seen": "2026-10-23",
+      "category": "sdk"
+    },
     "device_google_android_xr_intelligent_eyewear_fall_2026": {
       "title": "Google/SamsungがGemini搭載intelligent eyewear初公開 audio glassesを2026年秋投入予定 Gentle Monster/Warby Parkerデザイン公開",
       "source_name": "Google Blog / Samsung Newsroom U.K.",
