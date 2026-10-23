@@ -3,6 +3,14 @@
   "last_updated": "2026-10-23",
   "last_biweekly": "2026-05-04",
   "items": {
+    "edpb.europa.eu/documents/statement/statement-of-the-edpb-on-smart-glasses_en": {
+      "title": "EDPBがStatement 1/2026を採択し、スマートグラスの傍受者向け透明性と製造者・連携サービス提供者のデータ保護責任を整理",
+      "source_name": "European Data Protection Board",
+      "source_url": "https://www.edpb.europa.eu/documents/statement/statement-of-the-edpb-on-smart-glasses_en",
+      "first_reported": "2026-10-23",
+      "last_seen": "2026-10-23",
+      "category": "regulation"
+    },
     "sdk_androidx_xr_runtime_1_0_0_oct21_2026": {
       "title": "Jetpack XR Runtime 1.0.0が安定版として正式公開、ARCore・SceneCore・XR Composeの共通基盤を提供",
       "source_name": "Android Developers",
