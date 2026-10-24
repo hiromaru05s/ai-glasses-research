@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-10-23",
+  "last_updated": "2026-10-24",
   "last_biweekly": "2026-05-04",
   "items": {
     "edpb.europa.eu/documents/statement/statement-of-the-edpb-on-smart-glasses_en": {
@@ -178,22 +178,6 @@
       "first_reported": "2026-07-23",
       "last_seen": "2026-09-05",
       "category": "sdk"
-    },
-    "regulation_meta_instagram_harassment_ban_jul23_2026": {
-      "title": "InstagramがMetaグラスでの隠し撮り系ハラスメント動画を削除対象にし悪質アカウント停止も開始",
-      "source_name": "Business Insider / The Verge",
-      "source_url": "https://www.businessinsider.com/instagram-meta-glasses-banning-pickup-prank-creeps-2026-7",
-      "first_reported": "2026-07-26",
-      "last_seen": "2026-07-26",
-      "category": "regulation"
-    },
-    "market_meta_conversation_focus_pause_jul24_2026": {
-      "title": "MetaがAIグラスConversation Focusの課金・利用上限制テストを反発後に一時停止し monetization方針を再検討",
-      "source_name": "The Verge",
-      "source_url": "https://www.theverge.com/tech/970970/after-backlash-meta-pauses-plan-to-rate-limit-its-smart-glasses",
-      "first_reported": "2026-07-26",
-      "last_seen": "2026-07-26",
-      "category": "market"
     },
     "sdk_visionos_266_ga_jul27_2026": {
       "title": "AppleがvisionOS 26.6 (23O770) を正式配信 7月20日のRCと同一buildでVision Pro現行系がGAへ移行",
@@ -946,6 +930,14 @@
       "first_reported": "2026-10-21",
       "last_seen": "2026-10-21",
       "category": "market"
+    },
+    "about.fb.com/news/2026/10/announcing-ranveer-singh-as-brand-ambassador-for-ray-ban-and-ray-ban-meta-in-india-along-with-exciting-new-updates-to-our-ai-glasses/": {
+      "title": "Ray-Ban Meta Gen 3がインドで正式販売開始、INR 44,300から",
+      "source_name": "Meta Newsroom",
+      "source_url": "https://about.fb.com/news/2026/10/announcing-ranveer-singh-as-brand-ambassador-for-ray-ban-and-ray-ban-meta-in-india-along-with-exciting-new-updates-to-our-ai-glasses/",
+      "first_reported": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "category": "device"
     }
   }
 }
