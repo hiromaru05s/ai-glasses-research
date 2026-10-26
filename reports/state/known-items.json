@@ -51,6 +51,14 @@
       "last_seen": "2026-10-13",
       "category": "device"
     },
+    "device_xreal_aura_pricing_initial_markets_oct_2026": {
+      "title": "XREAL AURAが価格と初期提供地域を公式掲載、米国価格$1,279/$1,499・日本と韓国を含む",
+      "source_name": "XREAL",
+      "source_url": "https://www.xreal.com/aura",
+      "first_reported": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "category": "device"
+    },
     "sdk_android_xr_awe_tooling_updates_jun15_2026": {
       "title": "Android XRがAWE向け開発更新 Jetpack Projected/Compose Glimmer改善とGeospatial API previewを案内",
       "source_name": "Android Developers Blog",
