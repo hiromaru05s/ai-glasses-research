@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-10-26",
+  "last_updated": "2026-10-27",
   "last_biweekly": "2026-05-04",
   "items": {
     "edpb.europa.eu/documents/statement/statement-of-the-edpb-on-smart-glasses_en": {
@@ -946,6 +946,14 @@
       "first_reported": "2026-10-24",
       "last_seen": "2026-10-24",
       "category": "device"
+    },
+    "sdk_visionos_272_24n120_oct26_2026": {
+      "title": "AppleがvisionOS 27.2（24N120）を開発者向けリリース一覧へ追加",
+      "source_name": "Apple Developer",
+      "source_url": "https://developer.apple.com/news/releases/",
+      "first_reported": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "category": "sdk"
     }
   }
 }
