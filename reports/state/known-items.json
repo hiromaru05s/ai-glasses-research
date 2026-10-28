@@ -1,8 +1,24 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-10-27",
+  "last_updated": "2026-10-28",
   "last_biweekly": "2026-05-04",
   "items": {
+    "ir.vuzix.com/news-events/press-releases/detail/2186/vuzix-signs-distribution-agreement-with-commercial": {
+      "title": "VuzixがCESとの販売代理店契約を締結し、LX1スマートグラスの初回6桁ドル受注分を出荷開始",
+      "source_name": "Vuzix Corporation",
+      "source_url": "https://ir.vuzix.com/news-events/press-releases/detail/2186/vuzix-signs-distribution-agreement-with-commercial",
+      "first_reported": "2026-10-28",
+      "last_seen": "2026-10-28",
+      "category": "partnership"
+    },
+    "www.jig.jp/news/press/20261020_01": {
+      "title": "jig.jpのARスマート眼鏡SABERAが10月27日に一般販売を開始、家電量販店・眼鏡店にも順次展開",
+      "source_name": "株式会社jig.jp",
+      "source_url": "https://www.jig.jp/news/press/20261020_01",
+      "first_reported": "2026-10-28",
+      "last_seen": "2026-10-28",
+      "category": "device"
+    },
     "edpb.europa.eu/documents/statement/statement-of-the-edpb-on-smart-glasses_en": {
       "title": "EDPBがStatement 1/2026を採択し、スマートグラスの傍受者向け透明性と製造者・連携サービス提供者のデータ保護責任を整理",
       "source_name": "European Data Protection Board",
