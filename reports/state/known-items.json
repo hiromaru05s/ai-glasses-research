@@ -1,8 +1,16 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-10-28",
+  "last_updated": "2026-10-29",
   "last_biweekly": "2026-05-04",
   "items": {
+    "www.jb-display.com.cn/newsdetails/81.html": {
+      "title": "RokidがGlasses 2と全彩色MicroLED搭載Rokid Colorを発表",
+      "source_name": "JBD",
+      "source_url": "https://www.jb-display.com.cn/newsdetails/81.html",
+      "first_reported": "2026-10-29",
+      "last_seen": "2026-10-29",
+      "category": "device"
+    },
     "ir.vuzix.com/news-events/press-releases/detail/2186/vuzix-signs-distribution-agreement-with-commercial": {
       "title": "VuzixがCESとの販売代理店契約を締結し、LX1スマートグラスの初回6桁ドル受注分を出荷開始",
       "source_name": "Vuzix Corporation",
