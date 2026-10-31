@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-10-30",
+  "last_updated": "2026-10-31",
   "last_biweekly": "2026-05-04",
   "items": {
     "www.jb-display.com.cn/newsdetails/81.html": {
@@ -91,14 +91,6 @@
       "last_seen": "2026-09-10",
       "category": "sdk"
     },
-    "sdk_snap_specs_developer_tools_jun16_2026": {
-      "title": "SnapがSPECS向け開発基盤を拡張 agentic development preview/Spatial Benchmark/NDK/Commerce Kitを公開",
-      "source_name": "Snap Newsroom",
-      "source_url": "https://newsroom.snap.com/snap-launches-new-tools-for-specs-developers",
-      "first_reported": "2026-06-17",
-      "last_seen": "2026-08-02",
-      "category": "sdk"
-    },
     "device_meta_glasses_essilorluxottica_launch_jun23_2026": {
       "title": "MetaがEssilorLuxotticaと新ライン\"Meta Glasses\"を正式発売 26スタイル/$299起点/Muse Spark標準搭載で自社ブランド展開を拡大",
       "source_name": "Meta Newsroom",
@@ -121,14 +113,6 @@
       "source_url": "https://www.meta.com/help/ai-glasses/1809764829519902/",
       "first_reported": "2026-07-04",
       "last_seen": "2026-09-13",
-      "category": "sdk"
-    },
-    "sdk_visionos_266_rc_jul20_2026": {
-      "title": "AppleがvisionOS 26.6 RC (23O770) を開発者向け公開 Vision Pro現行系がrelease candidate段階へ移行",
-      "source_name": "Apple Developer",
-      "source_url": "https://developer.apple.com/news/releases/",
-      "first_reported": "2026-07-22",
-      "last_seen": "2026-08-02",
       "category": "sdk"
     },
     "sdk_visionos_27_beta4_jul20_2026": {
@@ -978,6 +962,22 @@
       "first_reported": "2026-10-27",
       "last_seen": "2026-10-27",
       "category": "sdk"
+    },
+    "www.prnewswire.com/news-releases/xreal-aura-launches-as-the-first-wired-xr-glasses-powered-by-android-xr-302921776.html": {
+      "title": "XREAL AURAが4市場で一般注文を開始、期間限定価格と11月中旬出荷予定を公表",
+      "source_name": "XREAL / PR Newswire",
+      "source_url": "https://www.prnewswire.com/news-releases/xreal-aura-launches-as-the-first-wired-xr-glasses-powered-by-android-xr-302921776.html",
+      "first_reported": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "category": "device"
+    },
+    "www.businesswire.com/news/home/20261027982748/en/": {
+      "title": "Brilliant Labsがオンデバイス処理とオープンソース基盤を掲げるHalo Glassesを発売",
+      "source_name": "Brilliant Labs / Business Wire",
+      "source_url": "https://www.businesswire.com/news/home/20261027982748/en/",
+      "first_reported": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "category": "device"
     }
   }
 }
