@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-10-31",
+  "last_updated": "2026-11-01",
   "last_biweekly": "2026-05-04",
   "items": {
     "www.jb-display.com.cn/newsdetails/81.html": {
@@ -978,6 +978,14 @@
       "first_reported": "2026-10-31",
       "last_seen": "2026-10-31",
       "category": "device"
+    },
+    "support.google.com/product-documentation/answer/14343500": {
+      "title": "Google Play services v26.42がAndroid XRグラスのスマートフォン接続を追加",
+      "source_name": "Google System Services Release Notes",
+      "source_url": "https://support.google.com/product-documentation/answer/14343500?hl=en",
+      "first_reported": "2026-11-01",
+      "last_seen": "2026-11-01",
+      "category": "sdk"
     }
   }
 }
