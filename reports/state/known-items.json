@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-11-01",
+  "last_updated": "2026-11-02",
   "last_biweekly": "2026-05-04",
   "items": {
     "www.jb-display.com.cn/newsdetails/81.html": {
@@ -986,6 +986,14 @@
       "first_reported": "2026-11-01",
       "last_seen": "2026-11-01",
       "category": "sdk"
+    },
+    "wyden.senate.gov/news/press-releases/wyden-and-markey-question-meta-ceo-mark-zuckerberg-over-meta-ai-glasses-privacy-violations-use-of-intimate-images-for-ai-training": {
+      "title": "米上院Wyden・Markey両議員がMetaへAIグラスのプライバシー、機微画像、AI学習利用に関する照会を開始",
+      "source_name": "U.S. Senator Ron Wyden of Oregon",
+      "source_url": "https://www.wyden.senate.gov/news/press-releases/wyden-and-markey-question-meta-ceo-mark-zuckerberg-over-meta-ai-glasses-privacy-violations-use-of-intimate-images-for-ai-training",
+      "first_reported": "2026-11-02",
+      "last_seen": "2026-11-02",
+      "category": "regulation"
     }
   }
 }
