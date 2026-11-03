@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-11-02",
+  "last_updated": "2026-11-03",
   "last_biweekly": "2026-05-04",
   "items": {
     "www.jb-display.com.cn/newsdetails/81.html": {
@@ -994,6 +994,14 @@
       "first_reported": "2026-11-02",
       "last_seen": "2026-11-02",
       "category": "regulation"
+    },
+    "tozostore.com/products/tozo-aivu": {
+      "title": "TOZOがAIVU AIグラスを発売、着色導波路ディスプレイ・45g・端末内視覚処理を訴求",
+      "source_name": "TOZO Official",
+      "source_url": "https://www.tozostore.com/products/tozo-aivu",
+      "first_reported": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "category": "device"
     }
   }
 }
