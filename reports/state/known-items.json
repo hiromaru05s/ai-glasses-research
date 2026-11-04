@@ -1,8 +1,16 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-11-03",
+  "last_updated": "2026-11-04",
   "last_biweekly": "2026-05-04",
   "items": {
+    "sdk_visionos_273_beta_24n5286r_nov3_2026": {
+      "title": "AppleがvisionOS 27.3 beta（24N5286r）を開発者向けに公開",
+      "source_name": "Apple Developer",
+      "source_url": "https://developer.apple.com/news/releases/",
+      "first_reported": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "category": "sdk"
+    },
     "www.jb-display.com.cn/newsdetails/81.html": {
       "title": "RokidがGlasses 2と全彩色MicroLED搭載Rokid Colorを発表",
       "source_name": "JBD",
