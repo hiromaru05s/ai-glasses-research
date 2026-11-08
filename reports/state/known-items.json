@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-11-04",
+  "last_updated": "2026-11-08",
   "last_biweekly": "2026-05-04",
   "items": {
     "sdk_visionos_273_beta_24n5286r_nov3_2026": {
@@ -50,14 +50,6 @@
       "first_reported": "2026-10-23",
       "last_seen": "2026-10-23",
       "category": "sdk"
-    },
-    "device_google_android_xr_intelligent_eyewear_fall_2026": {
-      "title": "Google/SamsungがGemini搭載intelligent eyewear初公開 audio glassesを2026年秋投入予定 Gentle Monster/Warby Parkerデザイン公開",
-      "source_name": "Google Blog / Samsung Newsroom U.K.",
-      "source_url": "https://blog.google/products-and-platforms/platforms/android/android-xr-io-2026/",
-      "first_reported": "2026-06-03",
-      "last_seen": "2026-08-06",
-      "category": "device"
     },
     "partnership_snap_qualcomm_snapdragon_xr_multiyear": {
       "title": "Snap(Specs Inc.)×Qualcomm 複数年Snapdragon XR戦略提携",
@@ -121,14 +113,6 @@
       "source_url": "https://www.meta.com/help/ai-glasses/1809764829519902/",
       "first_reported": "2026-07-04",
       "last_seen": "2026-09-13",
-      "category": "sdk"
-    },
-    "sdk_visionos_27_beta4_jul20_2026": {
-      "title": "AppleがvisionOS 27.0 beta 4 (24M5326g) を開発者向け公開 Vision Pro次期メジャー系の継続検証を前進",
-      "source_name": "Apple Developer",
-      "source_url": "https://developer.apple.com/news/releases/",
-      "first_reported": "2026-07-22",
-      "last_seen": "2026-08-06",
       "category": "sdk"
     },
     "sdk_visionos_27_beta5_aug10_2026": {
@@ -1010,6 +994,22 @@
       "first_reported": "2026-11-03",
       "last_seen": "2026-11-03",
       "category": "device"
+    },
+    "www.sec.gov/Archives/edgar/data/1504776/000150477626000022/warbyparkerincearningsrele.htm": {
+      "title": "Warby Parkerが初のIntelligent Eyewearを11月12日予約開始、年末商戦中の納品予定と開示",
+      "source_name": "Warby Parker / U.S. SEC",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1504776/000150477626000022/warbyparkerincearningsrele.htm",
+      "first_reported": "2026-11-08",
+      "last_seen": "2026-11-08",
+      "category": "device"
+    },
+    "hansard.parliament.uk/Commons/2026-11-04/debates/8bc50f63-1c79-4564-9678-a07abd83160e/WestminsterHall": {
+      "title": "英国政府がスマートグラスの特定環境・対象者への利用・販売制限を検討中と議会答弁",
+      "source_name": "UK Parliament Hansard",
+      "source_url": "https://hansard.parliament.uk/Commons/2026-11-04/debates/8bc50f63-1c79-4564-9678-a07abd83160e/WestminsterHall",
+      "first_reported": "2026-11-08",
+      "last_seen": "2026-11-08",
+      "category": "regulation"
     }
   }
 }
