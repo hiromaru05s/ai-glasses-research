@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-11-11",
+  "last_updated": "2026-11-12",
   "last_biweekly": "2026-05-04",
   "items": {
     "sdk_visionos_273_beta_24n5286r_nov3_2026": {
@@ -1010,6 +1010,22 @@
       "first_reported": "2026-11-08",
       "last_seen": "2026-11-08",
       "category": "regulation"
+    },
+    "developer.apple.com/news/?id=hw7o6vyj": {
+      "title": "AppleがvisionOS 27.3を含むSiri AI開発者プレビューを全開発者へ公開",
+      "source_name": "Apple Developer",
+      "source_url": "https://developer.apple.com/news/?id=hw7o6vyj",
+      "first_reported": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "category": "sdk"
+    },
+    "developer.apple.com/news/releases/?id=11092026e": {
+      "title": "AppleがvisionOS 27.2.1（24N124）を開発者向けに公開",
+      "source_name": "Apple Developer",
+      "source_url": "https://developer.apple.com/news/releases/?id=11092026e",
+      "first_reported": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "category": "sdk"
     }
   }
 }
