@@ -1,8 +1,24 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-11-12",
+  "last_updated": "2026-11-13",
   "last_biweekly": "2026-05-04",
   "items": {
+    "news.samsung.com/global/samsung-announces-december-release-for-intelligent-eyewear-bringing-a-smarter-way-to-see-the-world": {
+      "title": "SamsungがIntelligent Eyewear全ラインアップを発表、米韓で12月10日発売・11月12日予約開始",
+      "source_name": "Samsung Global Newsroom",
+      "source_url": "https://news.samsung.com/global/samsung-announces-december-release-for-intelligent-eyewear-bringing-a-smarter-way-to-see-the-world",
+      "first_reported": "2026-11-13",
+      "last_seen": "2026-11-13",
+      "category": "device"
+    },
+    "www.globenewswire.com/news-release/2026/11/10/3399804/0/en/aroti-introduces-27-gram-r1-ai-ar-glasses-ahead-of-november-16-kickstarter-launch.html": {
+      "title": "AROTIが27g未満・カメラ非搭載のR1 AI+ARグラスを発表、11月16日にKickstarter開始予定",
+      "source_name": "AROTI / GlobeNewswire",
+      "source_url": "https://www.globenewswire.com/news-release/2026/11/10/3399804/0/en/aroti-introduces-27-gram-r1-ai-ar-glasses-ahead-of-november-16-kickstarter-launch.html",
+      "first_reported": "2026-11-13",
+      "last_seen": "2026-11-13",
+      "category": "device"
+    },
     "sdk_visionos_273_beta_24n5286r_nov3_2026": {
       "title": "AppleがvisionOS 27.3 beta（24N5286r）を開発者向けに公開",
       "source_name": "Apple Developer",
