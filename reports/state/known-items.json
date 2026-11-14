@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-11-13",
+  "last_updated": "2026-11-14",
   "last_biweekly": "2026-05-04",
   "items": {
     "news.samsung.com/global/samsung-announces-december-release-for-intelligent-eyewear-bringing-a-smarter-way-to-see-the-world": {
@@ -8,7 +8,7 @@
       "source_name": "Samsung Global Newsroom",
       "source_url": "https://news.samsung.com/global/samsung-announces-december-release-for-intelligent-eyewear-bringing-a-smarter-way-to-see-the-world",
       "first_reported": "2026-11-13",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "category": "device"
     },
     "www.globenewswire.com/news-release/2026/11/10/3399804/0/en/aroti-introduces-27-gram-r1-ai-ar-glasses-ahead-of-november-16-kickstarter-launch.html": {
@@ -976,7 +976,7 @@
       "source_name": "XREAL / PR Newswire",
       "source_url": "https://www.prnewswire.com/news-releases/xreal-aura-launches-as-the-first-wired-xr-glasses-powered-by-android-xr-302921776.html",
       "first_reported": "2026-10-31",
-      "last_seen": "2026-10-31",
+      "last_seen": "2026-11-14",
       "category": "device"
     },
     "www.businesswire.com/news/home/20261027982748/en/": {
@@ -1040,7 +1040,7 @@
       "source_name": "Apple Developer",
       "source_url": "https://developer.apple.com/news/releases/?id=11092026e",
       "first_reported": "2026-11-12",
-      "last_seen": "2026-11-12",
+      "last_seen": "2026-11-14",
       "category": "sdk"
     }
   }
