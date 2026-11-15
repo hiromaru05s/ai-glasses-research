@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-11-14",
+  "last_updated": "2026-11-15",
   "last_biweekly": "2026-05-04",
   "items": {
     "news.samsung.com/global/samsung-announces-december-release-for-intelligent-eyewear-bringing-a-smarter-way-to-see-the-world": {
@@ -1041,6 +1041,14 @@
       "source_url": "https://developer.apple.com/news/releases/?id=11092026e",
       "first_reported": "2026-11-12",
       "last_seen": "2026-11-14",
+      "category": "sdk"
+    },
+    "developer.android.com/blog/posts/build-android-xr-devices-tools": {
+      "title": "GoogleがAndroid XRのコアJetpack XR・エミュレータ・Engine Hubを安定版化し、AURA向け実世界アンカリングを案内",
+      "source_name": "Android Developers Blog",
+      "source_url": "https://developer.android.com/blog/posts/build-android-xr-devices-tools?hl=en",
+      "first_reported": "2026-11-15",
+      "last_seen": "2026-11-15",
       "category": "sdk"
     }
   }
