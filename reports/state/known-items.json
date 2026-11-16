@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-11-15",
+  "last_updated": "2026-11-16",
   "last_biweekly": "2026-05-04",
   "items": {
     "news.samsung.com/global/samsung-announces-december-release-for-intelligent-eyewear-bringing-a-smarter-way-to-see-the-world": {
@@ -8,7 +8,7 @@
       "source_name": "Samsung Global Newsroom",
       "source_url": "https://news.samsung.com/global/samsung-announces-december-release-for-intelligent-eyewear-bringing-a-smarter-way-to-see-the-world",
       "first_reported": "2026-11-13",
-      "last_seen": "2026-11-14",
+      "last_seen": "2026-11-16",
       "category": "device"
     },
     "www.globenewswire.com/news-release/2026/11/10/3399804/0/en/aroti-introduces-27-gram-r1-ai-ar-glasses-ahead-of-november-16-kickstarter-launch.html": {
@@ -1032,7 +1032,7 @@
       "source_name": "Apple Developer",
       "source_url": "https://developer.apple.com/news/?id=hw7o6vyj",
       "first_reported": "2026-11-12",
-      "last_seen": "2026-11-12",
+      "last_seen": "2026-11-16",
       "category": "sdk"
     },
     "developer.apple.com/news/releases/?id=11092026e": {
@@ -1040,7 +1040,7 @@
       "source_name": "Apple Developer",
       "source_url": "https://developer.apple.com/news/releases/?id=11092026e",
       "first_reported": "2026-11-12",
-      "last_seen": "2026-11-14",
+      "last_seen": "2026-11-16",
       "category": "sdk"
     },
     "developer.android.com/blog/posts/build-android-xr-devices-tools": {
@@ -1048,7 +1048,7 @@
       "source_name": "Android Developers Blog",
       "source_url": "https://developer.android.com/blog/posts/build-android-xr-devices-tools?hl=en",
       "first_reported": "2026-11-15",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "category": "sdk"
     }
   }
