@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-11-16",
+  "last_updated": "2026-11-17",
   "last_biweekly": "2026-05-04",
   "items": {
     "news.samsung.com/global/samsung-announces-december-release-for-intelligent-eyewear-bringing-a-smarter-way-to-see-the-world": {
@@ -131,14 +131,6 @@
       "last_seen": "2026-09-13",
       "category": "sdk"
     },
-    "sdk_visionos_27_beta5_aug10_2026": {
-      "title": "AppleがvisionOS 27.0 beta 5 (24M5348b) を開発者向け公開 Vision Pro次期メジャー系の継続検証を前進",
-      "source_name": "Apple Developer",
-      "source_url": "https://developer.apple.com/news/releases/",
-      "first_reported": "2026-08-11",
-      "last_seen": "2026-08-18",
-      "category": "sdk"
-    },
     "sdk_android_xr_security_bulletin_august2026": {
       "title": "Android XR Bulletin August 2026公開 patch level 2026-08-05以降を案内し XR固有の新規セキュリティパッチなし",
       "source_name": "Android Open Source Project",
@@ -210,14 +202,6 @@
       "first_reported": "2026-07-28",
       "last_seen": "2026-08-21",
       "category": "sdk"
-    },
-    "partnership_meta_ai_glasses_impact_grants_jul27_2026": {
-      "title": "MetaがAI Glasses Impact Grants採択先30団体を公表 総額約200万ドル・18州規模で年内のRay-Ban Metaアプリ統合案件を拡大",
-      "source_name": "Meta",
-      "source_url": "https://about.fb.com/news/2026/07/ai-glasses-helping-people-work-learn-live-independently/",
-      "first_reported": "2026-07-28",
-      "last_seen": "2026-08-18",
-      "category": "partnership"
     },
     "device_snap_specs_launch_event_sep16_jul30_2026": {
       "title": "SnapがSPECSの次回公式launch eventを9月16日に設定 秋投入へ向けた次の発表節目を明示",
@@ -1050,6 +1034,14 @@
       "first_reported": "2026-11-15",
       "last_seen": "2026-11-16",
       "category": "sdk"
+    },
+    "en.yna.co.kr/view/AEN20261117003252315": {
+      "title": "韓国政府が大学修学能力試験に向けAIスマートグラスを含むスマート機器の持込禁止と検査強化を発表",
+      "source_name": "Yonhap News Agency",
+      "source_url": "https://en.yna.co.kr/view/AEN20261117003252315",
+      "first_reported": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "category": "regulation"
     }
   }
 }
