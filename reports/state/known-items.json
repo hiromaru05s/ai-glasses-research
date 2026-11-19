@@ -1,8 +1,16 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-11-18",
+  "last_updated": "2026-11-19",
   "last_biweekly": "2026-05-04",
   "items": {
+    "www.techradar.com/computing/virtual-reality-augmented-reality/xreal-aura-wired-android-xr-glasses-review": {
+      "title": "TechRadar実機レビューがXREAL AURAの米加日韓での11月出荷開始を報告",
+      "source_name": "TechRadar",
+      "source_url": "https://www.techradar.com/computing/virtual-reality-augmented-reality/xreal-aura-wired-android-xr-glasses-review",
+      "first_reported": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "category": "device"
+    },
     "news.samsung.com/global/samsung-announces-december-release-for-intelligent-eyewear-bringing-a-smarter-way-to-see-the-world": {
       "title": "SamsungがIntelligent Eyewear全ラインアップを発表、米韓で12月10日発売・11月12日予約開始",
       "source_name": "Samsung Global Newsroom",
