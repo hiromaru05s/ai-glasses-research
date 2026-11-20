@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-11-19",
+  "last_updated": "2026-11-20",
   "last_biweekly": "2026-05-04",
   "items": {
     "www.techradar.com/computing/virtual-reality-augmented-reality/xreal-aura-wired-android-xr-glasses-review": {
@@ -8,7 +8,7 @@
       "source_name": "TechRadar",
       "source_url": "https://www.techradar.com/computing/virtual-reality-augmented-reality/xreal-aura-wired-android-xr-glasses-review",
       "first_reported": "2026-11-19",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "category": "device"
     },
     "news.samsung.com/global/samsung-announces-december-release-for-intelligent-eyewear-bringing-a-smarter-way-to-see-the-world": {
@@ -16,7 +16,7 @@
       "source_name": "Samsung Global Newsroom",
       "source_url": "https://news.samsung.com/global/samsung-announces-december-release-for-intelligent-eyewear-bringing-a-smarter-way-to-see-the-world",
       "first_reported": "2026-11-13",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-20",
       "category": "device"
     },
     "www.globenewswire.com/news-release/2026/11/10/3399804/0/en/aroti-introduces-27-gram-r1-ai-ar-glasses-ahead-of-november-16-kickstarter-launch.html": {
@@ -201,14 +201,6 @@
       "source_url": "https://www.qualcomm.com/news/releases/2026/07/qualcomm-and-samsung-expand-collaboration-with-snapdragon-poweri",
       "first_reported": "2026-07-23",
       "last_seen": "2026-09-05",
-      "category": "sdk"
-    },
-    "sdk_visionos_266_ga_jul27_2026": {
-      "title": "AppleがvisionOS 26.6 (23O770) を正式配信 7月20日のRCと同一buildでVision Pro現行系がGAへ移行",
-      "source_name": "Apple Developer",
-      "source_url": "https://developer.apple.com/news/releases/",
-      "first_reported": "2026-07-28",
-      "last_seen": "2026-08-21",
       "category": "sdk"
     },
     "device_snap_specs_launch_event_sep16_jul30_2026": {
@@ -1050,6 +1042,22 @@
       "first_reported": "2026-11-17",
       "last_seen": "2026-11-17",
       "category": "regulation"
+    },
+    "sdk_meta_ai_glasses_v30_nov11_2026": {
+      "title": "MetaがAIグラスv30で10言語・12地域を追加し、Display向けDevice Access Toolkit SDKを案内",
+      "source_name": "Meta AI Glasses Help",
+      "source_url": "https://www.meta.com/help/ai-glasses/1809764829519902/",
+      "first_reported": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "category": "sdk"
+    },
+    "www.t3.com/tech/vr/apples-ai-smart-glasses-are-reportedly-thinner-and-less-obvious-and-theyre-coming-next-summer": {
+      "title": "Apple AIスマートグラスは薄型化し来夏投入との供給網由来報道（未確認）",
+      "source_name": "T3",
+      "source_url": "https://www.t3.com/tech/vr/apples-ai-smart-glasses-are-reportedly-thinner-and-less-obvious-and-theyre-coming-next-summer",
+      "first_reported": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "category": "device"
     }
   }
 }
