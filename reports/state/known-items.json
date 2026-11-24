@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-11-20",
+  "last_updated": "2026-11-24",
   "last_biweekly": "2026-05-04",
   "items": {
     "www.techradar.com/computing/virtual-reality-augmented-reality/xreal-aura-wired-android-xr-glasses-review": {
@@ -139,14 +139,6 @@
       "last_seen": "2026-09-13",
       "category": "sdk"
     },
-    "sdk_android_xr_security_bulletin_august2026": {
-      "title": "Android XR Bulletin August 2026公開 patch level 2026-08-05以降を案内し XR固有の新規セキュリティパッチなし",
-      "source_name": "Android Open Source Project",
-      "source_url": "https://source.android.com/docs/security/bulletin/xr/2026/2026-08-01",
-      "first_reported": "2026-08-05",
-      "last_seen": "2026-08-22",
-      "category": "sdk"
-    },
     "regulation_meta_ai_glasses_led_tamper_safeguards_jul7_2026": {
       "title": "MetaがAIグラスQ&Aでcapture LED改変検知時のカメラ無効化と改変サービスへの対処方針を明文化",
       "source_name": "Meta Newsroom",
@@ -243,38 +235,6 @@
       "last_seen": "2026-09-06",
       "category": "partnership"
     },
-    "regulation_meta_glasses_england_wales_courts_ban_aug11_2026": {
-      "title": "英England・Walesの裁判所でMetaグラス持ち込み禁止が報道され HMCTS方針として入館時没収・退館時返却運用が示された",
-      "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/technology/2026/aug/11/meta-glasses-banned-from-courts-in-england-and-wales",
-      "first_reported": "2026-08-17",
-      "last_seen": "2026-08-22",
-      "category": "regulation"
-    },
-    "regulation_ukca_cinemas_camera_enabled_glasses_aug20_2026": {
-      "title": "UK Cinema Associationがcamera-enabled smart glassesの館内禁止・制限導入を公表し 英映画館でprivacyとpiracy対策が進行",
-      "source_name": "UK Cinema Association",
-      "source_url": "https://www.cinemauk.org.uk/2026/08/meta-glasses-and-other-wearable-technology/",
-      "first_reported": "2026-08-22",
-      "last_seen": "2026-08-24",
-      "category": "regulation"
-    },
-    "regulation_brazil_idec_coding_rights_meta_glasses_probe_aug20_2026": {
-      "title": "IdecとCoding RightsがRay-Ban Meta販売を巡りANPD・Senacon・MPFへ共同調査要請し ブラジルでprivacyと消費者保護審査を要求",
-      "source_name": "Idec",
-      "source_url": "https://idec.org.br/imprensa/denuncia-oculos-inteligentes-ray-ban-meta-privacidade",
-      "first_reported": "2026-08-22",
-      "last_seen": "2026-08-22",
-      "category": "regulation"
-    },
-    "sdk_visionos_27_beta6_aug17_2026": {
-      "title": "AppleがvisionOS 27.0 beta 6 (24M5355a) を開発者向け公開 Vision Pro次期メジャー系の継続検証を前進",
-      "source_name": "Apple Developer",
-      "source_url": "https://developer.apple.com/news/releases/",
-      "first_reported": "2026-08-18",
-      "last_seen": "2026-08-25",
-      "category": "sdk"
-    },
     "sdk_visionos_2661_aug17_2026": {
       "title": "AppleがvisionOS 26.6.1 (23O780) を公開し Vision Pro現行安定ラインのパッチ更新を継続",
       "source_name": "Apple Developer",
@@ -282,14 +242,6 @@
       "first_reported": "2026-08-18",
       "last_seen": "2026-09-09",
       "category": "sdk"
-    },
-    "market_xreal_aura_10000_reservations_aug20_2026": {
-      "title": "XREALがAURAの予約件数1万突破を公式Xで公表し Android XRグラスの発売前需要が可視化された",
-      "source_name": "XREAL 👓 on X",
-      "source_url": "https://x.com/XREAL_Global/status/2090454319355101352",
-      "first_reported": "2026-08-23",
-      "last_seen": "2026-08-25",
-      "category": "market"
     },
     "sdk_visionos_27_beta7_aug24_2026": {
       "title": "AppleがvisionOS 27.0 beta 7 (24M5359a) を開発者向け公開 Vision Pro次期メジャー系の継続検証を前進",
@@ -1058,6 +1010,14 @@
       "first_reported": "2026-11-20",
       "last_seen": "2026-11-20",
       "category": "device"
+    },
+    "autoriteitpersoonsgegevens.nl/en/current/ap-advises-against-purchasing-ai-camera-glasses-serious-risks-for-users-and-bystanders": {
+      "title": "オランダAPがAIカメラグラスの一般利用について購入見合わせを消費者へ勧告",
+      "source_name": "Autoriteit Persoonsgegevens",
+      "source_url": "https://autoriteitpersoonsgegevens.nl/en/current/ap-advises-against-purchasing-ai-camera-glasses-serious-risks-for-users-and-bystanders",
+      "first_reported": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "category": "regulation"
     }
   }
 }
